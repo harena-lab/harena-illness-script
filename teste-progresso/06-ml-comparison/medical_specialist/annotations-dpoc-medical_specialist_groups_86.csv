@@ -1,0 +1,86 @@
+annotation id,categories ordered
+5d0cf1c5-cccf-4ba4-be36-40eae7026954,pathophysiology:37/6; history:500/2; etiology:595/2; pathophysiology:616/1
+f6a64a03-b43a-4501-8e6d-69853ddd7d0a,pathophysiology:47/7; exams:190/1; therapeutic:355/4
+19118e71-831d-446c-8906-d0aad1255695,pathophysiology:19/7; physical:207/2; etiology:250/4; pathophysiology:363/5
+4e223909-7127-4888-8d5f-2c0e553ab289,etiology:0/6; epidemiology:243/3
+7a3886be-7e7c-4e14-b6cf-072ffe796d6d,physical:15/4; history:38/1; epidemiology:123/2; etiology:123/2; pathophysiology:191/1; physical:238/2; therapeutic:333/2
+f6cb9773-9a81-499c-85c7-3cebe935b930,etiology:0/2; epidemiology:23/2; etiology:48/1; pathophysiology:83/1; epidemiology:83/1; physical:191/6; exams:247/8; physical:379/4; exams:481/5
+a46078b6-d33e-4056-853c-c23440be1baa,history:166/5; exams:166/2; physical:241/3; etiology:309/2; epidemiology:369/2; physical:419/1; exams:419/1; history:496/3; differential:536/1; therapeutic:583/8; history:609/1; therapeutic:762/7
+0e20a132-80f5-433b-9e97-e3886852de51,pathophysiology:73/3; epidemiology:104/1; etiology:104/1; pathophysiology:131/1; physical:331/2; pathophysiology:393/1; history:411/6
+d3c14727-6e53-4d59-8a31-0d41d5489540,physical:23/8; history:50/2; exams:111/3; pathophysiology:222/5; history:222/1; epidemiology:276/1; pathophysiology:304/2; exams:392/2; physical:462/1; therapeutic:515/2; pathophysiology:543/2; therapeutic:657/1
+e4b58dec-68d1-4cee-a8ab-e30d7ea340e0,epidemiology:0/2; physical:34/2; epidemiology:62/1; history:100/13; pathophysiology:129/2; exams:169/2; history:248/8; pathophysiology:451/1; therapeutic:586/7
+07cac9ed-94fb-40d8-9f47-46d9a7acdfc4,pathophysiology:9/2; history:81/2; pathophysiology:117/1; history:171/1
+7838ac87-32bf-4319-a010-13443b237233,epidemiology:59/1; history:150/3; physical:216/2
+15b3615e-7845-4c19-bfd6-42ab430b1f62,epidemiology:0/4; pathophysiology:112/3; exams:240/3; history:331/3; therapeutic:474/11
+8b60b109-15db-4ba0-a458-4b8d2cd12e17,pathophysiology:41/1; therapeutic:94/1; epidemiology:137/1
+89d73204-a6de-438c-8fef-92f829bb1a49,pathophysiology:70/1; therapeutic:100/1; history:179/2; physical:239/4; epidemiology:405/2
+e7a228bd-21df-4962-9d6c-3348faa7b3f4,exams:126/1; differential:126/1; epidemiology:237/3; physical:430/2; history:503/11; therapeutic:638/7; pathophysiology:827/1; history:827/4
+245e5c3e-780b-42bb-a425-4e50610657b7,pathophysiology:29/5; etiology:120/2; pathophysiology:143/1; history:213/3; therapeutic:266/3; history:322/1; pathophysiology:438/1; therapeutic:524/2
+dc680cf6-0bb8-4cd4-b090-36b51ea9ef2f,pathophysiology:30/1; etiology:30/4; physical:214/2; exams:241/3; differential:280/1; exams:302/2; history:317/1; therapeutic:341/4
+0301660c-f987-4be4-898e-7a45e3bb5a8c,epidemiology:42/2; history:119/2; pathophysiology:130/1; therapeutic:189/2
+0b038ba5-0369-4b28-adae-b158371edf18,epidemiology:67/1; etiology:67/1; history:123/3; therapeutic:191/5; history:302/1; pathophysiology:341/2; therapeutic:413/4
+2e0296a8-2206-4433-9fb5-d03492538af8,epidemiology:314/2; etiology:314/1; history:549/1
+b579bbdc-4d6f-4520-865a-1d8ef675d364,pathophysiology:53/2; history:137/1
+d01e1ad5-30c2-4331-aa4d-82a039818e2a,pathophysiology:49/3; therapeutic:143/1
+6ba9f943-2cc3-4b47-9e65-ffaa53d68b91,pathophysiology:44/4; physical:97/1; epidemiology:190/1; therapeutic:284/1; pathophysiology:343/2
+3096b0af-9599-4bac-b786-3589e6195a23,pathophysiology:46/6; physical:189/2; pathophysiology:252/4; history:381/3; therapeutic:435/2
+c9fe3e7a-1ac6-4266-834a-c7c571033170,pathophysiology:22/2; epidemiology:141/2; etiology:156/1; history:192/3; physical:258/3
+5aec542f-5492-4c2e-ba5e-76b6d21e33fe,epidemiology:68/3; etiology:68/2; pathophysiology:133/6; physical:322/1; exams:338/1; pathophysiology:370/1; history:407/9; pathophysiology:544/1; therapeutic:613/11; history:625/6; therapeutic:933/10
+0a1c31b2-e24c-40a4-84d3-6f115d1b7a89,pathophysiology:41/1; exams:129/3; therapeutic:250/3
+b33b357b-6a64-4403-bee9-920c03ae0afb,pathophysiology:55/2; epidemiology:122/3; history:238/4; physical:260/1; therapeutic:277/3; history:339/2; exams:445/2; therapeutic:540/2
+e7fe72ea-6d60-4b77-996d-e35badcc6b22,therapeutic:60/1; pathophysiology:71/2; history:102/1
+9a2118f8-428d-48ee-a3ef-b77f7509478e,epidemiology:6/3; history:60/5; pathophysiology:71/7; physical:138/2; pathophysiology:149/3; physical:205/1; pathophysiology:215/2; epidemiology:255/2; history:336/4; exams:373/1; pathophysiology:429/1; therapeutic:429/1
+6aaa3f05-44b4-4080-8308-878e85ae29d5,physical:78/2; pathophysiology:122/2; epidemiology:228/2; etiology:228/2
+1e8c7cc9-5975-4943-8c6b-9f78f8e59766,pathophysiology:54/3; epidemiology:275/2; physical:326/5; history:569/1; physical:598/3
+5fcae54f-e47a-4171-8cf0-a963a8f393cc,pathophysiology:12/2
+4b627188-94a3-4c2e-83e3-69d7002b6ce9,pathophysiology:11/5; etiology:79/2; pathophysiology:154/4; epidemiology:333/1
+96bf432e-dffe-4691-967b-2ef3b9bec499,pathophysiology:28/3
+b450f731-74d3-4b76-b332-b235a85c7c37,pathophysiology:27/4; etiology:258/1; physical:363/2; therapeutic:582/1
+fe882567-7326-4c3d-938e-ba03759cecc0,pathophysiology:9/3
+76946666-fca1-49ac-aef1-23d6bea602bd,pathophysiology:138/2; history:188/1
+67646e38-d1e5-453e-af1f-3be5a6c56da2,epidemiology:41/1; pathophysiology:73/2; history:264/2; therapeutic:309/1; history:487/1; pathophysiology:503/1
+937d6441-6436-40d5-9e0c-38d5c51c74be,pathophysiology:43/2; physical:133/7; epidemiology:202/4; etiology:253/1; pathophysiology:333/1; physical:333/2; history:467/4; physical:507/3; history:544/1; physical:555/1; therapeutic:589/2
+fbbe1f75-6c74-4fe2-bbe2-d10ac5f49ea9,etiology:37/1; epidemiology:104/2; exams:179/1; physical:259/5; pathophysiology:347/1; physical:394/3; therapeutic:394/3
+f45a9db7-ee0e-4790-b6be-1870657cb025,pathophysiology:65/5; epidemiology:304/1; etiology:304/1; physical:347/3
+9c1f5f5f-5092-413a-9f9c-cdbd9648c220,epidemiology:39/1; physical:99/1; history:124/3; pathophysiology:158/1; history:212/2
+93a9745c-5bd4-469d-a10f-f425377f2e47,epidemiology:0/3; physical:71/3; history:141/2; exams:180/5; therapeutic:315/1
+278ba52d-35ca-456b-bb03-1e7b2ea16066,pathophysiology:30/1; physical:110/5; history:164/3; physical:228/3; epidemiology:345/3; physical:539/1; exams:539/1
+77c4759b-29f6-4c76-8304-9f5b186d28d1,pathophysiology:15/5; etiology:109/1; epidemiology:191/5; exams:377/2; history:472/3; physical:497/2
+fa1047a0-3103-41f7-82d4-3dbf1d8ac5fb,epidemiology:29/1; etiology:29/1; pathophysiology:89/1; physical:148/4
+2de05536-d5c7-4e4d-b356-1d133084b6cc,exams:49/2; physical:142/1
+b9e2cb64-2ca6-4168-b77b-10823f5aacac,epidemiology:5/2; physical:123/5; history:165/3; physical:195/3; pathophysiology:234/2; therapeutic:340/1; exams:368/4
+0e9fb6a5-f181-42ea-ac89-33edc8a66705,pathophysiology:8/8; etiology:74/2; epidemiology:422/1; history:467/4
+83ffe2ba-03ef-4eec-b8c6-571aca233442,epidemiology:37/3; etiology:65/2; pathophysiology:148/6; epidemiology:249/1; physical:345/1; pathophysiology:450/3; therapeutic:616/2
+a8a3ccea-ed1e-405c-9a9a-4c8ac2de3501,epidemiology:37/1; therapeutic:50/1; pathophysiology:96/4
+e4191cb6-be1b-459c-98dc-748f10d8c130,physical:23/2; pathophysiology:38/2; epidemiology:102/2; etiology:187/3; exams:310/2; therapeutic:524/5; pathophysiology:575/1; history:575/3; physical:677/1; therapeutic:697/3
+9b249145-b5cd-4191-90ab-0f1afa76c66a,pathophysiology:31/4; physical:165/2; epidemiology:238/2; pathophysiology:328/1; history:370/1; exams:370/7; therapeutic:643/6
+c040ea61-80b5-40ab-bcca-1bce9788d555,epidemiology:57/1; history:102/2; physical:102/9; pathophysiology:214/5; history:241/1; pathophysiology:248/3; physical:248/5; exams:510/3; therapeutic:601/2
+c2d8bdf6-6211-4efd-afd7-e2313be4c46c,etiology:0/1; physical:86/6; pathophysiology:141/5; physical:402/2; epidemiology:463/3; history:463/4; physical:508/2; history:543/1; exams:581/2; pathophysiology:642/2; therapeutic:642/3
+2cc7b159-ab1c-4aac-b53b-c7f143698e6c,pathophysiology:12/7; epidemiology:82/1; etiology:82/3; pathophysiology:184/4; history:333/3; exams:417/2; therapeutic:483/3
+4bde6f8b-2da2-41b0-b681-b2c4589d182a,epidemiology:59/2; etiology:94/1; history:157/2; physical:169/3; history:202/1; physical:264/2; exams:394/4; therapeutic:544/3
+430af42a-b091-4e4f-a434-c690c145da41,physical:30/2; epidemiology:69/1; pathophysiology:116/1; exams:196/3; therapeutic:319/3
+7d2695f0-f932-4e82-9997-537014b9b3da,pathophysiology:27/1; history:78/4; etiology:150/2; epidemiology:178/2; therapeutic:253/2
+796b97c6-3be4-4aed-ade8-7ad7499ad4ee,history:61/5; pathophysiology:103/4; etiology:176/2; epidemiology:243/2; exams:308/2; pathophysiology:420/1; epidemiology:420/1; therapeutic:502/5; pathophysiology:693/1; history:693/1
+75738707-86eb-4f18-a5d3-ce1d3190f2f7,etiology:62/1; epidemiology:101/1; history:204/2; physical:296/1; therapeutic:351/4; exams:408/5; therapeutic:568/3
+4a922ef2-faa8-475b-aca4-c6a0d5fbdd4a,epidemiology:25/1; physical:112/3; history:165/4; physical:175/1; history:192/3; physical:292/1; exams:418/2; physical:455/1; exams:548/1
+3c0e6e3a-59f8-4c1d-96fd-4ac6d77afe73,pathophysiology:42/3; etiology:143/1; epidemiology:201/1; physical:273/2; exams:354/3; history:433/6
+10538911-3265-4356-8735-3d53d9fad786,epidemiology:104/2; etiology:119/1; pathophysiology:199/6; therapeutic:324/7
+7f75c62d-f22a-47f8-90db-9ca31deea65e,pathophysiology:56/2
+b6acc0c8-e9e0-45e1-a83b-80149f4ed4fc,epidemiology:2/1; pathophysiology:73/4; history:153/2; pathophysiology:206/3; exams:206/1; therapeutic:243/2
+3e663aa5-b913-4115-a0ad-38c8f3e24cae,pathophysiology:42/6; epidemiology:199/2; exams:258/3; pathophysiology:407/3; history:407/2; therapeutic:532/3
+4c9cfb0e-2558-4713-961b-d30dc6df6212,pathophysiology:59/3; epidemiology:161/7; pathophysiology:357/1; history:430/3; therapeutic:540/1
+eada2b57-95a6-4860-89a4-83cc3ea16476,exams:34/6; physical:142/2; epidemiology:202/3; etiology:202/2; history:309/1; therapeutic:309/2; pathophysiology:555/1; exams:555/3
+9be4e8ed-e9b1-409a-b915-f68ad7441b97,pathophysiology:84/1; epidemiology:136/2; etiology:136/2; history:202/3; exams:320/1; therapeutic:339/6
+c928e62f-b2c8-4ca1-92a9-e57a4ce5aeb3,therapeutic:33/4; epidemiology:102/1; therapeutic:131/3; pathophysiology:188/1; history:188/4
+61d9af8b-1d37-44da-aeb0-a94514cc482d,pathophysiology:40/4; exams:74/5; epidemiology:154/2; physical:249/2; pathophysiology:314/1; epidemiology:337/1; pathophysiology:401/2; history:401/2; therapeutic:468/9; history:570/1; therapeutic:743/5; exams:954/3
+4c072a15-2f4d-4b14-a9d3-8108538c1fcd,pathophysiology:96/3; exams:178/4; epidemiology:296/2; history:349/4; pathophysiology:406/1; epidemiology:406/1; therapeutic:467/4
+0a588b41-ad55-45e8-87d3-943d00876e2f,pathophysiology:34/2; epidemiology:65/3; etiology:65/2; pathophysiology:149/1; therapeutic:149/3; history:258/2
+162ee8ad-a0dd-4783-9a95-33215a62d027,pathophysiology:68/4; epidemiology:153/6; exams:295/3; history:401/5; epidemiology:510/1; exams:546/1; physical:565/1; therapeutic:634/5; pathophysiology:745/1; epidemiology:745/2; history:855/1; pathophysiology:931/1
+c1aee042-e003-4833-88a3-4d12ad40525c,pathophysiology:22/10; physical:70/1; exams:247/4; therapeutic:521/2
+11c98f4e-a92b-42a7-88e0-6fe3c0b85ec6,pathophysiology:0/3; epidemiology:110/3; etiology:110/3; history:218/3; exams:245/2; therapeutic:306/7
+576802b7-d8ca-4306-895c-81237eb5137b,epidemiology:60/6; history:277/5; physical:318/1; exams:358/3; therapeutic:412/3; pathophysiology:538/1; epidemiology:538/1; history:638/2
+c8ba1149-d886-4d95-8b84-54c876c72b81,etiology:14/1; epidemiology:32/1; physical:54/3; history:94/3; physical:212/1; therapeutic:274/7
+1bd4b46b-f67c-476f-854c-dbbf52c3d84a,pathophysiology:0/2; etiology:28/1; pathophysiology:136/1
+5b1afde6-ce94-498b-b9da-9e8725164cd0,pathophysiology:11/4; epidemiology:97/3; etiology:97/2; exams:191/3; history:247/2; therapeutic:279/10; pathophysiology:539/1; history:539/1; differential:539/1; therapeutic:621/2
+e41153d7-04c2-4b11-9429-2c25963ee325,epidemiology:55/1; exams:175/2; differential:175/2; history:349/4; pathophysiology:382/1; therapeutic:541/1
+1714a357-d53b-48c2-9226-aed4edf7d68b,pathophysiology:28/6; epidemiology:28/1; physical:318/1; exams:387/2; differential:434/1

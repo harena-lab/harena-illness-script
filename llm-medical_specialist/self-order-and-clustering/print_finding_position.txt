@@ -1,0 +1,1264 @@
+A DPOC E CARACTERIZADA POR UM BLOQUEIO DO AR NOS PULMOES. PODE OCORRER POR BRONQUITE OU PELO CHAMADO ENFISEMA. CARACTERIZADA POR DISPNEIA, PRESENCA DE SIBILOS, RONSCOS E ESTERTORES A AUSCULTA, TOSSE.
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica (DPOC) e uma doenca pulmonar diagnosticada por espirometria.
+Os principais fatores de risco sao tabagismo, exposicao a fumaca de lenha e outras substancias.
+As manifestacoes da DPOC incluem dispneia, tosse, aumento de hemoglobina compensatoria.
+O tratamento inclui cessacao de tabagismo e demais substancias contribuintes e medicamentos inalatorios para melhora dos sintomas (anti-adrenergico, anti-leucotrieno, corticoide). Oxigenoterapia pode ser necessaria. O alvo de saturacao de O2 em pacientes com DPOC e 88-92%, menor que o habitual porque estes pacientes apresentam hipoxia cronica. Uma das complicacoes do DPOC sao as exacerbacoes, geralmente causadas por infeccao bacteriana, sendo necessaria antibioticoterapia.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca pulmonar fibrotica, cujos principasi sintomas sao dispneia, cansaco, tosse produtiva.
+Os fatores de risco sao tabagismo, historico familiar
+Ao exame fisico pulmonar os pacientes podem apresentar ausculta com estertor crepitante, ronco, uso de musculatura acessoria, baqueteamento digital , etc
+
+('start pos not found', 'dpoc')
+DPOC e diagnosticada mediante alteracoes na espirometria:
+
+VEF1  com poucas exacerbacoes ( quando necessario
+ com poucas exacerbacoes, mas com sintomas (>2 na escala de dispneia - dificuldade para andar no mesmo ritmo que pessoas da mesma idade por  e/ou LAMA
+ com bastantes exacerbacoes, mas pouco 
+ com bastantes exacerbacoes e bastante 
+
+
+('start pos not found', 'dpoc')
+DPOC ou doenca pulmonar obstrutiva cronica e uma injuria pulmonar cronica, geralmente muito associada a tabagismo, mas pode inclusive ser idiotpatica.Dentre seus mecanismos fisiopatologicos, estao a inflamacao cronica do parenquima pulmonar, mecanismos de fibrose ate retencao de CO2 e hiperinsuflacao pulmonar. Esta doenca nao possui cura, mas pode ser controlada. As medidas terapeuticas nao farmacologicas mais importantes sao parar o tabagismo e controlar possiveis comorbidades associadas. Entre as medidas farmacologicas estao o uso de broncodilatadores (beta-2 agonistas tanto os de longa quanto de curta duracao) alem de glicocorticosteroides inalatorios.
+('start pos not found', 'dpoc')
+DPOC ou doenca pulmonar obstrutiva cronica e uma injuria pulmonar cronica, geralmente muito associada a tabagismo, mas pode inclusive ser idiotpatica.Dentre seus mecanismos fisiopatologicos, estao a inflamacao cronica do parenquima pulmonar, mecanismos de fibrose ate retencao de CO2 e hiperinsuflacao pulmonar. Esta doenca nao possui cura, mas pode ser controlada. As medidas terapeuticas nao farmacologicas mais importantes sao parar o tabagismo e controlar possiveis comorbidades associadas. Entre as medidas farmacologicas estao o uso de broncodilatadores (beta-2 agonistas tanto os de longa quanto de curta duracao) alem de glicocorticosteroides inalatorios.
+('start pos not found', 'dpoc')
+as DPOCS sao caracterizadas por comprometimento anatomico e/ou funcional do pulmao. Normalmente estao associadas a habitos previos como tabagismo e a exposicao a poluentes, etc.
+A suspeita e levantada de acordo com a clinica do paciente e o diagnostico pode se basear em exames de imagem, mas o padrao-ouro e a espirometria, realizada com e sem uso do broncodilatador, a fim de avaliar a capacidade respiratoria do individuo.
+O tratamento com broncodilatadores pode apresentar melhora significativa, mas a DPOC e uma doenca que tende a piorar com o passar dos anos, exigindo oxigenoterapia e levando aos dois fenotipos caracteristicos da doenca: blue boater por conta da cianose e pink puffer por conta da perfusao aument
+
+('start pos not found', 'dpocs')
+Doenca pulmonar obstrutiva cronica se refere a condicoes em que o paciente tem alteracoes nos seus pulmoes que impedem a saida adequada de ar, resultando em uma troca gasosa menos efetiva. Podemos referenciar principalmente enfisema pulmonar e bronquite cronica. A asma, apesar de muitas vezes ser incluida como DPOC, nao e, pois ela e reversivel com broncodilatador na maioria das vezes, o que nao ocorre nas DPOC.
+Quando o paciente apresenta enfisema podemos notar um torax mais alargado no sentido antero posterior e um aumento na area pulmonar na radiografia de torax. Normalmente esta associado com pacientes tabagistas de longa data, muitos alveolos acabam se juntando e isso diminui a superficie de troca.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+DPOC e um grupo de doencas pulmonares que acarreta na diminuicao do fluxo de ar por inflamacao do trato respiratorio em resposta a alguma inflamacao causada pelo ambiente, como fumaca de cigarro, toxinas, poluicao. Ela envolve bronquite cronica e enfisema pulmonar. Dos sinais e sintomas, o paciente pode apresentar tosse produtiva, dispneia relacionada ou nao aos esforcos. Podem ser observados sibilos, torax em barril, uso de musculatura acessoria, cianose. O diagnostico pode ser feito utilizando Rx e teste de funcao pulmonar. O tratamento se da com parada do tabagismo, uso de broncodilatores e ate oxigenoterapia
+('start pos not found', 'dpoc')
+indice de Tifennau &lt; 0,7
+Tosse, dispneia, secrecao, sibilancia.
+Carrga taabica. Perfil bronquitico e enfisematoso.
+Tratamento: tiotropio e/ou corticoides inalatorios.
+O2 domicilar:
+Descompensacao: ATB, bet 2 agonistas, corticoide sistemico e
+
+('start pos not found', 'indice de tifennau &lt; 0,7')
+Doenca que dificulta o fluxo de ar nos pulmoes, causando danos irreversiveis.
+('start pos not found', 'doenca que dificulta o fluxo de ar nos pulmoes,')
+DPOC e uma doenca que cursa com obstrucao irreversivel das VA inferiores, enfisema pulmonar e bronquite. Tem como principal causa o tabagismo. Cursa clinicamente com tosse seca ou com leve expectoracao hialina que inicia na quinta decada de vida, evoluindo com dispneia ao longo da sexta decada de vida classicamente. Podem ser percebidos tambem sinais de hiperinsuflacao pulmonar. A doenca e classificada de acordo com o grau de obstrucao a espirometria em estagios I, II, III e IV, porem, o que define o tipo de tratamento e o numero de exacerbacoes no ultimo ano (e sua gravidade), alem do impacto da doenca na qualidade de vida e na producao de sintomas como dispneia. A prinicipal droga utilizada e o broncodilatador (LAMA).
+('start pos not found', 'dpoc')
+Obstrucao da passagem de ar, geralmente relacionada ao tabagismo, paciente apresenta falta de ar ao esforco, tosse com secrecao que piora pela manha, na ausculta ha presenca de sibilos
+('start pos not found', 'obstrucao da passagem de ar,')
+A DPOC e uma classificacao que inclui a bronquite cronica e o enfisema pulmonar. No caso de bronquite, ha processo inflamatorio e uma elevada producao de muco, o que acarreta em tosse produtiva. Ja no caso do enfisema, ha destruicao de alveolos, dificultando a hematose. O maior fator de risco para a DPOC e o tabagismo. Ela gera lesoes irreverssiveis ao parenquima pulmonar e clinicamente e percebida por tosse produtiva cronica, sibilos e dipneia.
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica e um grupo de doencas que impedem o que o ar entre livremente nos pulmoes e dificultam a respiracao.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+A DPOC e uma doenca pulmonar de carater obstrutivo, com diminuicao do calibre das vias aereas por onde o ar passa durante a respiracao. Nela, corre dificuldade de expelir o gas carbonico presente no organismo, estando este sempre retido em certa quantidade, fazendo com que a saturacao de oxigenio seja menor do que na populacao sem a doenca. O principal fator de risco para a DPOC e o tabagismo. O individuo portador da doenca pode apresentar dispneia, tosse seca, sibilos e roncos a ausculta. O tratamento da doenca e realizado com beta-agonistas inalatorios. O padrao da radiografia e a presenca de enfisema.
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e a obstrucao da passagem de ar pelos pulmoes provocada geralmente pela fumaca do cigarro ou de outros compostos nocivos. A doenca se instala depois que ha um quadro persistente de bronquite ou enfisema pulmonar. Os sintomas incluem falta de ar, sibilos ou tosse cronica. Inaladores de resgate e esteroides inalados ou orais podem ajudar a controlar os sintomas e minimizar danos maiores.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC tem como fator de risco tabagismo. Achados em exame fisico sao torax em tonel/barril, baqueteamento digital, cianose periferica. Ausculta fica com murmurios vesiculares diminuidos e pode ter estertores difusos.
+Sintomas temos dispneia, tosse.
+E mais comum em pacientes idosos.
+Para tratar podemos usar medicacoes via oral e inalatoria. O salbutamol e uma opcao terapeutica. Importante tambem cessar o tabagismo para o nao progresso da condicao. Nao ha cura pois e uma condicao cronica.
+
+('start pos not found', 'dpoc')
+Na DPOC ocorre limitacao do fluxo aereo geralmente progressiva e nao plenamente reversivel. Esta associada a resposta inflamatoria anormal do pulmao a particulas e agentes nocivos. Inicia-se apos os 40 anos de idade, sendo mais prevalentes em tabagistas cronicos, sexo masculino e individuos com exposicao a fumaca. O diagnostico e feito com a historia clinica, exame fisico e espirometria, podendo ser realizado radiografia de torax. Os principais sinais e sintomas sao: tosse cronica, dispneia, sibilos, murmurio vesicular diminuido.
+('start pos not found', 'dpoc')
+DPOC e uma doneca cronica em que ha enfisemia pulmonar. Geralmente ocorre em fumantes ou pessoas que trabalham em fogao a lenha, expostas cronicamente a fumaca(irritante). E uma afeccao pulmonar restritiva, com acumulo CO2 nos pulmoes. O paciente costuma ter dispneia, tosse. Na inspecao geral, observa-se torax em barril e sibilos na ausculta. No RX encontra-se um pulmao aumentado e mais escuro. Nao responde a broncodilatador no teste respiratorio.
+('start pos not found', 'dpoc')
+A Doenca Pulmonar Obstrutiva Cronica e comum em tabagistas, pode ser caracterizada pelo estigma de torax em tonel. Gera uma dificuldade respiratoria devido a obstrucao das vias aereas. Outros sintomas comuns sao tosse seca ou produtiva.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+A Doenca Pulmonar Obstrutiva Cronica e comum em tabagistas, pode ser caracterizada pelo estigma de torax em tonel. Gera uma dificuldade respiratoria devido a obstrucao das vias aereas. Outros sintomas comuns sao tosse seca ou produtiva.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+A DPOC e uma doenca que ocorre por exposicao prolongada a agentes agressores do tecido pulmonar, como o tabagismo. A alteracao do epitelio e a obstrucao das vias aereas leva a um quadro que pode se aproximar da bronquite cronica ou do enfisema pulmonar, a depender do individuo. Os sintomas sao de dispneia, fadiga, intolerancia ao exercicio, que se agravam com a idade e com a carga de exposicao ao agente. Complicacoes cardiacas podem ocorrer por causa da DPOC.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que ocorre por exposicao prolongada a agentes agressores do tecido pulmonar, como o tabagismo. A alteracao do epitelio e a obstrucao das vias aereas leva a um quadro que pode se aproximar da bronquite cronica ou do enfisema pulmonar, a depender do individuo. Os sintomas sao de dispneia, fadiga, intolerancia ao exercicio, que se agravam com a idade e com a carga de exposicao ao agente. Complicacoes cardiacas podem ocorrer por causa da DPOC.
+('start pos not found', 'dpoc')
+DPOC e um grupo de doencas que obstruem o fluxo a respiracao, devido a lesoes no parenquima pulmonar, que sao irreversiveis.
+Dentre as doencas que englobam, temos o perfil Enfisematoso e o perfil Bronquitico.
+Fatores de risco podem ser o tabagismo de longa data, que na maioria das vezes caracteriza o perfil enfisematoso, ou a bronquite cronica, do perfil bronquitico.
+Podemos classificar sua gravidade de acordo com Gold, medida a partir da espirometria, que avalia fluxo respiratorio, de acordo com o volume expirado final
+
+Sendo Gold A: leve VEF1&gt;80%
+Gold B: moderada VEF1&lt;80%
+Gold C: grave VEF1&lt;50%
+Gold D: muito grave VEF1&lt;30
+
+O tratamento varia de acordo com essa classificacao, sendo usados beta agonistas como salbutamol, anticolinergicos e em caso de exarcebacoes, corticoides inalatorios ou ATB
+
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva e uma pneumopatia estrutural definida pela limitacao do fluxo aereo apos exposicao a gases e particulas nocivas, com duas classificacoes clinicas - Bronquite cronica obstrutiva e o Enfisema Pulmonar. Seu diagnostico ocorre apos a realizacao de espirometria diagnostica que demonstre obstrucao VEF1 / CVF &lt; 0
+('start pos not found', 'doenca pulmonar obstrutiva')
+A doenca pulmonar obstrutiva cronica (DPOC) e uma entidade clinica caracterizada por disturbio ventilatorio de natureza primariamente obstrutiva, podendo ter ou nao componente restritivo, cujas principais manifestacoes clinicas sao a dispneia, dessaturacao e hipercapnia.
+A DPOC esta intimamente ligada a carga tabagica e ao tabagismo em geral, sendo um agravo de saude com grande magnitude e morbimortalidade, dada a alta prevalencia do tabagismo, especialmente em paises ocidentais.
+O diagnostico passa por exame fisico, no qual as principais alteracoes sao torax em tonel e auscuta diminuida globalmente, prova de funcao pulmonar com bronco dilatador, e exames laboratoriais, sendo a gasometria arterial o mais comum.
+A prevencao primaria da DPOC passa pela diminuicao do tabagismo e dos programas relacionados a essa meta. A nivel secundario e terciario, a prevencao de pneumonias complicadas tem grande importancia.
+Paciente frequentemente necessitam de corticoterapia
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca pulmonar cronica causada pela inalacao prolongada de fumacas, principalmente tabagismo e forno a lenha.
+A saturacao desses pacientes e menor que da populacao sem a doenca, em torno de 88%
+Sintomas comuns sao dispneia
+No exame fisico: estertores, torax em tonel, expansibilidade reduzida e fremito reduzido
+
+('start pos not found', 'dpoc')
+A DPOC e a provocada classica de pacientes fumantes de longa data, ocorre uma limitacao importante do fluxo aereo pulmonar e perda da elasticidade pulmonar. E uma doenca que afeta mais homens do que mulheres. O tratamento da DPOC e realizado com broncodilatadores, reabilitacao pulmonar, oxigenio e mudanca do estilo de vida principalmente. Ja c
+('start pos not found', 'dpoc')
+A DPOC e a provocada classica de pacientes fumantes de longa data, ocorre uma limitacao importante do fluxo aereo pulmonar e perda da elasticidade pulmonar. E uma doenca que afeta mais homens do que mulheres. O tratamento da DPOC e realizado com broncodilatadores, reabilitacao pulmonar, oxigenio e mudanca do estilo de vida principalmente. Ja c
+('start pos not found', 'dpoc')
+Doencca que afeta os pulmoes por conta de exposicao a fatores de risco, como cigarro e fogao a lenha,
+esta relacionada diretamente quanto ao carga do FR
+Tem quadro de piora progressiva
+tem controle dificil
+e uma doenca mais relacionada com pessoas mais velhas, as vezes esta concomitante com Asma, o que pode ter um diagnostico puramente clinico
+nao e reversivel
+mata
+piora quando as pessoas tem crises, como pneumonias e infeccoes, e nao tendem a voltar o plato de apice apos essas crises
+Por conta do etilo de vida esta mais relacionada com homens
+tem base de tratamento com corticoides e dilatarores e futuramente oxigenio
+faz modificacoes corporais como torax em tonel
+
+('start pos not found', 'doencca que afeta os pulmoes')
+A Doenca pulmonar ostrturiva cronica e uma doenca de carater progressivo. O principal fator de risco para desenvolve-la e o tabagismo. A sua fisiopatologia esta relacionado com a dificuladade dos alveolos pulmonares em realizarem a troca gasosa, devido ao fato de eles perderem a sua elasticidade. Alem disso, pode ser notar o aumento do anteropostior do torax de pessoas que possuem essa doenca. Ademais, com a piora da doenca nota-se dispneia ao minimo esforcos decorrentes da troca gasosa insuficiente.
+('start pos not found', 'doenca pulmonar ostrturiva cronica')
+A Doenca pulmonar ostrturiva cronica e uma doenca de carater progressivo. O principal fator de risco para desenvolve-la e o tabagismo. A sua fisiopatologia esta relacionado com a dificuladade dos alveolos pulmonares em realizarem a troca gasosa, devido ao fato de eles perderem a sua elasticidade. Alem disso, pode ser notar o aumento do anteropostior do torax de pessoas que possuem essa doenca. Ademais, com a piora da doenca nota-se dispneia ao minimo esforcos decorrentes da troca gasosa insuficiente.
+('start pos not found', 'doenca pulmonar ostrturiva cronica')
+Fatores de Risco:
+
+Tabagismo
+Fogao de lenha
+Poluicao
+
+Sinais e sintomas:
+
+Reducao do murmurio vesicular
+Torax em tonel
+Percussao hipertimpanica
+Dificuldade respiratoria
+Tosse
+
+Exames:
+
+RX: alargamento dos espacos intercostais e parenquima pulmonar hiperdensa
+Espirometria: nao ha melhora com broncodilatador
+
+Tratamento:
+
+Reabilitacao pulmonar
+
+
+('start pos not found', 'tabagismo')
+DPOC cursa com enfisema (destruicao dos septos intra alveolares) e bronquite (inflamacao dos bronquios)
+pode evoluir para insuficiencia cardiaca esquerda e direita
+o tratamento mais efetivo atualmente nao esta disponivel no SUS e e bem caro
+tabagismo e um dos principais fatores de risco
+dentre os principais sintomas estao falta de ar, dispneia, tosse e cansaco aos pequenos e moderados esforcos
+pode necessitar de suporte com O2
+em estagios avancados, pode apresentar torax em barril, com aumento dos diAmetros AP e LL
+como doenca de base, e fator de risco para o desenvolvimento de outras doencas
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca principalmente associada ao tabagismo, que acomete pessoas com elevadas cargas tabagicas, nela as susbtancias nocivas de determinados compostos obstruem a passagem do ar ao longo do tempo, causando sintomas como dispneia, tosse e fadiga.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca principalmente associada ao tabagismo, que acomete pessoas com elevadas cargas tabagicas, nela as susbtancias nocivas de determinados compostos obstruem a passagem do ar ao longo do tempo, causando sintomas como dispneia, tosse e fadiga.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca pulmonar altamente prevalente mundialmente fortemente correlacionada com o fumo de tabaco. E uma doenca com carater obstrutiva, pela perda inflamacao cronica e dano causados pelo tabagismo. Tem um componente de bronquite e um de&nbsp; perda da estrutura alveolar. Diferentemente da asma, nao apresenta reversibilidade com o uso de agonistas alfa-adrenergicos na espirometria, sendo essa a tecnica para seu diagnostico. E uma doenca de manejo cronico, como avaliacao das exacerbacoes anuais para guiar o tratamento, ja que estas estao fortemente associados a morbimortalidade.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca pulmonar altamente prevalente mundialmente fortemente correlacionada com o fumo de tabaco. E uma doenca com carater obstrutiva, pela perda inflamacao cronica e dano causados pelo tabagismo. Tem um componente de bronquite e um de&nbsp; perda da estrutura alveolar. Diferentemente da asma, nao apresenta reversibilidade com o uso de agonistas alfa-adrenergicos na espirometria, sendo essa a tecnica para seu diagnostico. E uma doenca de manejo cronico, como avaliacao das exacerbacoes anuais para guiar o tratamento, ja que estas estao fortemente associados a morbimortalidade.
+('start pos not found', 'dpoc')
+Diagnostico: espirometria relacao VEF1/CVF&lt; 0,7, apos teste com broncodilatador
+Fatores de risco: Tabagismo, Exposicao ambiental
+Causa: perda definitiva da capacidade pulmonar por enfisema e bronquite cronica
+Sintomas: Astenia, Tosse cronica
+Exames: RX: Remodelamento pulmonar com aumento anteroposterior do torax e hiperinsuflacao
+Tratamento: Broncodilatador inalatorio, interrupcao de tabagismo, exercicios respiratorios (natacao ou fisioterapia)
+
+('start pos not found', 'espirometria relacao vef1/cvf&lt; 0,7, apos teste com broncodilatador')
+Fatores de risco.
+Padrao restritivo a partir de indice de Tiffenaut (escrita provavelmente incorreta, mas compreensivel) - 0,7 - e sem resposta ao broncodilatador.
+Padroes de acometimento da arvor respiratoria: bronquite e enfisema pulmonar (centrolobulares, etc).
+Criterios de exacerbacao e sinais e sintomas que nos sugiram infeccao subjacente.
+Avaliacao terapeutica conforme GOLD e perfis clinicos ABCD.
+Farmacoterapia: LABA, LAMA, CI coes e preferencias em funcao dos perfis A, B, C e D.
+Cessacao do tabagismo como MEV essencial.
+
+('start pos not found', 'fatores de risco.')
+O principal elemento da DPOC e a limitalcao do fluxo de ar na arvore respiratoria, provocada pela resposta inflamacao cronica a agressoes ambientais, principalmente a decorrente do tabagismo. O diagnostico, alem da anamnese e do exame fisico, demanda a realizacao de espirometria. O tratamento e realizado com broncodilatadores, corticosteroides, oxigenoterapia e antibioticos se necessario.
+('start pos not found', 'dpoc')
+O Dpoc e uma doenca das vias aereas inferiores, que possui como principais fatores de risco a inalacao de gazes nocivos, embora pode decorrer por outros fatores, como hereditarios. E caracteriza por um processo inflamatorio desencadiado pelos agentes irritantes, que leva a alteracao das paredes dos bronquios e bronquiolos, como espessamento, perda dos processos pilosos, o que leva ao acumulo de secrecao, destruicao alveolar e posterior fibrose. Pode ser diagnosticado atraves de imagens radiograficas, que apresentao areas de tom mais escurecido, com ausencia de paremquima pulmonar perceptivel, sinais de hipertensao pulmonar, entre outros. O teste de
+('start pos not found', 'dpoc')
+DPOC e mais prevalente em fumantes com alta carga tabagica (Macos/ano), causada por lesoes irreversiveis do pulmao pelo dano direto e indireto do ato de fumar.
+Apresenta duas principais formas clinicas, pink puffer ou blue bloaters.
+Diagnostico por raio x e teste de funcao pulmonar associado a quadro clinico e historia.
+Manejo com broncodilatores e controle dos sintomas.
+Fator de risco para mortalidade de outras causas, como pneumonia, cancer de pulmao, hipertensao pulmonar, etc.
+
+('start pos not found', 'dpoc')
+Causa obstrucao das vias aereas pulmonares. O paciente convive por longo periodo com essa condicao, tenha ele conhecimento dela ou nao.
+('start pos not found', 'causa obstrucao das vias aereas pulmonares.')
+Causa obstrucao das vias aereas pulmonares. O paciente convive por longo periodo com essa condicao, tenha ele conhecimento dela ou nao.
+('start pos not found', 'causa obstrucao das vias aereas pulmonares.')
+TRATA-SE DO PROTOTIPO DAS DOENCAS OBSTRUTIVAS DO PULMAO, SENDO O PRINCIPAL FATOR DE RISCO O TABAGISMO.
+('start pos not found', 'trata-se do prototipo das doencas obstrutivas do pulmao,')
+ENFISEMA E BRONQUITE CRONICA
+LESOES IRREVERSIVEIS
+TABAGISMO
+FATORES GENETICOS
+RESPOSTA INFLAMATORIA NAS VIAS E NOS ALVEOLOS
+INFECCCOES PODEM PIORAR A PROGRESSAO DAS LESOES
+HAEMOPHILUS INFLUENZAE
+PSEUDOMONAS AERUGINOSA
+HIPERTENSAO PULMONAR
+INFECCCAO RESPIRATORIA
+PERDA PONDERAL
+DISPNEIA PROGRESSIVA, PERSISTENTE COM PIORA EM ESFORCOS E TOSSE PRODUTIVA
+RADIOGRAFIA DE TORAX, TESTES DE FUNCAO PULMONAR (ESPIROMETRIA)
+DIAGNOSTICO DIFERENCIAL COM ASMA, INSUFICIENCIA CARDIACA
+CESSAR TABAGISMO. BRONCODILATADOR, CORTICOIDE, TRATAMENTO SUPORTIVO
+
+('start pos not found', 'enfisema e bronquite cronica')
+DPOC e um conjunto de doencas respiratorias que prejudicam a funcao pulmonar devido a uma obstrucao nos bronquiolos de carater duradouro e na maioria das vzs visiveis em exames de imagem como raio x e tomografia, como exemplo temos a tuberculose. A asma nao e um exemplo entretanto.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca frequentemente associada ao tabagismo. Afeta os pulmoes e impede o fluxo correto de oxigenio, gerando lesoes irreversiveis.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca frequentemente associada ao tabagismo. Afeta os pulmoes e impede o fluxo correto de oxigenio, gerando lesoes irreversiveis.
+('start pos not found', 'dpoc')
+A DPOC e provocada pelo acumulo de secrecoes noa alveolos pulmonares, provocando dificuldade para respirar, devido a dificuldade de trocas gasosas, e outros sintomas como tosse, por exemplo.
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e uma desordem inflamatoria pulmonar com dois padroes: bronquico e enfisematoso.
+Ela ocorre devido a resposta inflamatoria no pulmao induzida por antigenos ambientais, como poeira, fumaca e microparticulas.
+Ha espessamento dos septos alveolares, dificultando a troca gasosa.
+O padrao bronquico acomete individuos brevilineos, enquanto o padrao enfisematoso acomete mais individuos longilineos.
+A espirometria tem valor no prognostico da DPOC.
+O tratamento da DPOC envolve beta-agonistas e corticoides topicos.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A DPOC e uma patologia enfisematosa e nao reversivel do parenquima pulomonar. Sabe-se que o principal fator de risco e o tabagismo (principalmente carga tabagica &gt;20 macos-ano), porem doencas do colageno tambem podem levar a DPOC, como amiloidose, ou ainda fibrose cistica.
+O diagnostico e feito atraves da espirometria, com a relacao VEF1/CVF&lt;7, e que aumenta 20% ou 200ml do VEF1 apos prova broncodilatadora.
+O tratamento do DPOC e realizado de acordo com a clinica e estratificacao do paciente, sendo utilizados os beta agonistas de curta ou longa acao.
+Alem disso, varias doencas podem exacerbar um DPOC controlado, levando o paciente a um quadro de dispneia grave e queda da saturacao, necessitando de atendimento de emergencia, com o uso de oxigenoterapia, beta agonista inalatorio, antibioticoterapia
+
+('start pos not found', 'dpoc')
+DPOC e uma patologia cronica em que o paciente possui dificuldade para expirar o ar (soltar o ar), dessa forma ha sempre uma volume residual que fica retido nos pulmoes impedindo que o ciclo inspiracao- expiracao ocorra de forma adequada. A DPOC geralmente esta associada ao tabagismo prolongado, em que o paciente fica com o torax em "formato de tonel", como o ciclo respiratorio e prejudicado a saturacao basal do paciente pode estar abaixo do valor considerado como "referencia" para pessoas higidas SpO2 &gt; 92%. Como sintomas associados ao DPOC podemos verificar desconforto respiratorio com utilizacao da musculatura intercostal e subcostal para auxiliar na movimentacao respiratoria; presenca de furcula; batimento de asas nasais e inssa
+('start pos not found', 'dpoc')
+Progressiva, visto que e cronica
+Obstrutiva, pressuponho que deva levar a obstrucao dos alveolos empedidno a hematose ou dificultando-a severamente
+O paciente deve apresentar cansaco excessivo, quanto mais a doenca progredir
+O paciente deve apresentar oxigenacao sanguinea masi baixa, quanto mais a doenca progredir
+O paciente de apresentar mais sonolencia, conforme a doenca progredir
+Outros orgao serao progressivamnte afetados dados os entraves na oxigenacao
+
+('start pos not found', 'progressiva,')
+A doenca pulmonar obstrutiva cronica (DPOC) e a obstrucao da passagem de ar nos pulmoes, geralmente provocada por fumaca de cigarro ou algum outro composto nocivo. Essa doenca surge quando ha um caso persistente de bronquite, que causa inflamacao nos pulmoes, ou enfisema pulmonar, na qual ha destruicao dos alveolos. A DPOC aumenta os riscos de infarto e AVC, pois diminui a oxigenacao do sangue e libera substancias inflamatorias.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+Obstrucao pulmonar acarreta danos a respiracao e a hematose. Danos ao parenquima pulomnar e prejuizo a nutricao tecidual.
+('start pos not found', 'obstrucao pulmonar')
+A DPOC ocorre normalmente em grandes tabagistas, tem evolucao mais lenta que uma pneumonia e apresenta lesoes pulmonares irreversiveis. Tem sintomas como: taquidispneia, tosse, cansaco fisico e perda de peso.
+('start pos not found', 'dpoc')
+DPOC e uma doenca pulmonar caracterizada pela diminuicao da funcionalidade do processo de trocas gasosas nos sacos alveolares, localizados nos alveolos pulmonares. Pode ser decorrente de fatores como o tabagismo cronico, alta carga tabagica ou ainda pela exposicao frequente a substancias quimicas, inaladas, principalmente, em algumas profissoes. A DPOC predispoe a pessoa a outras complicacoes, como pneumonia.
+('start pos not found', 'dpoc')
+DPOC e uma doenca obstrutiva do fluxo aereo cujas principais etiologias sao: asma, bronqueolite cronica e enfisema pulmonar.
+Seu diagnostico e clinico, porem a espirometria e capaz de confirmar o diagnostico.
+A manifestacao clinica tipica e de torax em tonel, baqueteamento digital e crises de tosse, bem como pigarro.
+Nao apresenta tratamento definitivo, mas e passivel de melhora com sintomaticos, como beta1-agonistas inalatorios.
+
+('start pos not found', 'dpoc')
+Associada ao tabagismo ou exposicao a biomassa
+Predominante em idosos; curso insidioso
+dois tipos principais: enfisematoso (aumento do espaco de troca gasosa a nivel alveolar) e bronquitico (reducao da capacidade de expectoracao do muco pelo sistema de cilios)
+Alteracoes estruturais do torax, devido ao esforco respiratorio cronico
+Dispneia progressiva, tosse com expectoracao, infeccoes pulmonares de repeticao, queda na saturacao de O2
+Tratamento com broncodilatadores - antagonistas muscarinicos e agonistas beta, alem de corticoide inalatorio; cessacao do tabagismo e o mais importante; tratamento das infeccoes com antibioticoterapia; oxigenioterapia se necessario
+
+('start pos not found', 'associada ao tabagismo ou exposicao a biomassa')
+As DPOCs sao causados por uma via imunologica alergica, que tem a capacidade de causar a constricao de bronquiolos, levando a dificuldade respiratoria.
+('start pos not found', 'dpocs')
+DPOC reduz fluxo aereo, perda da elastancia, aumento da complacencia pulmonar
+Causa de acidose pulmonar
+Diagnostico clinico, espirometria
+Medicamentos broncodilatadores
+
+('start pos not found', 'dpoc')
+A principal causa de DPOC e o tabagismo, e ela pode se manifestar principalmente como enfisema e bronquite cronica. De qualquer modo, ha uma dificuldade do sistema respiratorio de oxigenar o sangue, garantindo uma saturacao geralmente mais baixa e ate um controle do centro respiratorio que passa a ser baseado na concentracao de O2, e nao na de CO2 como no individuo normal. Estigmas clinicos incluem torax em tonel, murmurio vesicular reduzido de forma difusa, historico de tabagismo pesado/fogao a lenha, saturacao reduzida cronicamente na ausencia de desconforto respiratorio, hiperinsuflacao pulmonar bastante visivel ao exame de raio X
+Nao existe cura para a doenca, mas broncodilatadores podem ser usados em crise e a pratica de atividade fisica parece possuir efeito benefico na qualidade de vida dos pacientes, ate porque existe tendencia de maior consumo de massa muscular.
+
+('start pos not found', 'dpoc')
+DPOC:
+
+DISTURBIO DESENCADEADO POR UMA LIMITACAO DO FLUXO DE AR NAS VIAS AEREAS. PODE SE MANIFESTAR ATRAVES DA BRONQUITE CRONICA OBSTRUTIVA OU ENFISEMA PULMONAR
+MANIFESTA-SE CLINICAMENTE COM QUADRO DE TOSSE SECA, DISPNEIA, EXPECTORACAO, TENDO COMO FATOR DE RISCO O TABAGISMO, EXPOSICAO A POLUICAO /FOGAO A LENHA , DEFICIENCIA DA ALFA-1 ANTITRIPSINA (essa disfuncao em geral, leva a uma dpoc em jovens sem presenca de condicoes de risco que possam justificar o quadro)
+O diagnostico da DPOC e realizado a partir da espirometria em que se observa a ausencia de resposta a broncodilatadores com VEF1/CVF D&lt;0,7
+De acordo com o VEF1 e possivel classificar a FPOC EM DIFERENTES ESTAGIOS
+PODE OCO
+
+
+('start pos not found', 'limitacao do fluxo de ar nas vias aereas.')
+E uma doenca comum no Brasil. Ocorre normalmente em pacientes fumantes com alta carga tabagica. E uma doenca cujas lesoes sao irreversiveis e o paciente apresenta dificuldade na respiracao, com falta de ar e tosse
+('start pos not found', 'doenca comum no brasil.')
+DPOC e uma doenca inflamatoria cronica da via aerea inferior relacionada ao tabagismo cronico. Tem como principais sinais e sintomas dispneia cronica, tosse, expectoracao e sibilancia a ausculta pulmonar (chiado no peito). O diagnostico e feito com base na clinica (sinais e sintomas +. antecedentes pessoas - especialmente tabagismo de grande monta) do paciente associada a prova de funcao pulmonar evidenciando diminuicao da relacao VEF1/CVF sem melhora ao uso de broncodilatador (sem aumento na VEF de pelo menos 200 mL e de 12% pre e pos broncodilatador).
+A classificacao da doenca e feito baseado na gravidade dos sintomas de dispneia + frequencia de exacerbacoes em A, B, C e D.
+O tratamento inicial consiste na cessacao do tabagismo e de acordo com a classificaccao podem ser usados LABA, LAMA, corticoide inalatori
+
+('start pos not found', 'dpoc')
+A DPOC e caracterizada por um menor fluxo de ar que entra no pulmao. Uma das doencas que configura a DPOC e o enfisema pulmonar. Os pacientes geralmente apresentam tosse produtiva, dispneia e no exame fisico pode ser constatado torax em tonel e reducao da expansibilidade do torax, alem de reducao da ausculta do murmurio vesicular.
+A DPOC esta fortemente associada com o tagabismo ou outras situacoes em que o pulmao se torna muito exposto a gases e substancias toxicas, como por exemplo uso prolongado durante a vida de fogao a lenha.
+O exame fisico junto com exames de imagem podem auxiliar a confirmacao do diagnostico de DPOC
+
+('start pos not found', 'dpoc')
+a DPOC ocorre devido a oclusao das vias aereas, ou seja, a troca gasosa e diminuida
+uma delas e enfisema pulmonar, caracterizado pela perda de elasticidade do pulmao
+ocorre, assim, diminuicao da inspiracao
+
+
+('start pos not found', 'dpoc')
+A DPOC possui como principal causa do tabagismo. Pode ser decorrente tambem de atividades laborais, como trabalhadores de minas de carvao ou fabricas de produtos quimicos. Ad
+('start pos not found', 'dpoc')
+DPOC refere-se a diversas doencas pulmonares de cunho obstrutivo, dentre elas enfisema pulmonar, bronquite, etc. Indica a obstrucao do fluxo de ar devido a inflamacao do aparelho respiratorio baixo. Pode estar relacionado com o tabagismo, exposicao a poluicao e microparticulados.
+('start pos not found', 'dpoc')
+DPOC
+
+Disturbio Restritivo Restritivo Pulmonal
+Indice de Tiffeneau &lt; 0,7
+Classificar de acordo com Gold 1: &gt; 80% /2: 50-79 / 3: 30-49 / 4: &lt;30
+Avaliar a sintomatologia e controle para regularizar o tratamento: Perfil A/B/C/D
+
+
+('start pos not found', 'dpoc')
+A DPOC e tipica de pacientes tabagistas cronicos. E uma doenca obstrutiva que resulta em hiperinsuflacao pulmonar. Os pacientes com DPOC apresentam torax tipico em tonel, retificacao dos arcos costais, hipertimpanimo e reducao na saturacao basal.
+('start pos not found', 'dpoc')
+A DPOC e tipica de pacientes tabagistas cronicos. E uma doenca obstrutiva que resulta em hiperinsuflacao pulmonar. Os pacientes com DPOC apresentam torax tipico em tonel, retificacao dos arcos costais, hipertimpanimo e reducao na saturacao basal.
+('start pos not found', 'dpoc')
+DPOC e uma doenca caracterizada por fibrose e destruicao dos alveolos causando obstrucao, geralmente secundaria a alta carga tabagica. A dispneia e o principal sintoma. O diagnostico pode ser feito pela anamnese e exame fisico, alem de exames complementares como RX torax e espirometria. O tratamento pode envolver broncodilatores e corticoides inalatorios.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca cujo principal fator de risco e o tabagismo. Tal condicao se apresenta como bronquite cronica ou enfisema pulmonar. Sendo caracterizada pela limitacao do fluxo aereo com alteracoes persistentes das via aereas.
+Os sintomas sao: tosse cronica, expectoracao cronica e dispneia.
+O diagnostico e dado pela espirometria, tendo a classificacao de GOLD para determinar o estagio do paciente, bem como direcionar o tratmento.
+O tratamento consiste na cesasao do tabagismo, o uso de beta 2 de curta e longa duracao e antimuscarinicos.
+
+('start pos not found', 'dpoc')
+DPOC sao doencas que obstruem a passagem do ar, dificultando a respiracao. Comumente ha uma inflamacao cronica associada.
+Sintomas comuns: falta de ar, tosse produtiva. Pode em casos graves ter outros sintomas, chegando ate uma insuficencia respiratoria.&nbsp;
+Mais de uma doenca pode causar DPOC, como bronquite e enfisema
+Ha fatores de risco para o desenvolvimento de DPOC, como tabagismo. Ha tambem fatores geneticos envolvidos
+Pode ter uma infeccao associada a essa inflamacao.
+Pode fazer teste de funcao pulmonar para ver o nivel da doenca
+
+('start pos not found', 'dpoc')
+DPOC e uma doenca do trato resporatorio que cursa com a obstrucao da arvore traqueobroquica por mecanismos imunomediados.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca cronica mais prevalente a partir dos 40 anos de idade e tem como principal causa a inspiracao cronica de particulas nocivas ao pulmao, como particulas resultadas de queima de combustiveis fosseis e o cigarro,
+A fisiopatologia consiste na destruicao dos septos alveolares tornando os menos elasticos e enfisematosos, alem disso, cursa com inflamacao cronica dos bronquiso.
+Os principais sintomas sao dispneia, sensacao de aperto toracico e tosse.
+O diagnostico se faz pela historia do paciente e pela espirometria, que demonstra niveis baixos de FEV1 E CVT, geralmente sem ou com pouca melhora ao broncodilatador.
+O tratamento se faz com mudancas de estilo de vida, como trocar o emprego ou parar de fumar, alem de medicacoes broncodilatadoras ou anticolinergicas, de preferencia com longas duracao. Alem de salbumatol para resgate
+A classificacao e pelo gold e vai de 1 a 4, a d assim como de A a D
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca cronica mais prevalente a partir dos 40 anos de idade e tem como principal causa a inspiracao cronica de particulas nocivas ao pulmao, como particulas resultadas de queima de combustiveis fosseis e o cigarro,
+A fisiopatologia consiste na destruicao dos septos alveolares tornando os menos elasticos e enfisematosos, alem disso, cursa com inflamacao cronica dos bronquiso.
+Os principais sintomas sao dispneia, sensacao de aperto toracico e tosse.
+O diagnostico se faz pela historia do paciente e pela espirometria, que demonstra niveis baixos de FEV1 E CVT, geralmente sem ou com pouca melhora ao broncodilatador.
+O tratamento se faz com mudancas de estilo de vida, como trocar o emprego ou parar de fumar, alem de medicacoes broncodilatadoras ou anticolinergicas, de preferencia com longas duracao. Alem de salbumatol para resgate
+A classificacao e pelo gold e vai de 1 a 4, a d assim como de A a D
+
+('start pos not found', 'dpoc')
+DPOC e uma doenca que acomete principalmente individuos com mais de 45 anos, normalmente estando associada a tabagismo em grande quantidade. Seu processo fisiopatologico envolve lesoes bronquiolares e alveolares, com posterior cicatrizacao e perda de funcionalidade tecidual local. A apresentacao clinica da doenca envolve dispneia a pequenos ou medios esforcos, pode haver tosse com ou sem secrecao, alem de murmurios vesiculares diminuidos, alteracoes de fremito e apresentacao de torax em barril. O diagnostico e feito atraves da avaliacao da capacidade respiratoria e o tratamento e feito com corticoidoterapia, porem e uma doenca que possui carater progressivo, sendo que pode deixar sequelas irreversiveis na funcao respiratoria do paciente.
+('start pos not found', 'dpoc')
+DPOC e uma doenca que acomete principalmente individuos com mais de 45 anos, normalmente estando associada a tabagismo em grande quantidade. Seu processo fisiopatologico envolve lesoes bronquiolares e alveolares, com posterior cicatrizacao e perda de funcionalidade tecidual local. A apresentacao clinica da doenca envolve dispneia a pequenos ou medios esforcos, pode haver tosse com ou sem secrecao, alem de murmurios vesiculares diminuidos, alteracoes de fremito e apresentacao de torax em barril. O diagnostico e feito atraves da avaliacao da capacidade respiratoria e o tratamento e feito com corticoidoterapia, porem e uma doenca que possui carater progressivo, sendo que pode deixar sequelas irreversiveis na funcao respiratoria do paciente.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca muito relacionada com o tabagismo por longos periodos, resultando no enfisema pulmonar - isto e, a hiperinsuflacao dos alveolos pulmonares. A evolucao da doenca depende do macos-ano, que pode ser calculada multiplicando o numero de macos fumados por dia pelo numero de anos que o paciente fumou. O quadro clinico varia de paciente para paciente, mas pode-se observar o torax em tonel hiperinsuflado (areas hipodensas na Radiografia), dispneia, tosse e acidose metabolica.
+('start pos not found', 'dpoc')
+A DPOC e um doenca cronica pulmonar, relacionada principalmente ao tabagismo. Pacientes com DPOC, apresentam sintomas como dispneia, que pode se intensificar com o passar dos anos, sendo que alguns pacientes, inclusive, podem neessitar de utilizacao continua de oxigenioterapia, tambem terem&nbsp; sua capacidade funcional limitada, alem de propiciar o aparecimento de outras doencas pulmonares, como pneumonias.
+O tratamento dependera das manifestacoes clinicas do paciente, podendo ser constituido por broncodilatadores, corticoisdes e antibioticos (nas e
+
+('start pos not found', 'dpoc')
+No DPOC temos uma grande fator de risco que e o tabagismo. Normalmente pacientes com essa doenca apresentam uma SatO2 reduzida normalmente. Paciente pode apresentar dispneia, torax em barril, tosse cronica, escarros. A doenca apresenta dois fenotipos tipicos de apresentacao, sendo eles o de bronquite cronica, em que o paciente tem um peso elevado, tosse e escarros cronicos, dispneia menos preocupante e hipoxemia e policitemia. O outro fenotipo e o do enfisema pulmonar, em que o paciente se apresenta mais caquetico, com disnpenia persistente, hiperinsuflacao pulmonar e gasometria arterial normal. Tambem sao denominados como blue bloater (bronquite cronica) e pink&nbsp; puffer (enfisema pulmonar)
+('start pos not found', 'dpoc')
+Torax em tonel. Dificuldade de esvaziamento toracico. Tabagismo. Mais comum em idosos. Fibrose de parenquima pulmonar. Ruidos adventicios. Asma. Doenca cronica. Diminuicao de volume corrente. Congestao pulmonar. Aumento de volume alveolar. Diminuicao de quantidade de tecido alveolar. Alteracao de espirometria. Acideose respiratoria. Menor reserva de oxigenio.
+('start pos not found', 'torax em tonel.')
+Doenca pulmonar obstrutiva cronica engloba um conjunto de doencas que cursam com o bloqueio das vias aereas, ocasionando prejuizo na capacidade respiratoria. Como exemplo, podem-se citar o enfisema pulmonar e a bronquite cronica, as quais, em razao do processo inflamatorio sustentado e da fibrose e da constricao bronquica associadas, geram danos pulmonares com sintomatologia de tosse cronica e dispneia. O tratamento da DPOC inclui esteroides inalatorios para alivio dos sintomas.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+A DPOC esta muito relacionada ao tabagismo; tambem relacionada com o uso de fogao a lenha por longos periodos.
+DPOC, como o nome diz, e uma doenca pulmonar obstrutiva, e ela diminui o VEF1s, aumentando o volume pulmonar residual. O paciente, portanto, nao consegue eliminar com a mesma eficacia o CO2, podendo haver episodios de acidose respiratoria, especialmente em crises (infeccoes, traumas, etc).
+Pode complicar com hipertensao pulmonar, o que poderia evoluir para uma insuficiencia cardiaca direita (que consequentemente pode evoluir para IC esquerda tambem).
+Saturacao geralmente fica entre 88-92%. Dispneia,
+
+('start pos not found', 'dpoc')
+A DPOC esta muito relacionada ao tabagismo; tambem relacionada com o uso de fogao a lenha por longos periodos.
+DPOC, como o nome diz, e uma doenca pulmonar obstrutiva, e ela diminui o VEF1s, aumentando o volume pulmonar residual. O paciente, portanto, nao consegue eliminar com a mesma eficacia o CO2, podendo haver episodios de acidose respiratoria, especialmente em crises (infeccoes, traumas, etc).
+Pode complicar com hipertensao pulmonar, o que poderia evoluir para uma insuficiencia cardiaca direita (que consequentemente pode evoluir para IC esquerda tambem).
+Saturacao geralmente fica entre 88-92%. Dispneia,
+
+('start pos not found', 'dpoc')
+A Doenca Pulmonar Obstrutiva Cronica e uma condicao muito prevalente, e esta associada ao tabagismo e a exposicao a queima de biomassa, primordialmente, tendo ainda outros fatores de risco. A DPOC e diagnosticada por meio da clinica e da espirometria com relacao VEF1/CVF &lt; 0,7, com resposta a broncodilatador. O tratamento se baseia em 4 steps, e tem como principal agentes os medicamentos broncodilatadores (LABA e SABA), podendo haver associacao com antimuscarinicos (LAMA e SAMA) e corticoides, alem de terapias maia modernas e nao acessiveis a maioria da populacao que depende do SUS. Os steps sao definidos de acordo com os sintomas e exacerbacoes do paciente. A DPOC pode sofrer exacerbacao, sendo importante o tratamento com antibioticoterapia, broncodilatadores, corticoides e VNI (quando indicada).
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+A DPOC E UMA DOENCA QUE OCORRE FREQUENTEMENTE EM PACIENTES TABAGISTAS DE LONGA DATA , MAS QUE PODE OCORRER POR ALTERACOES GENETICAS . PODE SE MANIFESTAR COM DISPNEIA EM PACIENTES ENFISEMATOSOS , OU COM ELIMINACAO EXCESSIVA DE SECRECOES NOS PACIENTES COM PERFIL DE BRONQUITE . E DIAGNOSTICADA PELA HISTORIA CLINICA , ACHADOS DE EXAME FISICO COM TORAX EM BARRIL , ACHADOS DE EXAME DE IMAGEM COMO HIPERINSUFLACAO PULMONAR E RETIFICACAO DE ARCOS COSTAIS ; MAS O DIAGNOSTICO DEFINITIVO E FEITO COM ESPIROMETRIA COM RELACAO VEF1/CVF MENOR QUE 0, 8 . A CONDUTA E EXPECTANTE TRATANDO EXACERBACOES E REDUZINDO TABAGISMO
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrtutiva cronica (DPOC) e uma doenca obstrutiva do pulmao, sendo sua principal manifestacao tosse produtiva acompanhado por dispneia. Esta patologia tem como principal fator de risco o tabagismo. Um dos exames necessarios e a espirometria que evidenciara um padrao obstrutivo, sem melhora pos bronccdilatador. O seu tratamento e seguido de acordo com presenca de sintomas e periodos de exacerbacao, podendo-se fazer uso de medicamentos tais quais SABA, LABA, LAMA de acordo com a gravidade do quadro e sua classificacao
+('start pos not found', 'doenca pulmonar obstrtutiva cronica (dpoc)')
+DPOC e a doenca respiratoria causada por dano cronico permanente ao parenquima pulmonar.
+Diagnostico da DPOC e feito por meio de espirometria com perda da capacidade volumetrica sem resposta ao uso de broncodilatador
+O tratamento de DPOC e feito com LABA + Corticoide inalatorio + Fisiot
+
+('start pos not found', 'dpoc')
+DPOC e a doenca respiratoria causada por dano cronico permanente ao parenquima pulmonar.
+Diagnostico da DPOC e feito por meio de espirometria com perda da capacidade volumetrica sem resposta ao uso de broncodilatador
+O tratamento de DPOC e feito com LABA + Corticoide inalatorio + Fisiot
+
+('start pos not found', 'dpoc')
+DPOC e uma doenca pulmonar fibrotica cujos principais sintomas sao dispneia, tosse produtiva, escarro e baqueteamento digital. O principal fator de risco e o tabagismo. Ao exame fisico encontra-se estertoracao crepitante e uso de musculatura acessoria.
+('start pos not found', 'dpoc')
+A DPOC e um doenca obstrutiva cronica irreversivel devido a das paredes alveolares. O paciente geralmente tem historico de tabagismo, com um quadro clinico de tosse, falta de ar, podendo apresentar achados como torax em tonel e baixa saturacao de oxigenio. O diagnostico e feito com radiografia de torax e teste de funcao pulmonar. O tratamento e paltado em interromper o tabagismo e medicacoes de suporte e que auxiliem a manter as vias aereas abertas.
+('start pos not found', 'dpoc')
+A DPOC, doenca pulmonar obstrutiva cronica, e uma doenca na qual ha aumento do volume morto pulmonar por uma retencao do ar durante a expiracao, pela perda da complacencia pulmonar. O principal fator de risco e o tabagismo. Outro fator de risco importante e a exposicao ambiental a gases toxicos. No quadro clinico esta presente o baqueteamento digital. A DPOC pode cursar com fibrose tecidual e caminhar para o enfisema pulmonar. A principal medida terapeutica para a DPOC e a oxigenoterapia.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que se verifica semiologicamente com torax globoso, percussao hipersonora, ausculta reduzida, entre outros.
+Esta relacionada a tabagismo, inalacao de poluentes e particulas cronica.
+Acaba diminuindo a capacidade de oxigenacao dos pulmoes devido a destruicao da arquitetura alveolar do parenquima pulmonar.
+Por isso, o paciente de DPOC frequentemente apresenta dessaturacao, desconforto respiratorio, taquipneia, respiracao abdominal e respiracao paradoxal (em casos de extremo desconforto respiratorio).
+Frequentemente o paciente com DPOC utiliza suplementacao de oxigenio. Essa doenca nao tem cura nem reversibilidade das lesoes do parenquima que a caracterizam.
+Na espirometria, verifica-se VR aumentado, CV aumentado, VC reduzido. Torax muito pouco expansivo.
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que se verifica semiologicamente com torax globoso, percussao hipersonora, ausculta reduzida, entre outros.
+Esta relacionada a tabagismo, inalacao de poluentes e particulas cronica.
+Acaba diminuindo a capacidade de oxigenacao dos pulmoes devido a destruicao da arquitetura alveolar do parenquima pulmonar.
+Por isso, o paciente de DPOC frequentemente apresenta dessaturacao, desconforto respiratorio, taquipneia, respiracao abdominal e respiracao paradoxal (em casos de extremo desconforto respiratorio).
+Frequentemente o paciente com DPOC utiliza suplementacao de oxigenio. Essa doenca nao tem cura nem reversibilidade das lesoes do parenquima que a caracterizam.
+Na espirometria, verifica-se VR aumentado, CV aumentado, VC reduzido. Torax muito pouco expansivo.
+
+('start pos not found', 'dpoc')
+Tem varias causas, sendo a principal delas o tabagismo. Gera uma menor capacidade pulmonar, e, com isso, gera muitos sintomas, principalmente dispneia, que piora progressivamente. O exame de imagem mais utilizado e melhor nesses casos e o raio-x de torax, que demonstrara enfisema, area hiperinsuflada. Paciente pode ter baixa saturacao, cianose nos casos mais graves, e mesmo depender de O2 suplementar. Como tratamento, podem ser indicados broncodilatadores de curta ou longa duracao a depender do caso, alem de ser de extrema importancia a cessacao do tabagismo. A fisioterapia pulmonar pode ajudar a reestabelecer os parametros pulmonares e melhora dos sintomas. O diangostico tambem pode ser realizado por espirometria, que e extremamente importante para ver a gravidade do caso e o padrao da doenca.
+('start pos not found', 'tem varias causas,')
+A DPOC e uma doenca de curso cronico relacionada a fibrose do tecido pulmonar causada pelo somatorio de enfisema e bronquite cronica. Seu principal fator de risco e o tabagismo e sua evolucao e progressiva, cronica e muitas vezes incapacitante, levando a dependencia de O2 nos casos mais severos.
+('start pos not found', 'dpoc')
+Disturbio restritivo, obstrutivo ou misto, com perda da complacencia dos bronquios e retencao do ar aveolar residual. Cronicamente ha aumento do diametro anteroposterior do torax com piora =rpogressiva dde dispneia e qualidade de trocas gasosas; ha aumento da hemoglobina e hematocrito para compensar a hipoxemia cronica e ha alteracao do drive respiratorio, que passa nao meis ser controlado pela concentracao serica de ion bicarbonato, mas pela saturacao (que nao pode estar plena por gerar apneia central).
+('start pos not found', 'disturbio restritivo, obstrutivo ou misto,')
+Doenca de base inflamatoria que leva a perda das paredes alveolares e da complacencia pulmonar, relacionada a exposicao a fumaca do tabaco, lenha ou ainda a deficiencia da enzima alfa 1 antripsina.
+Causa sinomas, como dispneia, tosse e cansaco. Espirometria faz o diagnostico por evidenciar a obstrucao.
+O tratamento varia com a intensidade dos sintomas&nbsp; e com o estagio da doenca. Podendo consistir em uso de&nbsp; brincodilatadores de longa duracao, antimuscarinicos e corticoides inalatorios. A oxigenioterapia domiciliar e reservada para os casos mais avancados da doenca.
+
+('start pos not found', 'doenca de base inflamatoria')
+Doenca pulmonar obstrutiva cronica se refere a obstrucao das vias aereas condutoras do sistema respiratorio, podendo causar insuficiencia respiratoria, por exemplo. DPOC pode ser a causa de acidose respiratoria, devido a dificuldade em expirar excesso de gas carbonico (ja que as vias aereas se encontram comprometidas). Como tratamento, pode se utilizar agonistas beta adrenergicos, para promover o relaxamento do musculo liso das vias aereas respiratorias, de modo que ocorra a broncodilatacao dessas estruturas, permitindo melhor passagem de ar frente a obstrucao.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+A DPOC e uma doenca que apresenta dois polos: (i) o polo bronquitico cronico e (ii) o polo enfisematoso. O primeiro apresenta-se clinicamente como a sintomatologia conhecida como blue booter (tosse produtiva, dispeneia aos esforcos, obesidade, etc), enquanto o segundo como o pink puffer (paciente emagrecido, tosse seca, diametro antero-posterior aumentado, falta de ar, etc). E uma condicao muito associada ao tabagismo.
+Apresenta valores de carater obstrutivo na espirometria. E necessario fazer com que o paciente diminua os habitos tabagicos, realize fisioterapia respiratoria, faca tratamento com broncodilatadores; entre outras condutas para melhorar a sua funcao respiratoria.
+
+('start pos not found', 'dpoc')
+Doenca progressiva
+Paciente apresenta dispneia, tosse, insuficiencia respiratoria, e possiveis infeccoes
+Pode haver cor pulmonale
+Relacao com bronquite e enfisema
+Compromete qualidade de vida
+Tem como comorbidade o tabagismo e exposicao ocupacional
+Tem 2 fenotipos: blue bloater e pink puffer
+Sem relacao familiar
+
+('start pos not found', 'doenca progressiva')
+Doenca cronica causada principalmente por tabagismo de longa data, classificar o paciente levando em conta sintomas de dispneia e numero de exacerbacoes no ultimo ano, pode ser tratado com beta adrenergico e corticoide.
+('start pos not found', 'doenca cronica')
+A DPOC e uma doenca que geralmente esta associada com um quadro cronico de tosse seca , com possivel dispneia a esforcos. A DPOC esta associada geralmente a fumantes, que fumam por anos e isso levou a destruicao do epitelio ciliado. A traqueia e recoberta por um epitelio cilindrico ciliado com celulas caliciformes. Os cilios desse epitelio sao responsaveis por fazer o fluxo de muco que esta ali presente. Em um individuo com DPOC, esse fluxo de muco nao ocorre, pois nao ha cilios funcionais. Assim, temos essa tosse insistente do individuo para tentar movimentar esse muco parado.
+Alem disso, o individuo com DPOC pode ter alguns quadros de pneumonia, pois a ausencia da "limpeza" desse muco pode contribuir com a proliferacao de bacterias e assim temos a pneumonia.
+Num individuo com DPOC sua ausculta pulmonar pode ser marcada por sibilos, que sao caracteristicos da passagem do ar pelo pulmao desse individuo.
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que geralmente esta associada com um quadro cronico de tosse seca , com possivel dispneia a esforcos. A DPOC esta associada geralmente a fumantes, que fumam por anos e isso levou a destruicao do epitelio ciliado. A traqueia e recoberta por um epitelio cilindrico ciliado com celulas caliciformes. Os cilios desse epitelio sao responsaveis por fazer o fluxo de muco que esta ali presente. Em um individuo com DPOC, esse fluxo de muco nao ocorre, pois nao ha cilios funcionais. Assim, temos essa tosse insistente do individuo para tentar movimentar esse muco parado.
+Alem disso, o individuo com DPOC pode ter alguns quadros de pneumonia, pois a ausencia da "limpeza" desse muco pode contribuir com a proliferacao de bacterias e assim temos a pneumonia.
+Num individuo com DPOC sua ausculta pulmonar pode ser marcada por sibilos, que sao caracteristicos da passagem do ar pelo pulmao desse individuo.
+
+('start pos not found', 'dpoc')
+DPOCs relacionam-se muito a fumantes ou pessoas com alto contato a inalantes toxicos. Trata-se de um quadro com reducao da capacidade funcional pulmonar, classificado em quatro estagios de gravidade.
+com base a fisiopatologia, corresponde a uma atrofia aveolar, pos processo inflamatorio e consolidacao. Ha perda da capacidade respiratoria.
+O tratamento engloba broncodilatadores e oxigenoterapia em casos graves.
+
+('start pos not found', 'dpocs')
+DPOCs relacionam-se muito a fumantes ou pessoas com alto contato a inalantes toxicos. Trata-se de um quadro com reducao da capacidade funcional pulmonar, classificado em quatro estagios de gravidade.
+com base a fisiopatologia, corresponde a uma atrofia aveolar, pos processo inflamatorio e consolidacao. Ha perda da capacidade respiratoria.
+O tratamento engloba broncodilatadores e oxigenoterapia em casos graves.
+
+('start pos not found', 'dpocs')
+Doenca pulmonar obstrutiva cronica (DPOC) engloba a bronquite cronica e o enfisema pulmonar. O principal fator de risco para seu desenvolvimento e o tabagismo. Nessa condicao, ocorre reducao do fluxo expiratorio, sendo que os pacientes se tornam retentores cronicos de CO2. O quadro clinico e marcado por tosse cronica, dispneia, expectoracao. O diagnostico e realizado por meio da espirometria, que evidencia reducao da relacao VEF1/CVF, geralmente, sem melhora apos terapia broncodilatadora. A gasometria arterial revela acidose respiratoria compensada com retencao de bicarbonato. O manejo envolve o controle de exacerbacoes, terapia broncodilatadora de longa duracao e manutencao da saturacao arterial de oxigenio entre 88 e 92% (o excesso de oxigenio pode dessensibilizar o centro respiratorio, reduzindo a capacidade ventilatoria do paciente e aumentando a retencao de CO2). Em pacientes selecionados, o uso de O2 domiciliar cont
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A DPOC ocorre geralmente em pessoas acima de 50 anos, com antecedente de tabagismo importante ou exposicao cronica a fumaca de fogao a lenha, por exemplo. Tambem pode acontecer em individuos com deficiencia de anti-tripsina 1. E um disturbio obstrutivo, portanto na espirometria a relacao entre VEF1/CVF&nbsp; e menor que 0,7, e nao ocorre melhora significativa do VEF1 apos uso broncodilatador. A partir da espirometria e possivel classificar o DPOC atraves do GOLD. O tratamento e feito com medidas comportamentais e ambientais e uso de broncodilatadores. Alguns paci
+('start pos not found', 'dpoc')
+A DPOC ocorre geralmente em pessoas acima de 50 anos, com antecedente de tabagismo importante ou exposicao cronica a fumaca de fogao a lenha, por exemplo. Tambem pode acontecer em individuos com deficiencia de anti-tripsina 1. E um disturbio obstrutivo, portanto na espirometria a relacao entre VEF1/CVF&nbsp; e menor que 0,7, e nao ocorre melhora significativa do VEF1 apos uso broncodilatador. A partir da espirometria e possivel classificar o DPOC atraves do GOLD. O tratamento e feito com medidas comportamentais e ambientais e uso de broncodilatadores. Alguns paci
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica (DPOC) e um disturbio pulmonar obstrutivo, assim como a asma. O diagnostico e feito pela espirometria, em caso de relacao VEF1/CVF menor que 70% sem melhora dessa relacao apos broncodilatador. Caracteriza-se por um obstrucao fixa, diferentemente da asma.
+A DPOC pode se apresentar em dois espectros clinicos: enfisema pulmonar e bronquite cronico.
+O principal fator de risco da DPOC e o tabagismo. Outro fator de risco e a deficiencia de alfa-1-antitripsina, a qual gera enfisema pulmonar panacinar.
+A DPOC pode se apresentar como exacerbacoes, com piora aguda dos sintomas, geralmente, associada a pneumonias.
+DPOC pode ser classificado de acordo com as exacerbacoes e os sintomas em A, B, C e D segundo a diretriz GOLD. Essa classificacao norteia o tratamento, que se baseia em broncodilatadores.
+As opcoes de broncodilatadores sao beta-2-agonistas de curta ou longa duracao e antimuscarinicos de curta ou longa duracao. Em caso de muitas exacerbacoes, opta-se pelo uso de antimuscarinicos de longa duracao (ex.: tiotropio).
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca causada principalmente em pacientes com alta carga tabagica. Ha tambem associacao com deficiencia de antitripsina  causa genetica o paciente ira apresentar um quadro clinico mais precoce, podendo ter historico familiar.
+Ja no paciente com DPOC devido carga tabagica o quadro clinico e mais tardio, depois dos 40 anos. Acomete mais homens.
+Quadro clinico de tosse com expectoracao pelas manhas, podendo apresertar descompenscaoes recorrentes, principalmente em periodo de inverno (dai a importancia da vacinacao com pneumo 10 e pneumo 21 e influenza e covid 19).
+Temos 2 grandes tipos, divididos de forma  puffer e blue bloater. E uma divisao entre o paciente enfisematose (esse morre mais) e&nbsp; o paciente bronquitico (quadro de tosse mais frequente).
+O blue bloater geralmente e brevilineo, com quadro ed tosse mais importante. Ao passo que o pink puffer e mais longilinuo com quadro de dispneia mais importante.
+Usamos a classificacao de GOLD para classificar esses pacientes.
+Tratamento baseado em MEV, com cessacao do tabagismo + prevencao (imunizacao). Usa-se tambem nebulizadores de beta curta e longa acao.
+Pode-se indicar o tto com oxigenioterapia a depender do grau do paciente, como COR pulmonare ou Sat &lt; 92% ou &lt; 88% a depender do grau do paciente.
+DDX importante e a ASMa, mas a historia nos auxilia nessa diferenciacao.
+fatores de risco: tabagismo, exposicao a fumaca de lenha, genetico.
+
+('start pos not found', 'dpoc')
+A DPOC (doenca pulmonar obstrutiva cronica) e uma condicao gerada por um fator irritante (normalmente o tabagismo) que provoca uma inflamacao do tecido epitelial mucoso do parenquima pulmonar.
+Como ja dito, o principal fator de risco e o tabagismo.
+Existem dois perfis de pacientes normalmente esteriotipados, os que tem um quadro enfisematoso mais proeminente e os que possuem um quadro mais expectorante (com tosse produtiva).
+Os casos sao estadiados em 4 categorias, A, B C e D. Os paciente que tiveram nenhuma crise ou 1 crise sem necessidade de hospitalizacao no ultimo ano, sao classificados como A ou B, (se 2 ou mais crises ou 1 crise com hospitalizacao, sao classificados como C ou D) e dependendo do score mMRC maior ou igual a 10 sao B ou D
+
+('start pos not found', 'dpoc (doenca pulmonar obstrutiva cronica)')
+A DPOC e uma doenca que esta em ascensao no quadro epidemiologico devido as mudancas de estilo de vida das pessoas. O uso cronico de tabaco, vapers, maconha e entre outras drogas inalatorias aumentam o aparecimento desse tipo de doenca. Sua base fisiopatologica e a mudanca do parenquima por fibrose e perda da complacencia pulmonar. No exame fisico ha areas de percussao timpanicas devido a cavidades ocas que podem se criar no pulmao. Nas inspecao podemos notar um aumento antero-posterior do torax onde classificamos como torax em barril. O paciente tera tosse cronica.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que esta em ascensao no quadro epidemiologico devido as mudancas de estilo de vida das pessoas. O uso cronico de tabaco, vapers, maconha e entre outras drogas inalatorias aumentam o aparecimento desse tipo de doenca. Sua base fisiopatologica e a mudanca do parenquima por fibrose e perda da complacencia pulmonar. No exame fisico ha areas de percussao timpanicas devido a cavidades ocas que podem se criar no pulmao. Nas inspecao podemos notar um aumento antero-posterior do torax onde classificamos como torax em barril. O paciente tera tosse cronica.
+('start pos not found', 'dpoc')
+Na DPOC ha aumento do volume residual pulmonar por diminuicao da complascencia pulmonar. Acarreta diminuicao da saturacao de oxigenio e dificuldade inspiratoria, sendo possivel identificar alteracoes na ausculta e na espirometria. Esta associada ao tabagismo. Leva tambem a perda de massa corporea generalizada (sindrome consumptiva - nao sei se se escreve assim). Conforme o quadro se agrava, o paciente apresenta cada vez mais fadiga a esforcos menores.
+('start pos not found', 'dpoc')
+Doenca que cursa com dor precordial subita associada a dispneia. Quando se ha uma suspeita de TEP e necessario fazer o score de wells, o qual se for baixa probabilidade dose-se D-dimero e se for alto e necessario fazer angiotomografia. Ate 6 horas e possivel fazer alterplase, apos esse tempo a indicacao e de anticoagulcao&nbsp; plena por 6 meses.
+('start pos not found', 'doenca que cursa com dor precordial subita associada a dispneia.')
+A doenca pulmonar obstrutiva crOnica (DPOC) e uma doenca e comorbidade associada a quadros como a asma grave e o enfisema pulmonar, de modo que seja mais frequente e perigosa em tabagistas, podendo levar a um quadro de insuficiencia respiratoria.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A doenca pulmonar obstrutiva crOnica (DPOC) e uma doenca e comorbidade associada a quadros como a asma grave e o enfisema pulmonar, de modo que seja mais frequente e perigosa em tabagistas, podendo levar a um quadro de insuficiencia respiratoria.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A DPOC e uma doenca enfisematosa persistente presente em tagabistas ou ex-tabagistas de longa data, uma vez que ela e causada pelo cigarro. A fumaca do cigarro e responsavel tanto pela inflamacao pulmonar quanto pela destruicao alveolar presentes no quadro clinico, prejudicando a hematose do portador dessa doenca.
+A DPOC e caracterizada, principalmente, por tosse e dispneia. No exame fisico, ela pode se tornar suspeita pelo torax em tonel.
+O diagnostico da DPOC e concluido pelo exame de espirometria, que possibilita o diagnostico diferencial de asma.
+A doenca nao apresenta cura, mas seu tratamento e realizado pela combinacao de medcamentos broncodilatadores e ati-inflamatorios.
+Quando a DPOC exacerba, e quando o paciente entra em descompensacao, ou seja, os sintomas se agravam.
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca enfisematosa persistente presente em tagabistas ou ex-tabagistas de longa data, uma vez que ela e causada pelo cigarro. A fumaca do cigarro e responsavel tanto pela inflamacao pulmonar quanto pela destruicao alveolar presentes no quadro clinico, prejudicando a hematose do portador dessa doenca.
+A DPOC e caracterizada, principalmente, por tosse e dispneia. No exame fisico, ela pode se tornar suspeita pelo torax em tonel.
+O diagnostico da DPOC e concluido pelo exame de espirometria, que possibilita o diagnostico diferencial de asma.
+A doenca nao apresenta cura, mas seu tratamento e realizado pela combinacao de medcamentos broncodilatadores e ati-inflamatorios.
+Quando a DPOC exacerba, e quando o paciente entra em descompensacao, ou seja, os sintomas se agravam.
+
+('start pos not found', 'dpoc')
+A DPOC esta associada com tabagismo cronico e pode ser do tipo retentora ou obstrutiva. O enfisema pulmonar e um tipo. Esses pacientes vivem em uma condicao de hipoxia cronica, com saturacao normal menor que 94%
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) esta principalmente relacionada ao tabagismo. Trata-se de uma condicao de desenvolvimento arrastado, caracterizado pelo perda de complacencia adequada dos pulmoes e, nao raro, um estado hiperssecretivo dos bronquiolos. Com essa doenca, o paciente pode apresentar distensao de torax, e ha necessidade de uso de broncodilatadores e/ou corticoides inalatorios. Como sintomas, tambem se apresentam fadiga e tosse, tipicas de tabagistas de alta carga tabagica.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A DPOC e uma doenca obstrutiva e parenquimatosa associada a tabagismo passivo ou ativo, uso de lampiao ou forno a lenha.
+O perfil epidemiologico e um paciente de 50 a 60 anos de idade, com vinculo epidemiologico de tabagismo, lambiao ou forno a lenha, que evolui com quadro de dispneia, associada ao exericios, tosse, amento do diametro aanteroposterior. No rx observa-se hiperinsulflacao com sinais de efisema.
+O tratamento varia de acordo com os sintomas clinicos, desde suporte e controle de doencas de base ate suplementacao de O2.
+A mortalidade esta associada a frequentes internacoes associadas a descompensacao, principalmente. As descompensacoes sao medidas princialemnte em piora repentina do padrao respiratorio com aumento da expectoracao.
+
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) tem relacao significativa com o tabagismo. Nela, o fluxo do ar pelos pulmoes esta limitado e as vias aereas se tornam mais estreitas, tornando a respiracao mais dificil. A DPOC engloba um conjunto de manifestacoes clinicas relacionadas a obstrucao das vias das trocas gasosas. Ela esta relacionada com processos inflamatorios.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC inclui doencas cronicas como a bronquite cronica e enfizema pulmonar.
+Podem ser causadas por tabagismo.
+Caracteristicas clinicas: torax em barril, queda na saturacao, dispneia
+Pode ser classificada quanto a gravidade de acordo com a dipneia apresentada (aos grandes esforcos, aos pequenos esforcos, em repouso)
+Exames recomendados: raio X de torax, hemograma, gasometria arterial, lactato arterial
+Tratamento: oxigenoterapia moderada (pacientes com hipoxia cronica podem ter uma parada respiratoria se muito O2 for ofertado), broncodilatadores, fisioterapia respiratoria, corticosteroides
+
+('start pos not found', 'dpoc')
+Doenca com forte associacao ao tabagismo de longa duracao com carga elevada
+Caracteriza-se por alveolos com septos lesionados, ocasionando a formacao de sacos alveolares com reduzida capacidade de troca grasosa.
+Principal sintoma: dispneia
+Muitas vezes associado a dessaturacao de O2, contudo, dada a retencao cronica de CO2, a correcao dos niveis de O2 para uma faixa habitual em pessoas higidas pode acarretar em uma apneia induzida, proporcionando danos decorrentes da dessaturacao resultante.
+Tipicamente observado por Rx como um pulmao com volume aumentado e aspecto ra e tramas bronquicas pouco evidentes
+
+('start pos not found', 'doenca com forte associacao ao tabagismo de longa duracao com carga elevada')
+A DPOC e uma doenca de carater obstrutivo, apresentando retencao de gases e hipercapnia, causada principalmente pelo tabagismo com alta carga tabagica.
+A sintomatologia principal e dispneia, tosse cronica e escarro. Pode apresentar sibilos.
+O tratamento e clinico com suporte e broncodilatadores
+
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica e aquela que ocorre quando ha uma obstrucao na passagem do ar para os pulmoes, principalmente nos bronquios e alveolos. Pode ser gerada pela fumaca dos cigarros ou mesmo da poluicao das grandes cidades e e ocasionada por um acumulo de anos com esses processos, gerando a cronicidade da doenca. Asma, efisema pulmonar sao alguns dos disturbios que podem ser classificados dessa maneira.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+Instalacao lenta a partir de exposicao cronica a agressoeres das vias respiratorias, com sustentada inflamacao e lesao dessas estruturas
+Suscetibilidade por fatores hereditarios ou de antecedentes pessoais, que fazem com que nao se atinja funcao pulmonar normal
+Fatores de risco: tabagismo (inclusive passivo), exposicao a toxicos, infeccoes na infancia, asma, tabagismo materno, baixo peso ao nascer
+Reducao do clearance mucociliar, com impactacao de secrecao + destruicao do parEnquima pulmonar, com perda de septos alveolares = aumento da complascencia pulmonar e reducao da elastancia
+Falta de ar, tosse, vulnerabilidade a complicacoes e exarcebacoes
+LABA, LAMA, cortic
+
+
+('start pos not found', 'instalacao lenta a partir de exposicao cronica a agressoeres das vias respiratorias, com sustentada inflamacao e lesao dessas estruturas')
+Destruicao das paredes alveolares e da superficie para trocas gasosas. Perda da complacencia pulmonar. Padrao bronquitico e enfisematoso. Tabagismo como fator de risco.
+('start pos not found', 'destruicao das paredes alveolares e da superficie para trocas gasosas.')
+DPOC e uma doenca prevalente nos dias de hoje, pois ela tem relacao com o tabagismo ou com a ausencia da enzima alfa-1-tripsina. Essa e uma doenca acomete mais tabagistas croncios, e altera a complacencia pulmonar. O diagnostico e feito pela clinica e espirometria (padrao obstrutivo, com relacao VF1/CVF preservada). Esses pacientes possuem dispneia progressiva, e e normal possuirem uma SatO2 entre 92-94%. Esses pacientes tambem sao mais sujeitos a pneumonias e consequentemente a descompensacao do seu quadro. Possui a classificacao do quadro pelo GOLD.
+O seu tratamento envolve principalmente broncodilatador, alem de medidas gerais como interrupcao do tabagismo, vacinacoes especificas
+
+('start pos not found', 'dpoc')
+DPOC e uma doenca prevalente nos dias de hoje, pois ela tem relacao com o tabagismo ou com a ausencia da enzima alfa-1-tripsina. Essa e uma doenca acomete mais tabagistas croncios, e altera a complacencia pulmonar. O diagnostico e feito pela clinica e espirometria (padrao obstrutivo, com relacao VF1/CVF preservada). Esses pacientes possuem dispneia progressiva, e e normal possuirem uma SatO2 entre 92-94%. Esses pacientes tambem sao mais sujeitos a pneumonias e consequentemente a descompensacao do seu quadro. Possui a classificacao do quadro pelo GOLD.
+O seu tratamento envolve principalmente broncodilatador, alem de medidas gerais como interrupcao do tabagismo, vacinacoes especificas
+
+('start pos not found', 'dpoc')
+DPOC trata-se de uma condicao na qual ha diminuicao do fluxo de ar nas vias aereas, ocorrendo em quadros como enfisema e bronquite cronica. Trata-se de uma doenca pulmonar cronica, e esta muito associada a exposicao a fumaca de cigarro. Um sinal clinico de sua presenca e o "torax em barril".
+('start pos not found', 'dpoc')
+a doenca pulmonar obstrutiva cronica (DPOC) e um conjunto de doencas: bronquite, asma e enfisema pulmonar. OS sintomas podem estar sobrepostos, mas existem os paciente que chamamos de "classicos". Podem ser causadas por exposicao prolongada a poluicao e sao comuns em tabagistas de longo prazo.&nbsp; Todas cursam com uma dificuldade da nossa mucosa das vias aereas de expelir agentes invasores e o muco atraves do movimento ciliar das celulas da mucosa, levando ao acumulo de secrecao e ambiente inflamatorio no trato respiratorio.
+Bronquite: acumulo de muco nos alveolos e na traqueia, dificultando respiracao
+Enfisema: depende da regiao, pode ser acino ou distal
+Asma:
+O tabagismo pode levar a DPOC por permitir ambiente pro-inflamatorio e lesao endotelial, aumentando liberacao de agentes oxidantes e diminuindo a vascularizacao pulmonar. Esse estado diminui a troca de oxigenio e nutrientes para o parenquima pulmonar, causando lesao e fibrose
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC E UMA OBSTRUCAO CRONICA, PROGRESSIVA E IRREVERSIVEL AO FLUXO RESPIRATORIO PARA OS PULMOES COM DIVERSAS ETIOLOGIAS
+('start pos not found', 'dpoc')
+A DPOC E CAUSADA PELA INFLAMCAO CRONICA DOS BROQUIOS, COM CONSEQUENTE ENFISEMA PULMONAR. A FISIOPATOLOGIA ENVOLVE A PRESENCA DE NEUTROFILOS E AUMENTO DA ELASTASE, CAUSANDO A FIBROSE DO PARENQUIMA PULMONAR. ESSES PACIENTES CONSEQUENTEMENTE POSSUEM ACIDOSE RESPIRATORIA CRONICA EM FUNCAO DA HIPERINSUFLACAO PULMONAR, UMAS VEZ QUE NAO CONSEGUEM EXPELIR CO2.
+O EXAME DE DISGN´STICO PRINCIPAL E A ESPIROMETRIA, UMA VEZ QUE A VEP1 E MENOR QUE 70%. PODEM SER USADOS EXAMES SUBDISIARIOS COMO RAIO-X AP.
+AS MEDICACOES USADAS SAO: BETA AGONISTAS DE CURTA E LONGA DURACAO,….
+
+('start pos not found', 'dpoc')
+A DPOC E CAUSADA PELA INFLAMCAO CRONICA DOS BROQUIOS, COM CONSEQUENTE ENFISEMA PULMONAR. A FISIOPATOLOGIA ENVOLVE A PRESENCA DE NEUTROFILOS E AUMENTO DA ELASTASE, CAUSANDO A FIBROSE DO PARENQUIMA PULMONAR. ESSES PACIENTES CONSEQUENTEMENTE POSSUEM ACIDOSE RESPIRATORIA CRONICA EM FUNCAO DA HIPERINSUFLACAO PULMONAR, UMAS VEZ QUE NAO CONSEGUEM EXPELIR CO2.
+O EXAME DE DISGN´STICO PRINCIPAL E A ESPIROMETRIA, UMA VEZ QUE A VEP1 E MENOR QUE 70%. PODEM SER USADOS EXAMES SUBDISIARIOS COMO RAIO-X AP.
+AS MEDICACOES USADAS SAO: BETA AGONISTAS DE CURTA E LONGA DURACAO,….
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que tem como etiologia o tabagismo, como principal causa.
+A patogenia consiste em uma reducao da elastancia pulmonar e aumento da complacencia, em que o pulmao fica em um estado hiperinsuflado pois ocorre aprisionamento do ar nos alveolos.
+Os alveolos acabam se confluindo e formando bolsas enfisentamosas em todo o parenquima pulmonar. Tambem ocorre uma reducao do diametro da arvore bronquica devido a reacao da parede que acentua a obstrucao.
+A reducao da funcao pulmonar com quadro clinico de dispneia progressiva aos esforcos e limitacao da capacidade funcional auxiliam no diagnostico da doenca.
+O tratamento pode ser feito com o uso de broncodilatadores para auxiliar na passagem de ar com uma "desobstrucao" da via aerea&nbsp; e com o
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca que tem como etiologia o tabagismo, como principal causa.
+A patogenia consiste em uma reducao da elastancia pulmonar e aumento da complacencia, em que o pulmao fica em um estado hiperinsuflado pois ocorre aprisionamento do ar nos alveolos.
+Os alveolos acabam se confluindo e formando bolsas enfisentamosas em todo o parenquima pulmonar. Tambem ocorre uma reducao do diametro da arvore bronquica devido a reacao da parede que acentua a obstrucao.
+A reducao da funcao pulmonar com quadro clinico de dispneia progressiva aos esforcos e limitacao da capacidade funcional auxiliam no diagnostico da doenca.
+O tratamento pode ser feito com o uso de broncodilatadores para auxiliar na passagem de ar com uma "desobstrucao" da via aerea&nbsp; e com o
+
+('start pos not found', 'dpoc')
+A DPOC acomete pacientes com alta carga tabagica (&gt; 20 macos/ano), sendo caracterizada por bronquite cronica e enfisema pulmonar. O quadro clinico muda a depender do paciente (se ha mais bronquite ou mais enfisema), podendo-se citar tosse e dispneia progressiva. O diagnostico e realizado por meio de espirometria. O paciente com DPOC deve ser classificado de acordo com a escala GOLD (A a D). O tratamento baseia-se na utilizacao de broncodilatador (SABA, LABA, SAMA e/ou LAMA, a depender da classificacao do paciente).&nbsp;
+('start pos not found', 'dpoc')
+A DPOC e uma condicao cronica que afeta o parenquima pulmonar. O cigarro e a poluicao do ar sao potenciais fatores de risco para essa doenca. A DPOC nao tem cura, mas, com acompanhamento profissional, e possivel tratar para se conviver com os sintomas, como tosse e dispneia.
+('start pos not found', 'dpoc')
+A DPOC e uma condicao cronica que afeta o parenquima pulmonar. O cigarro e a poluicao do ar sao potenciais fatores de risco para essa doenca. A DPOC nao tem cura, mas, com acompanhamento profissional, e possivel tratar para se conviver com os sintomas, como tosse e dispneia.
+('start pos not found', 'dpoc')
+A DPOC trata-se de uma doenca obstrutiva das vias aereas. E comum sua ocorrencia em pacientes tabagistas. Sua semiologia traz um torax em barril/tonel, com sibilos, fase expiratoria prolongada, murmurio vesicular diminuido. Os pacientes apresentam uma dispneia basal, podendo tambem apresentar tosse. A espirometria e util para sua confirmacao diagnostica.
+O tratamento se faz com uso de broncodilatadores.
+
+('start pos not found', 'dpoc')
+DPOC e uma doenca causada por exposicao a substancias lesivas ao pulmao, principalmente devido ao tabaco e a queima de lenha, podendo ser decorrente de condicoes inflamatorias cronicas. Ha presenca predominante de enfisema e bronquite. E um disturbio ventilatorio obstrutivo, com diagnostico clinico e espirometrico. Classifica-se segunda a escala de GOLD tanto em relacao a valores espirometricos quanto a sintomas clinicos, e o tratamento e definido a partir destas classificacoes. Este e realizado com medidas comportamentais, como cessar a exposicao ao agente irritante, e medicamentosa com broncodilatadores, nao sendo utilizado de rotina corticoide inl
+('start pos not found', 'dpoc')
+a DPOC e uma doenca muito associada com pacientes tabagistas &gt;10 anos/maco. apresenta como quadro clinico dispneia aos esforcos (ou repouso se avancado), tosse cronica com ou sem expectoracao, aumento do diametro anteroposterior do torax. a espirometria, o paciente apresenta quadro obstrutivo sem resposta a broncodilatador. para tratamento de manutencao, a depender da classificacao do GOLD (intensidade dos sintomas, numero de exacerbacoes, etc), pode-se optar por broncodilatadores de curta ou longa duracao. e comum que o paciente exacerbe seu quadro com pneumonia bacteriana, sendo necessario estabilizacao e tratamento com antibiotico. o paciente deve ser incentivado a cessar o tabagismo (nao regride a doenca, mas retarda a evolucao).
+('start pos not found', 'dpoc')
+a DPOC e uma doenca muito associada com pacientes tabagistas &gt;10 anos/maco. apresenta como quadro clinico dispneia aos esforcos (ou repouso se avancado), tosse cronica com ou sem expectoracao, aumento do diametro anteroposterior do torax. a espirometria, o paciente apresenta quadro obstrutivo sem resposta a broncodilatador. para tratamento de manutencao, a depender da classificacao do GOLD (intensidade dos sintomas, numero de exacerbacoes, etc), pode-se optar por broncodilatadores de curta ou longa duracao. e comum que o paciente exacerbe seu quadro com pneumonia bacteriana, sendo necessario estabilizacao e tratamento com antibiotico. o paciente deve ser incentivado a cessar o tabagismo (nao regride a doenca, mas retarda a evolucao).
+('start pos not found', 'dpoc')
+DPOC
+Pink Puffer ou Blue
+Pode ter diferentes tipos de biotipos nos pacientes
+Importantes auscutas pulmonares
+Pode evoluir com gravidade
+
+('start pos not found', 'dpoc')
+A Doenca Pulmonar Obstrutiva Cronica (DPOC) faz parte dos disturbios pulmonares obstrutivos, juntamente com a Asma Bronquica. Diferencia-se da Asma pela ausencia de resposta a prova broncodilatadora durante a espirometria, alem de estar fortemente associada ao tabagismo.
+Alem do tabagismo, pode estar associada a demais exposicoes como fogoes a lenha e outras fontes de fumaca.
+O paciente portador de DPOC pode ser enquadrado em dois fenotipos diferentes: bronquico e enfisematoso. Os sintomas incluem dispneia progressiva, tosse seca pela manha, pigarro, e sao classificados de acordo com os criterios de GOLD. O tratamento e feito com broncodilatadores (agonistas B-adrenergicos e muscarinicos), fisioterapia respiratoria, cessacao do tabagismo e demais medidas nao farmacologicas.&nbsp;
+Pacientes com DPOC podem passar por episodios de agudizacao, com aumento dos sintomas e surgimento de expectoracao amarelada de maior volume. Nesses casos, e necessaria a admissao hospitalar para tratamento de suporte ao quadro infeccioso.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e causada por exposicao a fatores ambientais irritantes (tabagismo, fogao de lenha, poluicao, exposicoes ocupacionais) associada a predisposicao genetica individual. Tem um componente enfisematoso (perda da arquitetura alveolar, podendo levar a aprisionamento aereo) e um componente bronquico (inflamacao dos bronquios e bronquiolos, com sintomas de expectoracao e tosse).&nbsp; Os sintomas sao: dispneia, tosse, expectoracao, chiado no peito.
+O tratamento e o uso de Broncodilatadores do tipo beta dois agonistas (dependendo da classificacao, pode-se associar corticoides inalatorios ou antagonistas de receptores muscarinicos, ou outras classes de medicamentos. A fisioterapia respiratoria ajuda no tratamento. Cessar o tabagismo melhora muito a sobrevida. Uso de oxigenoterapia nos casos indicados tambem melhora sobrevida.
+
+('start pos not found', 'dpoc')
+Doenca Pulmonar Obstrutiva Cronica e caracterizada por enfisema pulmonar e fibrose intersticial. Esta epidemiologicamente associada a tabagismo e/ou a inalacao de fumaca por tempo pronlongado durante a vida. Clinicamente se apresenta com dispneia progressiva, dessaturacao (em quadros graves ha necessidade de oxigenioterapia domiciliar), tosse com ou sem expectoracao. Para melhor avaliacao do quadro, alem do aspecto clinico, pode-se realizar tomografica computadorizada de torax e espirometria. O tratamento e feito com orientacoes para cessar tabagismo, e medicacoes para crises de broncoespasmos.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+Na doenca pulmonar obstrutiva cronica (DPOC), ha um prejuizo,&nbsp; uma obstrucao da passagem de ar pelos pulmoes. Possui associacao com bronquite e enfisema pulmonar causadas pelo tabagismo.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc),')
+A DPOC e uma sindrome clinica que acomete de maneira cronica os pulmoes bilteralmente. Pode ser causada pelo tabagismo, pode ocorrer como consequencia de infeccoes pulmonares, pode se dever a sequela de asma, fibrose cistica ou doenca pulmonar intersticial em individuos expostos cronicamente a fogoes a lenha, por exemplo. A DPOC e uma doenca progressiva em que a funcao pulmonar vai diminuindo, podendo gerar um quadro enfisematoso, em que o pulmao expande mas tem dificuldade de se retrair, pois perdeu a elasticidade das suas fibras de colageno presentes no parenquima. Nao existe tratamento cirurgico para DPOC, e medicacoes de acao bronquica tem alcance limitado. O diagn´sotico pode ser feito clinicamente ou por meio de espirometria.
+('start pos not found', 'dpoc')
+A DPOC e uma sindrome clinica que acomete de maneira cronica os pulmoes bilteralmente. Pode ser causada pelo tabagismo, pode ocorrer como consequencia de infeccoes pulmonares, pode se dever a sequela de asma, fibrose cistica ou doenca pulmonar intersticial em individuos expostos cronicamente a fogoes a lenha, por exemplo. A DPOC e uma doenca progressiva em que a funcao pulmonar vai diminuindo, podendo gerar um quadro enfisematoso, em que o pulmao expande mas tem dificuldade de se retrair, pois perdeu a elasticidade das suas fibras de colageno presentes no parenquima. Nao existe tratamento cirurgico para DPOC, e medicacoes de acao bronquica tem alcance limitado. O diagn´sotico pode ser feito clinicamente ou por meio de espirometria.
+('start pos not found', 'dpoc')
+A DPOC consiste no aumento da resitencia ao fluxo nas vias aerias do pulmao. Esse aumento da resistencia leva a um maior esforco muscular para a inspiracao. As duas principais doencas causadoras de DPOC sao enfisema pulmonar e a bronquite cronica. A inalacao cronica da fumaca do cigarro ou de outros materias, como materia particulada, pode levar a essa doenca. Ha morte do tecido pulmonar, principalmente dos alveolos. Como a troca gasosa do ar com o sangue fica comprometida pela morte alveolar, a oxigenacao do sangue pode ser prejudicada e haver hipoxia sistemica.
+('start pos not found', 'dpoc')
+Dois principais polos: bronquitico e enfisematoso
+Bronquitico: expectoracao produtiva, paciente com sobrepeso,
+Enfisematoso: torax em barril, paciente emagrecido, coloracao da pele mais avermelhada/rosea, hemoglobina elev
+Esses dois polos normalmente se interpoem na clinica.
+Fatores de risco: tabagismo
+Paciente sob maior risco de infeccoes pulmonares e pior desfecho
+Exames complementares: RX torax, espirometria
+Comum pacientes de longa evolucao apresentarem SpO2 abaixo do considerado normal (92%) sem clinica. Cuidado ao ofertar O2, como nessa fase a regulacao central se faz pela PaCO2, na oferta de O2 o paciente pode perder essa regulacao e piorar.
+Orientar parar tabagismo, se paciente for fumante
+
+('start pos not found', 'dois principais polos: bronquitico e enfisematoso')
+DPOC e uma doenca respiratoria inflamatoria, cursando com desconforto respiratorio. Um fator de risco e o tabagismo. Dentre os medicamentos utilizados, estao os farmacos antiinflamatorios para o tratamento a longo prazo, cujo principio e diminuir a formacao de leucotrienos, e agonistas beta-adrenergicos, usados em momentos de crise para promover alivio respiratorio atraves da broncodilatacao.
+('start pos not found', 'dpoc')
+Associada principalmente a importante carga tabagica
+Classificacao pelos criterios de GOLD
+Exacerbacoes reduzem muito a sobrevida e devem ser prevenidas - vacinacao, etc
+Tratamento depende da funcao pulmonar
+Cessacao de tabagismo e fundamental
+Em geral tratamento com LABA
+Terapia de resgate com SABA se necessario
+Reabilitacao respiratoria pode ajudar
+Exame fisico - sons pulmonares difusamente reduzidos
+Raio - X hiperinsuflado
+Aumento do Diametro Anteroposteriror do torax presenta
+Sintomas: dispneia, tosse produtiva, chiado
+Pode ser associado LAMA junto ao LABA para o tratamento
+Alguns pacientes precisam de oxigenoterapia
+
+('start pos not found', 'associada principalmente a importante carga tabagica')
+Epidemiologia: associado ao tabagismo com alta carga tabagica e raramente a deficiencia de anti-tripisina-1
+Diagnostico: Raio X, testes de funcao pulmonar (nao ha melhora da funcao com uso de BD), historia clinica e exame fisico.
+Tratamento: com broncodilatadores, abstencao do tabagismo, evitar fatores predisponentes de exacerbacoes (infeccoes, exposicao aeroalergenos, etc).
+Na exacerbacao: deve-se fazer monitorizacao dos sinais vitais, manter O2 em 92%, uso de broncodilatadores, investigar fatores predisponentes.
+
+('start pos not found', 'epidemiologia:')
+A doenca pulmonar obstrutiva cronica (DPOC) tem uma instalacao lenta e corresponde a um grupo de doencas respiratorias que provocam a obstrucao da passagem do ar pelos pulmoes. Entre elas tem a bronquite e o enfisema pulmonar. Tem associacao com o tabagismo (fator de risco).
+o principal sintoma e dispneia associada a esforcos que progressvamente se torna mais intensa e provocada por esforcos cada vez menores. Alem disso entre os principais sintomas temos: tosse, pigarro, falta de ar e cansaco e catarro.
+Diagnostico: espirometria, radiografia de torax
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca relacionada ao tabagismo, a qual consiste na diminuicao de area pulmonar util, causando sintomas como tosse e dispneia. Pode se apresentar na foma de enfisema ou na forma bronquitica. O diagnostico e feito com espirometria alterada, com caracteres obstrutivos, os quais nao respondem a broncodilator (perfil bronquitico) ou como restritivo (enfisema). Ha uma classificacao chamada GOLD para o estadiamento da DPOC e, assim, podemos usar os medicamentos mais adequados para o perfil do paciente de acordo com o grau de DPOC. Lembrar que esses pacientes tem mais complicacoes em relacao as infeccoes respiratorias como influenza e pneumonia adquirida na comunidade, por isso e importante ressaltar a vacinacao anual para influenza e fazer esquema de vacina anti-pneumococica.
+('start pos not found', 'dpoc')
+DPOC e uma doenca relacionada ao tabagismo, a qual consiste na diminuicao de area pulmonar util, causando sintomas como tosse e dispneia. Pode se apresentar na foma de enfisema ou na forma bronquitica. O diagnostico e feito com espirometria alterada, com caracteres obstrutivos, os quais nao respondem a broncodilator (perfil bronquitico) ou como restritivo (enfisema). Ha uma classificacao chamada GOLD para o estadiamento da DPOC e, assim, podemos usar os medicamentos mais adequados para o perfil do paciente de acordo com o grau de DPOC. Lembrar que esses pacientes tem mais complicacoes em relacao as infeccoes respiratorias como influenza e pneumonia adquirida na comunidade, por isso e importante ressaltar a vacinacao anual para influenza e fazer esquema de vacina anti-pneumococica.
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutivas DPOCs sao doencas em que ha a obstrucao pulmonar por alguma razao. Isso pode estar associada a destruicao anormal de tecido como o enfisema ou devido a producao excessiva de muco como na bronquite cronica. Essas causas estao muito associadas ao cigarro e a acao de macrofagos, linfocitos TH17 e neutrofilos. Pode ser necessario a broncodilatacao ou a acao de antinflamatorios para a melhor ventilacao do paciente. Sintomas tipicos envolvem a producao de muco, a tosse e&nbsp; diminuicao da complacencia puolmonar.
+('start pos not found', 'doenca pulmonar obstrutivas dpocs')
+A DPOC tem dois componenetes fisiopatologicos co-existentes: enfisema pulmonar e bronquite pulmonar. Ocorre em pacientes com exposicao a toxinas inalatorias, tais como: cigarro, fumacao de fogao a lenha. Em pacientes sem essa exposicao, deve-se desconfiar de deficiencia primaria de anti-alfa1tripsina. O paciente cursa com uma hiperinsfluacao pulmonar, vista no exame fisico como torax em barril e no RX de torax atraves da retificacao de arcos costais. Alem disso, ocorre aumento do hematocrito para compensar a hipoxemia cronica, disfuncao de VD devido a hipertensao pulomonar secundaria (cor pulmonale.). Parse seu diagnostico, e necessaria espirometria com VEF1/CVF &lt;0,7. Seu tratamento varia conforme sua variacao que leva em conta a gravidade dos sintomas e numero de internacoes ou ida s ao pronto socorro (exacerbacoes). Mas se dara sobretudo com base em beta agonistas de curta ou longa duracao . A oxigenoterapia e vacinacao se mostraram capazes de reduzir mortalid
+('start pos not found', 'dpoc')
+Obstrucao dos bronquios pulmonares. Doenca cronica, portanto, genetica.
+('start pos not found', 'obstrucao dos bronquios pulmonares.')
+A doenca pulmonar obstrutiva cronica (DPOC) trata-se de um conjunto de doencas pulmonares que irao levar a insuficiencia respiratoria em virtude da maior dificuldade do paciente conseguir respirar. Algumas doencas que podem compor a DPOC sao: bronquiectasias, fibrose cistica, bronquiolite. Os sintomas presentes da DPOC sao, principalmente, tosse, falta de ar e expectoracao.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+E UMA DOENCA QUE OCORRE EM PACIENTES TABAGISTAS OU QUE TIVERAM CONTATO COM SUBSTANCIAS POLUENTES (ASBESTO, FORNO A LENHA, ETC). CLINICAMENTE O PACIENTE APRESENTA NIVEIS DE SATURACAO MENORES, TORAX "EM BARRIL" E PODE APRESENTAR DISPNEIA AOS PEQUENOS ESFORCOS. NA AUSCULTA, PODEMOS OUVIR RONCOS DE TRANSMISSAO E MURMURIOS VESICULARES DIMINUIDOS. O PACIENTE TEM UMA LESAO IRREVERSIVEL DO CANAL BRONQUICO, DIFERENTEMENTE DA ASMA. PODEMOS TRATAR COM USO DE MEDICAMENTOS INALATORIOS BRONCODILATADORES SE O PACIENTE FOR MUITO ASSINTOMATICO.
+('start pos not found', 'doenca')
+DPOC (doenca pulmonar opbstrutiva cronica) e uma condicao em que o paciente e submetido a poluentes durante grande parte de sua vida. Exposicoes ao cigarro e ao forno a lenha sao os principais causadores. O paciente pode apresentar dispneia, torax em tonel e tosse. O tratamento dependera das condicoes do paciente e deve ser discutida com um pneumologista
+('start pos not found', 'dpoc (doenca pulmonar opbstrutiva cronica)')
+DPOC esta fortemente associada a tabagismo cronico. Doenca causa reducao da complacencia pulmonar. Ocorre alargamento do torax, devido a essa reducao. Envolve bronquite cronica em sua fisiopatologia.
+('start pos not found', 'dpoc')
+DPOC esta fortemente associada a tabagismo cronico. Doenca causa reducao da complacencia pulmonar. Ocorre alargamento do torax, devido a essa reducao. Envolve bronquite cronica em sua fisiopatologia.
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica refere-se a uma obstrucao persistente das vias aereas associada a alteracoes estruturais por inalacao de substancias toxicas a arvore traqueobronquica.
+Relaciona-se especialmente ao tabagismo cronico, com alta carga tabagica, podendo ter uma clinica de bronquite alveolar ate enfisema pulmonar. Ao exame fisico pode ser notado torax em tonel, crepitacoes, roncos.
+O diagnostico pode ser feito com espirometria, mostranto um padrao obstrutivo com reducao de VEF1 e da
+razao VEF1/CVF para menor ou igual a 0,7. Quando estiver entre 0,6 e 0,8 deve ser feita uma segunda analise espirometrica para fechar o diagnostico. No exame nao ha alteracao com o uso de broncodilatador, pois e uma obstrucao irreversivel das vias aereas
+O tratamento pode ser
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+DPOC e uma doenca que tem o tabagismo como principal fator de risco. Em relacao a sua fisiopatologia, o parenquima pulmonar sofre metaplasia, diminuindo o cleance pulmonar, facilitando a suscetibilidade a infeccoes (pneumonia). A capacidade de volume pulmonar aumenta, dificultado a retirada de ar do pulmao, dando ao torax a caracteristica de tonel. Seu diagnostico e feito por meio da espirometria, tendo uma padrao obstrutivo. Sua diferenciacao da asma e feito pelo quadro clinico e pela falta de resposta ao brocondilatador.&nbsp;
+('start pos not found', 'dpoc')
+DPOC e uma doenca que tem o tabagismo como principal fator de risco. Em relacao a sua fisiopatologia, o parenquima pulmonar sofre metaplasia, diminuindo o cleance pulmonar, facilitando a suscetibilidade a infeccoes (pneumonia). A capacidade de volume pulmonar aumenta, dificultado a retirada de ar do pulmao, dando ao torax a caracteristica de tonel. Seu diagnostico e feito por meio da espirometria, tendo uma padrao obstrutivo. Sua diferenciacao da asma e feito pelo quadro clinico e pela falta de resposta ao brocondilatador.&nbsp;
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica normalmente esta associada ao tabagismo, depois de anos de carga tabagica. Portanto, epidemiologia: homens, idosos, tabagistas.
+Paciente pode ser sintomatico ou nao e ter exacerbacoes frequentes ou nao.
+O tratamento consiste em beta-2-agonistas ou antimuscarinicos, podendo ser associados dependendo do grau de DPOC.
+A classificacao e em A,B, C ou D, sendo
+A: pouco sintomas e pouca exacerbacao - beta-2-agonistas de longa duracao.
+B: muitos sintomas e pouca exacerbacao - beta-2-agonistas de longa duracao.
+C: pouco sintomas e muita exacerbacao - Tiotropio.
+D: muito sintomas e muita exacerbacao: Tiotropio + beta-2-agonistas de longa duracao.
+Outra classificacao e em GOLD 1, 2, 3 e 4, a depender a espirometria.
+O tratamento geral consiste em cessacao do tabagismo, vacina pneumococica.
+Nos casos "D" tambem fisioterapia respiratoria.
+Pela gasometria + sintomas tambem podemos indicar uso de oxigenio domiciliar &gt; 15h por dia.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+DPOC (bronquite e enfisema pulmonar) e uma doenca cronica, com causa principal devido tabagismo de longa data. Agentes toxiicos da cigarro lesao a mucosa bronquica causando inflamacao cronica, modificacao/endurecimento dos bronquios, lesao alveolar ((liberacao de mieloperoxidade, etc), e dminiuicao de alveolos funcionantes. Sintomas principais sao dispneia, tosse seca ou expectorante, podnedo haver periodos de exacerbacao com pneumonias atipicas. Tratamento e de suporte sintomatico, pois nao e possivel reverter a condicao. Uso de broncodilatadores de longa duracao (LABA), corticoides inalatorios, tiotropio auxiliam na melhoram o quadro respiratorio. Nos casos agudos, salbutamol, pode ser utlizado
+('start pos not found', 'dpoc (bronquite e enfisema pulmonar)')
+O paciente com DPOC frequentemente apresenta torax em tonel e baqueteamento digital, assim como sibilos expiratorios na ausculta pulmonar.
+('start pos not found', 'dpoc')
+Associado a Tabagistas. Tem dois perfis, o magro com dipneia e o obeso cianotico. Relacao VEF1/CVF aumentada. Tempo de expiracao aumentado. Doenca progressiva. Diagnostico clinico. Piora com exacerbacoes e o prognostico e pior quanto mais internacoes ou exacerbacoes. Pode apresentar clinica de torax em barril e baqueteamento digital.
+('start pos not found', 'associado a tabagistas.')
+Clinica pode cursar com o tipo enfisematoso ou bronquite.
+Associada a exposicao a tabagismo ou a residuos toxicos, como fogao a lenha e outras exposicoes cronicas.
+Tratamento consite em prevenir exarcebacoes e melhorar qualidade de vida.
+PAciente enfisematoso: emagrecido, com historico de tosse, no rx apresenta diamento AP aumentado.
+Bronquite: tosse produtiva, paciente
+
+('start pos not found', 'clinica pode cursar com o tipo enfisematoso ou bronquite.')
+DPOC e uma doenca obstrutiva prevalente na populacao, sendo importante sua relacao com altas cargas tabagicas. Sendo um disturbio obstrutivo, esperamos, na espirometria reducao da relacao VEF1/CVF (&lt;70%), e sua ausencia de resposta do VEF1 ao broncodilatador, e o que principalmente a diferencia da asma. O tratamento depende da classificacao GOLD e da gravidade da limitacao do VEF1, sendo LAMA e LABA os principais recursos terapeuticos. CI pode ser utilizado principalmente em individuos GOLD D com eosinofilia importante.
+Quadro clinico principal e dispneia, tosse e expectoracao. As exacerbacoes sao frequentes principalmente por PAC. Geralmente o tratamento consiste em suporte respiratorio (sendo a VNI primeira escolha podendo ser necessaria ate IOT), ATB com quinolona respiratoria e corticoide por 5-7 dias associado a SABA na unidade de emergencia.
+A reducao de mortalidade principal e feita por cessacao do tabagismo, o2 suplementar e cirurgia para reducao de volume pulmonar no s individuos incicados
+
+('start pos not found', 'dpoc')
+Doencas pulmonares obstrutivas cronicas, assim como a asma, sao doencas que causam o espessamento do lumen da arvore bronquica, em especial nos bronquiolos, dificultando a passagem de ar pelas vias aereas. Com isso, em especial o esvaziamento do pulmao na expiracao, fica dificultando, causando dispneia (desconforto respiratorio). O uso de beta bloquadores pode ajudar, especialmente em casos de asma, pois ao relaxar a musculatura lisa dos bronquiolos, aumenta a luz dos vasos facilitando o movimento dos gases. Essa doenca esta relacionada com maus habitos, como o tabagismo ou exposicao a fumaca e gases toxicos, mas tambem a alergias, como pode ocorrer em individuos asmaticos (hipersensibilidade do tipo I). Nos casos alergicos, anti-histaminicos tambem podem ser de ajuda no tratamento.
+('start pos not found', 'doencas pulmonares obstrutivas cronicas,')
+DPOC e uma classe de doencas caracterizadas pela reducao da prova de funcao pulmonar (espirometria) de evolucao cronica, as quais evoluem com enfisema pulmonar.
+('start pos not found', 'dpoc')
+As DPOC como a bronquite e o enfisema se manifestam ao longo do tempo e podem ser causadas por fatores de exposicao como o cigarro e o contato com a fumaca no dia a dia. Caracterizam-se pela obstrucao pulmonar que pode se manifestar como taquipneia em esforco fisico e insuficiencia respiratoria. O tratamento pode ser realizado com broncodilatadores, como os agonistas beta 2 adrenergicos.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca cronica que afeta principalmente idosos e pessoas que tiveram muito contato com fumaca (cigarro, fogao a lenha, churrasqueira etc.) que provoca hiperplasia glandular de bronquios e hiperreflexia das vias aereas, alem de hipersecrecao glandular nas vias aereas baixas. Os pacientes apresentam torax em barril, roncos, estertores grossos, maior facilidade de contrair pneumonia e de outras complicacoes. Seu tratamento se inicia com beta-2-agonistas e suas exacerbacoes podem ser tratadas com antibiotico, oxigenioterapia, corticoides.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca cronica que afeta principalmente idosos e pessoas que tiveram muito contato com fumaca (cigarro, fogao a lenha, churrasqueira etc.) que provoca hiperplasia glandular de bronquios e hiperreflexia das vias aereas, alem de hipersecrecao glandular nas vias aereas baixas. Os pacientes apresentam torax em barril, roncos, estertores grossos, maior facilidade de contrair pneumonia e de outras complicacoes. Seu tratamento se inicia com beta-2-agonistas e suas exacerbacoes podem ser tratadas com antibiotico, oxigenioterapia, corticoides.
+('start pos not found', 'dpoc')
+A DPOC e causada por exposicao prolongada a particulas, como consequencia de tabagismo ou de exposicao a poluentes em situacoes de trabalho, como silica. A exposicao as particulas gera reacao tecidual no alveolos e consequente fibrose, que diminui a area de troca gasosa pulmonar e prejudica as incursoes respiratorias.
+A medida que a exposicao se prolonga e os efeitos se agravam, a doenca cursa com dispneia, prejuizo a saturacao de oxigenio em tecidos perifericos e ate caquexia.
+Alguns achado semiologicos desta doenca sao unha em vidro de relogio, percussao hipersonora de torax e diminuicao de murmurio vesicular.
+E a principal causa de mmorte por doenca pulmonar
+
+('start pos not found', 'dpoc')
+A DPOC e causada por exposicao prolongada a particulas, como consequencia de tabagismo ou de exposicao a poluentes em situacoes de trabalho, como silica. A exposicao as particulas gera reacao tecidual no alveolos e consequente fibrose, que diminui a area de troca gasosa pulmonar e prejudica as incursoes respiratorias.
+A medida que a exposicao se prolonga e os efeitos se agravam, a doenca cursa com dispneia, prejuizo a saturacao de oxigenio em tecidos perifericos e ate caquexia.
+Alguns achado semiologicos desta doenca sao unha em vidro de relogio, percussao hipersonora de torax e diminuicao de murmurio vesicular.
+E a principal causa de mmorte por doenca pulmonar
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca obstrutiva, fortemente suspeita em pacientes com historia de tabagismo e que podem levar o paciente a necessitar de oxigenoterapia e maior suscetibilidade a infeccoes pulmonares de repeticao.
+Exigem adequacao ao ventilar com alvo de sat entre 88 e 92% O2 e necessario usar mascara venturi caso necessitem de suporte.
+
+('start pos not found', 'dpoc')
+tambem conhecido como DPOC, e uma doenca causada principalmente pelo tabagismo cronico, enquadrando-se dentro do quadro de sindrome de hiperinsuflacao, em que o torax aumenta de volume e o pulmao diminui sua expansibilidade, devido ao quadro inflamatorio, nao conseguindo expirar todo o ar, aumentando a quantidade de ar morto.
+no quadro clinico ha AP de tabagismo, torax globoso, aumento de FR, diafragma retificado.
+
+('start pos not found', 'dpoc,')
+A DPOC e uma doenca geralmente causada por onstrucao dos alveolos pulmonares, associada principlamente ao preenchimentos desses por liquido. Quadro de dispneia, tosse e taquipneia.
+('start pos not found', 'dpoc')
+O paciente com DPOC e um retentor cronico de CO2. Sendo assim, o manjeo desse paciente quando na emergencia deve ter adequado as suas necessidades e demandas, como por exemplo: o cuidado do uso de oxigenio nesses pacientes.
+Alem disso, a DPOC e uma doenca restritiva, nas quais bronquite cronica e enfisema estao englobados. Os sintomas mais comuns sao tosse, cansaco, falta de ar e infecccoes respiratorias que podem acontecer de modo frequente. O tabagismo e um fator de risco e causa importante de enfisema pulmonar. Existem testes respiratorios que podem ser feitos para caracterizar os volumes expiratorios desses pacientes e melhor maneja-los com relacao ao tratamento.
+
+('start pos not found', 'dpoc')
+O paciente com DPOC e um retentor cronico de CO2. Sendo assim, o manjeo desse paciente quando na emergencia deve ter adequado as suas necessidades e demandas, como por exemplo: o cuidado do uso de oxigenio nesses pacientes.
+Alem disso, a DPOC e uma doenca restritiva, nas quais bronquite cronica e enfisema estao englobados. Os sintomas mais comuns sao tosse, cansaco, falta de ar e infecccoes respiratorias que podem acontecer de modo frequente. O tabagismo e um fator de risco e causa importante de enfisema pulmonar. Existem testes respiratorios que podem ser feitos para caracterizar os volumes expiratorios desses pacientes e melhor maneja-los com relacao ao tratamento.
+
+('start pos not found', 'dpoc')
+O paciente com DPOC comumente apresenta uma historia de tabagismo previo e cursa com sintomas de dispneia e tosse. Apresenta ao exame fisico, aumento do diameto antero-posterior (torax em tonel), diminuicao da expansibilidade. O paciente pode apresentar descompensacoes da doenca, principalmente por infeccoes. Para classificar, utiliza-se a escala mMRC e a quantidade de descompensacoes por ano. Para o diagnostico, utiliza-se a espirometria.
+('start pos not found', 'dpoc')
+DPOC e uma doenca que ocorre cronicamente, possui dois padroes: enfisematoso e bronquitico. Ocorre predominantemente em tabagistas LONGA carga tabagica, entre outras comorbidades. Fisiopatologia complexa, neutrofilica ou pouco associada a fisiopatologia de asma. Doenca limitante, que AGUDIZA em quaisquer comorbidades e emergencias e traumas que o paciente enfrentar. Nebulizacao e O2 com atrovent podem ser necessarios, aerolin em frascos/jatos entre outros em caso de agudizacoes. Clinicamente, podemos basear exame fisico e anamnese, um RAIO X com hipertransparencia pulmonar, retificacao diafragmatica e outros achados como separacao maior entre as costelas. TESTE ESPIROMETRICO pode ser usado - NAO MELHORA DA FUNCAO BRONCODILATADORA, tracando DIFERENCIAL com ASMA. Tratamento importante com CESSACAO DO TABAGISMO, e medicacoes com atrovent, brometo ipratropio, terbutalina e outros beta-agonistas recomendados pelas sociedades, entre outras estrategias. O acompanhamento AMBULATORIAL e essencial para verificar QUALIDADE DE VIDA e influencias no trabalho. Alem de ver as causas OCUPACIONAIS que podem interferir no processo da doenca.
+('start pos not found', 'dpoc')
+DPOC e uma doenca que ocorre cronicamente, possui dois padroes: enfisematoso e bronquitico. Ocorre predominantemente em tabagistas LONGA carga tabagica, entre outras comorbidades. Fisiopatologia complexa, neutrofilica ou pouco associada a fisiopatologia de asma. Doenca limitante, que AGUDIZA em quaisquer comorbidades e emergencias e traumas que o paciente enfrentar. Nebulizacao e O2 com atrovent podem ser necessarios, aerolin em frascos/jatos entre outros em caso de agudizacoes. Clinicamente, podemos basear exame fisico e anamnese, um RAIO X com hipertransparencia pulmonar, retificacao diafragmatica e outros achados como separacao maior entre as costelas. TESTE ESPIROMETRICO pode ser usado - NAO MELHORA DA FUNCAO BRONCODILATADORA, tracando DIFERENCIAL com ASMA. Tratamento importante com CESSACAO DO TABAGISMO, e medicacoes com atrovent, brometo ipratropio, terbutalina e outros beta-agonistas recomendados pelas sociedades, entre outras estrategias. O acompanhamento AMBULATORIAL e essencial para verificar QUALIDADE DE VIDA e influencias no trabalho. Alem de ver as causas OCUPACIONAIS que podem interferir no processo da doenca.
+('start pos not found', 'dpoc')
+Doenca cronica que acomete usualmente tabagistas de longa data. E o conjunto de bronquite com enfisema. Semiologia: apresentar torax em formato de barril, hiperinsuflacao pulmonar. Pode cursar com MV reduzido devido a perda da barreira entre os alveolos. A hipoxemia cronica leva a aumento da hemoglobina de forma compensatoria, logo o paciente pode apresentar aspecto rosado da pele, ou azulado devido a cianose. Baueteamento digital pode ser observado, mas nao e especifico.
+('start pos not found', 'doenca cronica')
+Na definicao sindromica de DPOC nos temos duas manifestacoes clinicas extremas: o bronquitico (antigamente denominado Blue Boater) e o enfisematico (Pink Puffer). Normalmente os pacientes possuem caracteristicas desses dois extremos. No caso das manifestacao bronquitica nos teremos pacientes com perfis de IMC mais elevado, que possuem a bronquite como uma manifestacao tipica, isto e, havera inflamacao de seus bronquios, o que os levara a produzir tosse produtiva e uma hiperinsuflacao pumonar, ao passo que o no espectro Pink Puffer nos teremos individuos emagrecidos, muito comum que sejam tabagistas e possuem a hiperaeracao de seu pulmoes como o aspecto principal da manifestacao de DPOC. O tabagismo e um dos principais fatores relacionados ao surgimento de DPOC.
+('start pos not found', 'dpoc')
+A Doenca Pulmonar Obstrutiva Cronica (DPOC) e uma das maiores causas de morte no Brasil. Esta associada a locais de subdesenvolvimento, onde estrategias de prevencao nao sao eficazes e o tratamento nao esta amplamente disponivel. Ocorre em pacientes tabagistas de longa data, em pessoas que sao submetidas a regime de fumaca por anos. Ha hiperinsuflacao dos pulmoes e remodelamento da caixa toracica. O fluxo de ar pulmonar e bloqueado, levando a uma maior retencao de CO2. Ha tosse produtiva, dispenia. Ao exame fisico, o murmurio vesicular e diminuido e podem haver sibilos. O diagnostico pode ser presumido. Podem haver exacerbacoes, com complicacoes infecciosas. O tratamento consiste em cessar o tabagismo, broncodilatadores, oxigenoterapia.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A Doenca Pulmonar Obstrutiva Cronica (DPOC) e uma das maiores causas de morte no Brasil. Esta associada a locais de subdesenvolvimento, onde estrategias de prevencao nao sao eficazes e o tratamento nao esta amplamente disponivel. Ocorre em pacientes tabagistas de longa data, em pessoas que sao submetidas a regime de fumaca por anos. Ha hiperinsuflacao dos pulmoes e remodelamento da caixa toracica. O fluxo de ar pulmonar e bloqueado, levando a uma maior retencao de CO2. Ha tosse produtiva, dispenia. Ao exame fisico, o murmurio vesicular e diminuido e podem haver sibilos. O diagnostico pode ser presumido. Podem haver exacerbacoes, com complicacoes infecciosas. O tratamento consiste em cessar o tabagismo, broncodilatadores, oxigenoterapia.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A doenca pulmonar obstrutiva cronica (DPOC) se caracteriza como uma doenca especifica dentro de um grupo maior chamado de Doencas Pulmonares Obstrutivas Cronicas. Esta acomete adultos mais maduros e idosos principalmente. Tem como fatores de risco a exposicao a tabaco e outras substancias danosas, como asbesto e silicas. E causada por alteracoes na capacidade de troca pulmonar (alteracao da area de troca de modo a provocar menor oxigenacao sanguinea). Semiologicamente encontram-se estes sintomas e sinais: dispneia, orotpneia, tosse, cansaco, fadiga, cianose, reducao do nivel de consciencia, uso de musculatura acessoria para ventilacao,
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca cronica que e causada principalmente por dois sintomas: atelectasia e obstrucao da via aerea (com fibrose).
+Sao causadas em duas populacoes: pessoas que tem elevada carga tabagica (acima de 20 macos ano) ou entao que falta a enzima alfa1-antitripsina.
+E importante a doenca no pais devido a sua prevalencia.
+Como diagnostico, e importante realizar o pico de fluxo expiratorio, percebendo se ha melhora ou nao com a utilizacao de SABA.
+Como tratamento, e importante utilizar corticoide + SABA.
+Tambem deve-se previnir exacerbacoes, como em caso de infeccoes de vias aereas por exemplo. Nesse caso, se identifica a exacerbacao pelo aumento da tosse, taquipneia e escarro.
+Como tratamento, se faz ambas as medicacoes comentadas anteriormente, alem de se inserir o ipratropio, para se aumentar a broncodilatacao.
+
+('start pos not found', 'dpoc')
+DPOC e uma doenca composta por sintomas respiratorios cronicos e limitacao do fluxo aereo, provocada por alteracoes nas vias aereas causadas principalmente por exposicoes croncias a particulas e gases nocivos. Comumente e composta por duas apresentacoes clinicas: o "blue bloater" e o "pink puffer".
+As manifestacoes clinicas sao comumente compostas por dispneia e tosse cronica e expectoracao. O principal fator de risco e o tabagismo.
+A abordagem e conduta do paciente com DPOC se da pela classificacao de GOLD, a qual estadia a doenca do paciente e define seu tratamento.
+O tratamento e feito com broncodilatadores, tais como o LABA e LAMA. Alem disso, e essencial a cessacao do tabagismo no tratamento.
+
+('start pos not found', 'dpoc')
+As DPOCs sao caracterizadas pelo seu principal fator de risco: o tabagismo, sendo secundaria causa o uso de forno a lenha. Sao doencas cronicas que diminuem a capacidade pulmonar do paciente e o tornam suscetivel a infeccoes respiratorias, alem ser fator de risco agravantes para outras doencas. Ao exame fisico, o paciente em geral apresenta o torax em forma de tonel, e a identificacao da doenca e importante em casos de suporte ventilatorio, pois a fisiologia do controle da respiracao nesses pacientes e alterada, sendo realizada, ao inves da concentracao de CO2, pela concentracao de O2 no sangue. Com isso, no suporte ventilatorio, a concentracao de O2 deve ser reduzida, a fim de se evitar depressao do sistema respiratorio do paciente.
+('start pos not found', 'dpocs')
+A DPOC e uma doenca cronica caracterizada pela destruicao do parenquima pulmonar devido, especialmente, ao uso de cigarro e a exposicao a outros produtos de combustao organica, como madeira. Clinicamente, ela se manifesta pela dispneia cronica e progressiva, tosse, fadiga, aumento do diametro anteroposterior do pulmao, alem de posicoes tipicas apresentadas pelas pessoas acometidas (especialmente, sentar-se com inclinacao posterior para reduzir o trabalho pulmonar). Esta doenca se se caracteriza por um padrao obstrutivo aos exames espirometricos que, diferentemente da asma, nao e revertido pelo uso de broncodilatadores. Como consequencia, a doenca nao apresenta cura, mas sim manejo farmacologico, por mudancas de habito ou acesso a oxigenoterapia. O manejo farmacologico e principalmente feito pelos LAMA e SAMA, classes medicamentosas beta agonistas e antagonistas muscarinicos com repercussao na resposta broncodilatadora pulmonar.
+('start pos not found', 'dpoc')
+A DPOC e um grupo de doencas pulmonares que bloqueiam o fluxo de ar e dificultam a respiracao. A bronquite e uma das DPOC mais conhecida. A doenca e cronica, podendo durar a vida inteira. O tabagismo e o fator de risco mais relevante. O tratamento se da por medicamentos e tambem por reabilitacao pulmonar. A fisiopatologia se caracteriza por inflamacoes constantes que diminuem a elasticidade
+('start pos not found', 'dpoc')
+A DPOC e um grupo de doencas pulmonares que bloqueiam o fluxo de ar e dificultam a respiracao. A bronquite e uma das DPOC mais conhecida. A doenca e cronica, podendo durar a vida inteira. O tabagismo e o fator de risco mais relevante. O tratamento se da por medicamentos e tambem por reabilitacao pulmonar. A fisiopatologia se caracteriza por inflamacoes constantes que diminuem a elasticidade
+('start pos not found', 'dpoc')
+DPOC
+Fisiopatologia: remodelamento do parenquima pulmonar com possivel presenca de fibrose, producao aumentada de muco, aumento da pressao pulmonar, apos lesao cronica no tecido (por tabagismo, p.ex).
+Fatores de risco: Tabagismo.
+Quadro clinico: hipertensao pulmonar, dispneia aos esforcos, saturacao reduzida, sinais de "cor pulmonale", tosse cronica, com ou sem expectorcao, periodos de exacerbacao.
+Exames solicitados: ECG, espirometria que sugira doenca obstrutiva.
+Tratamento: uso de LABA diario, e corticoides inaltorios melhoram o quadro inicial.
+Prognostico: e uma condicao irrevesivel, com apenas controle dos sintomas.
+
+('start pos not found', 'dpoc')
+DPOC
+Fisiopatologia: remodelamento do parenquima pulmonar com possivel presenca de fibrose, producao aumentada de muco, aumento da pressao pulmonar, apos lesao cronica no tecido (por tabagismo, p.ex).
+Fatores de risco: Tabagismo.
+Quadro clinico: hipertensao pulmonar, dispneia aos esforcos, saturacao reduzida, sinais de "cor pulmonale", tosse cronica, com ou sem expectorcao, periodos de exacerbacao.
+Exames solicitados: ECG, espirometria que sugira doenca obstrutiva.
+Tratamento: uso de LABA diario, e corticoides inaltorios melhoram o quadro inicial.
+Prognostico: e uma condicao irrevesivel, com apenas controle dos sintomas.
+
+('start pos not found', 'dpoc')
+A DPOC e uma doenca prevalente em tabagistas, pois o ar quente destroi as celulas epitelias do pulmao, inflamando as celulas e fazendo com que fique edemaciado, isto e, com um aumento de liquidos intracelular. Esse aumento da espessura reduz a elasticidade do pulmao, dando o sinal clinico de torax em barril, alem disso, reduz a hemostasia, acarrentando em dispnea e aumento da frequencia respiratoria para compensar a possivel acidose respiratoria que pode gerar.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca prevalente em tabagistas, pois o ar quente destroi as celulas epitelias do pulmao, inflamando as celulas e fazendo com que fique edemaciado, isto e, com um aumento de liquidos intracelular. Esse aumento da espessura reduz a elasticidade do pulmao, dando o sinal clinico de torax em barril, alem disso, reduz a hemostasia, acarrentando em dispnea e aumento da frequencia respiratoria para compensar a possivel acidose respiratoria que pode gerar.
+('start pos not found', 'dpoc')
+Principal causador e o cigarro
+Pode ocorrer por deficiencia de alfa-1-antitripsina
+Nem todo fumante apresenta, apenas fumantes sucetiveis
+Tem dois espectros que geralmente sao concomitantes: enfisema e bronquite cronica
+Diagnostico so e feito com espirometria
+Espirometria tem que ter VEF1 &lt; 70%
+Pode ser realizado RM e RX porem nao sao diagnosticos
+No exame fisico apresenta diminuicao de MV, timpanismo a percussao, torax em barril, bulhas cardiacas podem estar diminuidas
+Ao raio X tem coracao "em gota", parenquima pulmonar mais escuro, EIC aumentados, retificacao do diafragma, alargamento do diametro anteroposterior do torax.
+
+('start pos not found', 'principal causador e o cigarro')
+DPOC e um grupo de&nbsp; doencas pulmonares que afetam a passagem de ar e dificultam a respiracao. Suas&nbsp; causas fundamentam-se nos fatores que danificam as vias aereas, como enfisema, bronquite cronica ou asma.&nbsp; Um grande fator de risco para o desenvolvimento de DPOC e o tabagismo.
+Seu tratamento e baseado em broncodilatadores, anti-inflamatorios, corticosteroides e oxigenoterapia.
+
+('start pos not found', 'dpoc')
+DPOC: e uma enfermidade respiratorio prevenivel e tratavel, que se caracteriza pela presenca de obstrucao cronica do fluxo aereo e progressiva e associada a inflamacao cronica anormal.
+('start pos not found', 'dpoc:')
+A DPOC e uma doenca em que a superficie pulmonar que realiza trocas respiratorias foi lesada por agentes externos, como tabagismo e asma , que remodelam as estruturas respiratorias. O paciente sente cada vez mais dispneia, cansaco (astenia) e necessita de aporte de oxigenio para conseguir realizar atividades basicas . O grau de dispneia e classificado pela escala MRC o qual ajuda na avaliacao da DPOC . O paciente com DPOC tambem esta sujeito a contrair infeccoes respiratorias de maior gravidade, portanto sao indicadas vacinacao com pneumococica 10 e 23. Alem de profilaxia com azitromicina.
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e uma condicao associada ao uso do cigarro, sendo muito comum em tabagistas ou ex-tabagistas. Pode ser dividida em enfisema pulmonar. E uma doenca que pode ter dois tipos de acometimento tipicos nos individuos um fica mais magro e outro ganha mais peso. E uma doenca que pode causar cianose nas extremidades, baqueteamento digital.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca comum em pacientes fumantes de longa data ou que tiveram muito contato com fogao a lenha. Mais prevalente em idosos. Em casos mais raros (deficiencia de alfa-1-antitripsina), pode acometer individuos mais jovens. A doenca pode ter predominio de quadro enfisematoso ou de bronquite cronica. Os sintomas mais comuns sao dispneia (que piora progressivamente), tosse produtiva, cianose e queda da saturacao. A espirometria confirma o diagnostico, geralmente mostrando obstrucao cronica que nao melhora com broncodilatador. Radiografia de torax evidencia hiperinsuflacao pulmonar, retificacao de arcos costais e alargamento dos espacos intercostais. Exacerbacoes de DPOC sao diagnosticadas na presenca de pelo menos 2 dos 3 seguintes fatores: piora da dispneia, piora da tosse e presenca de secrecao (catarro) esverdeada. A gravidade do quadro e a conduta a ser tomada sao baseados nos criterios GOLD.
+('start pos not found', 'dpoc')
+DPOC e uma doenca comum em pacientes fumantes de longa data ou que tiveram muito contato com fogao a lenha. Mais prevalente em idosos. Em casos mais raros (deficiencia de alfa-1-antitripsina), pode acometer individuos mais jovens. A doenca pode ter predominio de quadro enfisematoso ou de bronquite cronica. Os sintomas mais comuns sao dispneia (que piora progressivamente), tosse produtiva, cianose e queda da saturacao. A espirometria confirma o diagnostico, geralmente mostrando obstrucao cronica que nao melhora com broncodilatador. Radiografia de torax evidencia hiperinsuflacao pulmonar, retificacao de arcos costais e alargamento dos espacos intercostais. Exacerbacoes de DPOC sao diagnosticadas na presenca de pelo menos 2 dos 3 seguintes fatores: piora da dispneia, piora da tosse e presenca de secrecao (catarro) esverdeada. A gravidade do quadro e a conduta a ser tomada sao baseados nos criterios GOLD.
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) decorre de uma reducao do fluxo aereo das vias aereas inferiores, nao reversivel secundaria a um processo inflamatorio medidado por toxinas inalatorias, sobretudo componentes da fumaca do cigarro. E uma doenca bastante comum, porem previnivel e tratavel. Caracteriza-se por uma piora funcional e clinica progressiva associada a exacerbacoes agudas frequentes que podem culminar em falencia respiratoria. A destruicao do parenquima gera uma hiperinsuflacao pulmonar, com aprisionamento aereo, o que caracteriza o torax em tonel (achado ao exame fisico).
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC, TAMBEM CONHECIDO COM ENFISEMA PULMONAR
+
+CARATER OBSTRUTIVO - VAI DAR PRA VER PELA ESPIROMETRIA (VEF1/CVF VAI ESTAR REDUZIDO, VISTO QUE O AR ESTARA "RETIDO" DENTRO DOS ALVEOLOS - HIPERINSUFLACAO PULMONAR.
+PRINCIPAL FATOR DE RISCO = TABAGISMO (AUMENTA O RISCO MAIS QUANDO A CARGA TABAGICA &gt; 15-20 ANOS/MACO)
+COM A CRONICIDADE, VAI APRESENTAR UMA HIPERCAPNEMIA CRONICA FAZENDO COM QUE O CENTRO RESPIRATORIO RESPONDA NAO MAIS AO NIVEL DE OXIGENIO, MAS SIM AO DE GAS CARBONICO, POR ISSO E IMPORTANTE NA EMERGENCIA TOMAR CUIDADO PARA NAO QUERER AUMENTAR MUITO A SATURACAO PERIFERICA DE UM PACIENTE DPOCITICO.
+EXACERBACAO/DESCOMPENSACAO: PENSAR QUANDO HOUVER MUDANCA NO PADRAO DA TOSSE E DO ESCARRO, COM FEBRE, QUEDA DO ESTADO GERAL -- CONDUTA MEDICAMENTOSA: OXIGENIOTERAPIA, M
+CLASSIFICACAO DE GOLD
+
+
+('start pos not found', 'dpoc,')
+Alta relacao com tabagismo e carga tabagica.
+Doenca com tratamento cronico atraves do uso de bombas de corticoide inalatorio, geralmente, e classificacao atraves da intensidade de sintomas, exacerbacoes em 1 ano e capacidade para realizacao das atividades de vida diaria.
+Os sintomas de exacerbacao se caracterizam por sintomas respiratorios tais qual, tosse produtiva, febre, adinamia.
+O tratamento das complicacoes se do meio do uso de m
+
+('start pos not found', 'alta relacao com tabagismo e carga tabagica.')
+A DPOC e uma patologia caracterizada pela fibrose e perda de elasticidade pulmonar dificultando a eliminacao de ar na fase expiratoria. Seu desenvolvimento esta, na grande maioria das vezes ligado a altas cargas tabagicas. Seu diagnostico pode ser dado pela espirometria, com reducao da razao: volume espiratorio forcado em 1 segundo pela capacidade pulmonar. Sem melhora apos uso de broncodilatadores. Sua clinica pode ser exarcerbada diante de quadros infecciosos ou descompensacao de demais comorbidades e seu tratamento envolve medidas de suporte com o2 domiciliar (se necessario)
+('start pos not found', 'dpoc')
+DPOC e uma doenca que acomete os pulmoes, podendo estar associada ao tabagismo. Ao exame fisico pulmonar, e possivel suspeitar da doenca.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca principalmente relacionada ao tabagismo, sendo que mais de 90% dos casos devem-se ao ato de fumar. No restante dos casos, pode ocorrer por riscos ocupacionais ligados a exposicao a radonio ou outrosagentes quimicos, fogao a lenha, combustiveis fosseis etc. Na DPOC, ha comprometimento dos alveolos, que sofrem lesoes continuas por conta da exposicao a fumaca do cigarro. Tais lesoes levam ao remodelamento alveolar e isso compromete as trocas gasosas. O paciente tera dificuldades para respirar, saturacao baixa (por vezes, e necessario uso continuo de oxigenio), emagrecimento e em casos mais graves pode apresentar hipertensao pulmonar e acometimento sistemico. O tratamento e feito com Broncodilatadores (como o salbutamol) e nao e recomendado usar betabloqueadores. A asma deve ser um diagnostico diferencial. O paciente deve
+('start pos not found', 'dpoc')
+A DPOC e uma doenca principalmente relacionada ao tabagismo, sendo que mais de 90% dos casos devem-se ao ato de fumar. No restante dos casos, pode ocorrer por riscos ocupacionais ligados a exposicao a radonio ou outrosagentes quimicos, fogao a lenha, combustiveis fosseis etc. Na DPOC, ha comprometimento dos alveolos, que sofrem lesoes continuas por conta da exposicao a fumaca do cigarro. Tais lesoes levam ao remodelamento alveolar e isso compromete as trocas gasosas. O paciente tera dificuldades para respirar, saturacao baixa (por vezes, e necessario uso continuo de oxigenio), emagrecimento e em casos mais graves pode apresentar hipertensao pulmonar e acometimento sistemico. O tratamento e feito com Broncodilatadores (como o salbutamol) e nao e recomendado usar betabloqueadores. A asma deve ser um diagnostico diferencial. O paciente deve
+('start pos not found', 'dpoc')
+A Doenca Pulmonar Obstrutiva Cronica (DPOC) e uma condicao que ocorre, na maioria das vezes, como consequencia do tabagismo cronico. Ela se manifesta como uma destruicao progressiva e irreversivel do parenquima pulmonar, podendo se manifestar clinicamente como forma de enfisema ou de bronquite cronica.
+A DPOC se manifesta no exame espirometrico como um disturbio do tipo obstrutivo que nao melhora com a administracao de beta-bloqueadores.
+O diagnostico se da pela juncao de suspeita clinica, historia compativel e espirometria compativel.
+A DPOC nao possui cura, sendo o seu manejo terapeutico orientado para a prevencao de episodios de exacerbacao da doenca e melhora da qualidade de vida do paciente.
+O tratamento se da de acordo com o perfil do paciente e pode incluir o uso de oxigenio domiciliar, uso de corticoide inalatorio ou de agonistas muscarinicos.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A Doenca Pulmonar Obstrutiva Cronica (DPOC) e uma condicao que ocorre, na maioria das vezes, como consequencia do tabagismo cronico. Ela se manifesta como uma destruicao progressiva e irreversivel do parenquima pulmonar, podendo se manifestar clinicamente como forma de enfisema ou de bronquite cronica.
+A DPOC se manifesta no exame espirometrico como um disturbio do tipo obstrutivo que nao melhora com a administracao de beta-bloqueadores.
+O diagnostico se da pela juncao de suspeita clinica, historia compativel e espirometria compativel.
+A DPOC nao possui cura, sendo o seu manejo terapeutico orientado para a prevencao de episodios de exacerbacao da doenca e melhora da qualidade de vida do paciente.
+O tratamento se da de acordo com o perfil do paciente e pode incluir o uso de oxigenio domiciliar, uso de corticoide inalatorio ou de agonistas muscarinicos.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A DPOC e mais comum em tabagistas cronicos, cursando com torax em tonel, dispneia progressiva, MV reduzidos. Nao tem cura.
+('start pos not found', 'dpoc')
+DPOC e um quadro cronico pulmonar caracterizado por dano alveolar e bronquiolar por agentes toxicos especialmente tabagismo. O quadro e caracterizado por dispneia cronica e progressiva. O diagnostico e realizado atraves de espirometria, em que ha relacao VEF1/CVF de padrao obstrutitvo. A classificacao GOLD utiliza criterios espirometricos e a ABCD utiliza criterios de sintomatologia (como mMSC e CAT) e exacerbacoes, e a partir dela e possivel propor o tratamento adequado, que geralmente envolve beta-agonistas e anti-leucotrienos de acao longa. A doenca e complicada por exacerbacoes geralmente infecciosas, que podem levar a insuficiencia respiratoria aguda, e necessita de atendimento emerg
+('start pos not found', 'dpoc')
+Doenca Pulmonar Obstrutiva Cronica, chamada de DPOC, consiste no bloqueio do fluxo de ar pelos pulmoes, o que dificulta a respiracao do paciente.
+('start pos not found', 'doenca pulmonar obstrutiva cronica,')
+Doenca pulmonar obstrutiva cronica (DPOC) e uma doenca cronica inflamatoria caracterizada pela obstrucao das vias aereas pulmonares.
+Pacientes tabagistas tem risco aumentado de desenvolver essa comorbidade.
+A DPOC pode ser diagnosticada pelo exame de espirometria, em que o volume expiratorio forcado se encontra abaixo de 70%.
+Pacientes com DPOC podem apresentar a doenca em graus leve, moderado e grave, cada qual com o tratamento adequado: LAMA, GABA, etc
+Pacientes com DPOC grave costumam apresentar frequentes exacerbacoes da doenca, o que e
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca que acomete o parenquima pulmonar, esta associada com o tabagismo, seu diagnostico e confirmado por espirometria, sua classificacao clinica leva em conta os sintomas e exacerbacoes. Seu tratamento e feito com oxigenioterapia, beta agonistas e ate mesmo com anti-inflamatorios
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e um quadro comum em tabagistas com repercussoes importantes, principalmente relacionadas ao status funcional do doente e as complicacoes (ex. pneumonias atipicas). E uma doenca ventilatoria de padrao obstrutivo cujo diagnostico final e espirometrico (DVO sem resposta ao broncodilatador), porem podemos observar estigmas no exame clinico (dispneia, torax em tonel, baqueteamento digital, etc). Devemos mensurar o grau de dispneia pela escala mMRC e estimar o performance status do paciente. O unico tratamento que de fato reduz mortalidade e o O2 suplementar, porem sua indicacao e criteriosa e, quando feita, este deve ser utilizado durante pelo menos 18 horas diarias em quantidade adequada (a ser determinada para cada paciente). Outros farmacos que podem ser utilizados incluem os antimuscarinicos de longa acao (ex. Ipratropio), antagonistas-beta de longa duracao (ex. Formoterol) e outros menos comuns (ex. Azitromicina). A principal descompensacao e a pneumonia, e devemos pensar em micro-organismos atipicos quando tratamos de pacientes com DPOC.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A doenca pulmonar obstrutiva cronica (DPOC) e um quadro comum em tabagistas com repercussoes importantes, principalmente relacionadas ao status funcional do doente e as complicacoes (ex. pneumonias atipicas). E uma doenca ventilatoria de padrao obstrutivo cujo diagnostico final e espirometrico (DVO sem resposta ao broncodilatador), porem podemos observar estigmas no exame clinico (dispneia, torax em tonel, baqueteamento digital, etc). Devemos mensurar o grau de dispneia pela escala mMRC e estimar o performance status do paciente. O unico tratamento que de fato reduz mortalidade e o O2 suplementar, porem sua indicacao e criteriosa e, quando feita, este deve ser utilizado durante pelo menos 18 horas diarias em quantidade adequada (a ser determinada para cada paciente). Outros farmacos que podem ser utilizados incluem os antimuscarinicos de longa acao (ex. Ipratropio), antagonistas-beta de longa duracao (ex. Formoterol) e outros menos comuns (ex. Azitromicina). A principal descompensacao e a pneumonia, e devemos pensar em micro-organismos atipicos quando tratamos de pacientes com DPOC.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca inflamatoria cronica do pulmao, evidenciado pela clinica e confirmado pela espirometria. A espirometria tem um carater obstrutivo e em teste com broncodilatador, nao costuma apresentar mudanca.
+O paciente se apresenta com torax em tonel e face pletorico.
+Ao exame de imagem pode observar retificacao dos arcos costais e do diafragma, mostrando-se o aprisinamento aereo.
+Pode-se classificar o DPOC pelo Gold que conforme o grau de comprometimento, sera utilizado LABA ou SABA, ou associacao de medicamentos para o controle da doenca.
+
+('start pos not found', 'dpoc')
+A DPOC possui dois padroes principais que podem estar associados: bronquite e enfisema. O principal fator de risco e o tabagismo, sendo carga-tabagica dependente. Para o diagnostico, observa-se a clinica do paciente (tipicamente de meia idade ou idoso), com perda de capacidade para realizar atividades fisicas (dispneia), tosse cronica etc. O RX de torax pode mostrar hiperinsuflacao. O diagnostico e complementado pela espirometria, que mostrara padrao obstrutivo, sem reversibilidade com uso de broncodilatador. Tratamento cronico envolve uso de broncodilatadores, sendo guiado pela classificacao do paciente: A, B, C ou D. Tratamento de exacerbacao: antibiotico, BD, corticoide e O2
+('start pos not found', 'dpoc')
+DPOC e uma condicao sindromica que engloba as seguintes condicoes clinicas: Enfisema pulmonar e Bronquite cronica, sendo as duas condicoes distintas mas com caracteristicas em comum que sao a deterioracao pulmonar progressiva, com perda progressiva da funcao e da capacidade pulmonar.
+Enfisema pulmonar esta associado principalmente ao tabagismo.
+Ha criterios de gravidade da DPOC como: saturacao de oxigenio, caracteristica da tosse, coloracao da secrecao, caracteristica da dispneia.
+Um exame complementar importante para melhor compreensao da patologia e a espirometria, exame que analisa a funcionalidade pulmonar. Na DPOC o exame aponta para um padrao restritivo permanente importante.
+E uma condicao clinica cronica no qual o tratamento se baseia sobretudo no manejo de sintomas.
+
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica esta relacionada a exposicao ao tabagismo, principalmente, levando a hipersecrecao em vias aereas e hiperreatividade. Cursa com dispneia, tosse e queda saturacao de O2. E definida pela espirometria (VEF1/CVF&gt;0,7). Pode ser classificada de acordo com a espirometria (valores de VEF1) e numero de crises e internacoes - classificacao Gold. Em exames de raio x, apresenta expansao pulmonar, retificacao da cupula diafragmatica. Em exacerbacoes, cursa, principalmente, com tosse produtiva e dispneia.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+Pacientes tabagistas ou com exposicao prolongada a fumaca apresentam maior possibilidade de desenvolver DPOC. Uma doenca de carater cronico, evolui ao longo do tempo piorando as queixas, entao, do paciente ate os minimos esforcos.
+Paciente chega com queixas de dispneia, aumentando aos esforcos, e necessario realizar espirometria com broncodilatador para diagnostico.
+
+('start pos not found', 'pacientes tabagistas ou com exposicao prolongada a fumaca')
+DPOC e uma doenca obstrutiva pulmonar. seu principal fator de risco e o tabagismo. cursa com sintomas como dispneia, infeccoes do trato respiratorio, tosse. seu diagnostico e feito pela clinica e tambem pela espirometria que mostra um padrao obstrutivo que nao reverte com usp de broncodilatadored (como ocorre na asma). Por vezes, no Rx pode-se observar hipertransparencua pulmonar, com retificacao das cupulas diafragmaticas. O tratamento consiste em suspensao do tabagismo,&nbsp; uso de sintomaticos (broncodilatadores, corticoides, atb), vacinacao e ate mesmo uso de o2 domiciliar.
+pode ser classificado e, diversas classes utilizando-se o GOLD, mmrc e cat
+
+('start pos not found', 'dpoc')
+Limitacao do fluxo de ar por obstrucao das vias aereas inferiores
+Relacao direta com fumaca do cigarro que gera reacao inflamatoria que culmina no estreitamento e obstrucao das vias respiratorias
+Pode evoluir de bronquite cronica para enfisema pulmonar
+E uma importante causa de mortes no Brasil principalmente acima dos 40 anos
+maior esforco respiratorio
+dispneia
+
+('start pos not found', 'limitacao do fluxo de ar por obstrucao das vias aereas inferiores')
+DPOC e um condicao medica que obstrui as vias aereas, tem como principal achado avancado o enfisema. o tabagismo e o principal fator de risco para essa condicao. os principais sintomas sao: dispneia, tosse produtiva e encurtamento da respiracao. e importante atentar-se a descompensacao do DPOC, podendo estra associada a uma pneumonia obtida na comunidade. o tratamento habitualmente e feito com uso de sintomaticos para alivio dos sintomas, habitualmente usa-se broncodilatadores ou anticolinergicos.
+('start pos not found', 'dpoc')
+DPOC TEM COMO CAUSA PRINCIPAL O TABAGISMO
+MARCADO POR ENFISEMA PULMONAR E BRONQUITE CRONICA
+A TRIADE DA EXACERBACAO DO DPOC SAO: AUMENTO DE SECRECAO, PURULENCIA DA MESMA, E FALTA DE AR.
+TEM QUE AVALIAR SINAIS DE INSUFICIENCIA RESPIRATORIA
+EM CASO DE EXACERBACAO, TRATAR COM SAMA, SABA, LAMA, LABA + ATB + SUPORTE VENTILATORIO ( CASO NECESSARIO)
+ORIENTAR CESSAR TABAGISMO
+
+('start pos not found', 'dpoc')
+Poe ser causada pelo habito de fumar
+Paredes dos alveolos se ornam enrijecidas
+Pulmao tem sua capaciade de se expandir prejudicada, atrapalhando a respiracao
+Pode haver acumulo de muco nas vias aereas
+
+('start pos not found', 'poe ser causada pelo habito de fumar')
+A DPOC e uma doenca pulmonar associada principalmente ao tabagismo. O paciente apresenta-se com um quadro de tosse cronica e dipneia progressiva que inicia-se aos grandes esforcos e evolui para grandes e esforcos e ate mesmo no repouso. Clinicamente pode ser percebido um torax em barril denotando um quadro de hiperinsulflacao pulmonar e baqueteamente digital por hipoxia cronica. O diagnostico pode ser feito por meio da clinica e espirometria que evidenciara um disturbio obstrutivo sem resposta ao broncodilatador. O pilar do tratamento sintomatico sao os broncodilatadores (LABA/LAMA), alem do trata,ento redutor de mortalidade com a cessacao do tabagismo, vacinacao e fisioterapia respitaroria.
+('start pos not found', 'dpoc')
+DPOC mais presente em individuos tabagistas ou pessoas com exposicao a poluicoes aereas (tipo fuligem).&nbsp; Mais comuns: enfisema e bronquite. Refere falta de ar, dispneia aos esforcos, tosse, taquipneia, ruidos pulmonares, edemas. Aumenta chance de desenvolvimento de outras doencas pulmonares como infeccoes (pneumonia). Tratamento por broncodilatadores. Realizar espirometria e raio x (com area de transparencia aumentada, aumento dos espacos inntercostais)
+('start pos not found', 'dpoc')
+A DPOC apresenta-se como umas das maiores causas de mortalidade no Brasil. E caracterizada pela limitacao do fluxo aereo de forma irreversivel. A limitacao e progressiva e normalmente apresenta carater inflamatorio. A limitacao compromete a troca gasosa resultando em sinais clinicos caracteristicos da doenca como: tosse, escarros, dificuldade respiratoria, chiados e dificuldade para a pratica de atividades fisicas. O tabagismo e o principal fator de risco para a DPOC.&nbsp;
+('start pos not found', 'dpoc')
+A DPOC apresenta-se como umas das maiores causas de mortalidade no Brasil. E caracterizada pela limitacao do fluxo aereo de forma irreversivel. A limitacao e progressiva e normalmente apresenta carater inflamatorio. A limitacao compromete a troca gasosa resultando em sinais clinicos caracteristicos da doenca como: tosse, escarros, dificuldade respiratoria, chiados e dificuldade para a pratica de atividades fisicas. O tabagismo e o principal fator de risco para a DPOC.&nbsp;
+('start pos not found', 'dpoc')
+A DPOC e uma doenca cronica caracterizada por perda da elasticidade dos alveolos e aumento em seu tamanho devido a repetidos traumas causados, sobretudo, pelo tabagismo (mas tambem temos casos como pessoas que trabalham em fogao a lenha).
+De fatores de risco temos: exposicao de longa data a tabaco, usuarios de fogao a lenha
+Nossa suspeita vem com paciente com dispneia aos esforcos que nao melhora com uso de broncodilatadores, alem de torax em tonel, sem muitos outros comemorativos que justificassem tais causas, alem de possiveis exacebacoes - usamos classificacao de GOLD. Diagnosticamos por meio de espirometria com curva restritiva que nao apresenta melhora ao uso do broncodilatador.
+Nosso tratamento sera focado no manejo dos sintomas e diminuicao das crises co
+
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica e um termo que se refere a um grupo de doencas pulmonares que bloqueiam o fluxo de ar e dificultam a respiracao. Essas doencas causam lesoes irreversiveis. Exemplo: enfisema e bronquite
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+O DPOC e uma doenca com um componente efisematoso e bronquiolitico, causada por tabagismo e exposicao a fumaca, como a de fogao a lenha. Essa doenca se manufesta com tosse cronica, dispneia porgressiva. Exames complementares que podem ser uteis sao expirometria, semaumento de FEV1 resposta a broncodilatador. Raio-x toraz em barril…. O tratamento consiste em broncoditadore laba e lama e sessacao d
+('start pos not found', 'dpoc')
+DPOC e uma doenca na qual ha perda da elasticidade pulmonar. Assim, temos que a expiracao fica prejudicada, com o aprisionamento de ar no pulmao. Por conta disso, no exame fisico podemo observar o torax em tonel.
+O paciente com DPOC nao tem o controle do centro respiratorio pelo CO2, ja que o ar fica aprisionado, assim o controle passa a ser pelo O2. Logo, temos que prestar atencar na hora de fazer uma suplementacao de O2 neste paciente, para nao inibirmos sua frequencia respiratoria pela alta oferta de O2.
+A epidemioloogia e de pacientes fumantes - com carga tabagica elevada.
+Estes pacientes podem apresentar sinais de hipoxemia e baixa saturacao de O2.
+Temos o fremito diminuido.
+
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e uma condicao em que ocorre obstrucao das vias aereas e provoca dificuldades respiratorias no individuo afetado.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+Doenca pulmonar obstrutiva cronica e uma doenca muito comum de padrao obstrutivo na espirometria. Ocorre devido a obstrucao na passagem de ar, devido ao estreitamento e remodelamento das vias aereas por agentes lesionantes, como cigarro.
+E importante lembrar que o paciente com DPOC tem uma retencao cronica de CO2 e, portanto, nao devem ser usado cateter de oxigenacao se, em uma exacerbacao, for necessario uso de oxigenioterapia.
+O diagnostico e feito com espirometria e faz-se necessario educacao em saude para que fatores de risco e de exacerbacao ocorram, como o caso do tabagismo.
+A doenca nao tem cura, porem pode ser evitada a exacerbacao com o uso de broncodilatadores.
+Sinais de alarme devem ser alertados ao paciente e e importante pensar em infeccoes associadas, como pneumonia.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+DPOC normalmente ocorre em pacientes tabagistas de longa data ou que tiveram inalacao de compostos quimicos durante a vida. O pulmao apresenta obstrucao de bronquiolos, com dilatacao de alveolos e aprisionamento de ar. Com isso, ocorre aumento de espaco morto, sem boa perfusao pulmonar. Ocorre entao um maior aprisionamento de CO2, desregulando o centro respiratorio. Que nao e mais sensibilizado pelo CO2.
+O paciente pode apresentar descompensacao devido a qualquer quadro inflamatorio associado, necessitando de O2 em baixas doses caso apresente dispneia e dessaturacao acima do habitual porque o paciente pode acumular CO2, evoluindo com hipercapnia e depressao respiratoria. pode fazer uso de antibioticoterapia e
+
+('start pos not found', 'dpoc')
+A DPOC e um disturbio pulmonar do tipo obstrutivo. Para desenvolver a doenca o paciente geralmente exposicao ao cigarro ou a outro tipo de fumaca de forma cronica (como fogao a lenha ou lamparinas). A espirometria e utilizada para confirmacao do carater obstrutivo do disturbio apresentado pelo paciente.
+A clinica do paciente engloba sintomas respiratorios de tosse, dispneia e quadros de exarcebacao desses sintomas, que geralmente sao desencadeados por uma infeccao. O paciente atendido na emergencia com uma exarcebacao deve receber antibioticoterapia, oxigenio (saturacao alvo entre 88-92%), broncodilatador e corticoide. Os pacientes sao classificados segundo sua clinica, considerando os sintomas diarios e
+
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica (DPOC) trata-se de uma doenca em que ha destruicao de tecido pulmonar, diminuicao de area de troca gasosa, aumento do volume dos alveolos, o que leva o paciente a uma menor capacidade inspiratoria, menor reserva funcional, menor capacidade expiratoria, em decorrencia de menor complacencia pulmonar. Isso ocorre por conta de perda de tecido pulmonar, que e elastico por natureza. O individuo com DPOC e hiper-secretivo, podendo apresentar quadros de DPOC exacerbada, necessitando de tratamento com antibioticoterapia para pneumonia, podendo apresentar escarro amarelo-esverdeado, pletora facial, cianose de extremidades, dentre outros.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+Doenca pulmonar obstrutiva cronica (DPOC) e uma doenca altamente relacionada ao tabagismo. Pacientes sao diagnosticados para DPOC com base na historia clinica e ao realizarem espirometria, um exame que vai indicar o perfil obstrutivo e descartar a possibilidade de asma (outra doenca pulmonar com sintomatologia proxima). Pacientes que possuem DPOC podem ter secrecao de base e sao sinais de risco que indicam uma possivel complicacao o aumento de volume e mudanca de coloracao da secrecao, presenca de dispneia e. O tratamento pode incluir corticosteroides.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca pulmonar obstrutiva que cursa com dificuldade do esvaziamento pulmonar.
+Nos exames de imagem e marcada por enfisema
+Comum em tabagistas com alta carga-tabagica e em pessoas mais idosas
+Sintomas: dispneia aos diferentes tipos de esforcos, tosse, cansaco.
+Exacerbacao por fatores como infeccao (pneumonia), exposicao a poluentes, entre outros.
+O diagnostico usa exames de imagem e espirometria para avaliar funcao pulmonar e estadiamento pelo criterio Gold
+O tratamento inclui broncodilatadores inalatorios
+
+
+('start pos not found', 'dpoc')
+DPOC consiste em um espectro de doencas que inclui bronquite cronica (estreitamento das vias aereas e paralisacao da atividade dos cilios) e o enfisema pulmonar (danos irreversiveis aos alveolos). O tabagismo e responsavel pela grande maioria dos casos, podendo tambem ser causado por exposicao a elementos irritantes das vias aereas, como poeira e poluicao.
+Em relacao a clinica, pe uma doenca incidiosa. O primeiro sintoma costuma ser dispneia aos medios esforcos, passando a se intensificar com o tempo e se associar a tosse produtiva e encurtamento da respiracao.
+Diagnostico: exame fisico e historia (principalmente de tabagismo importante), alem de espirometria se necessario.
+Tratamento: cessar tabagismo, drogas broncodilatadores, oxigenioterapia.
+
+('start pos not found', 'dpoc')
+A Doenca Pulmonar Obstrutiva Cronica (DPOC) e uma doenca pulmonar caracterizada por um estado pro-inflamatorio constante associada a remodelacao da arvore respiratoria, comumente associada a exposicao a queima de biomassa, tabagismo e menos comumente a deficiencia de alfa-1-antritipsina.
+Apresentando o quadro clinico de dispneia e expectoracao, associada a outros sinais e sintomas clinicos.
+Diagnostico e realizado com a associacao do exame clinico associado a analise da espirometria, sendo importante para o diagnostico diferencial com asma.
+O tratamento consiste na suspensao do fator agressor e uso broncodilatadores de longa duracao conforme a capacidade funcional avaliada pelo mmRC e pelo numero de internacao com descompensacoes, associada a corticoesteroides conforme a situacao, alem disso podemos indicar oxigenioterapia domicilia
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e um doenca pulmonar de carater obstrutivo que podem ter dois mecanismos fisiopatologicos. Enfisematoso e broquite cronica obstrutiva. O diagnostico e realizado por meio da espirometria com padrao obstrutivo, indice de tiffeneau &lt;0,7 sem resposta ao uso de broncodilatador. A doenca esta muito relacionada com o tabagismo e sua clinica e de tosse cronica, dispneia e expectorocao.
+E uma doenca com elevada morbimortalidade e que apresenta como tratamento com diminuicao da mortalidade a cessacao do tabagismo e o o2 domiciliar quando indicado.
+
+('start pos not found', 'dpoc')
+DPOC doenca de caracter obestrutiva, alta morbidade, irreversivel, progressiva, com sintomaticos domiciliares com broncodilatadores de longa acao. avaliacao de necessidade de oxigenioterapia doiciliar para retentores cronicos de co2 e hipoxeicos. classificados com gold valor de vef1, exacerbacao e dispneia.
+('start pos not found', 'dpoc')
+DPOC e um disturbio ventilatorio obstrutivo de evolucao cronica, muito associado ao tabagismo.
+Para diagnostico e estadiamento, e necessaria espirometria, que mostrara relacao VEF1/CVF&lt;0,7, e reducao de VEF1, sem resposta ao broncodilatador.
+O estadiamento se baseia no grau de reducao de VEF1, e na presenca de sintomas/exacerbacoes, indo de 1 a 4 e de A a D pelo GOLD.
+A sao pacientes com mmRC&lt;2, com ate 1 exacerbacao por ano que nao precisa de internacao.
+B sao dispneicos nao exacerbadores
+C sao exacerbadores nao dispneicos
+D sao dispneicos e exacerbadores
+O manejo do DPOC envolve cessacao do tabagismo, e uso de broncodilatadores (LAMA e LABA). Tambem se recomenda oxigenoterapia se SpO2&lt;92% em ar ambiente.
+Nas exacerbacoes, e importante o suporte ventilatorio e uso de corticoides sistemicos, e antibioticoterapia.
+Pode haver inicio precoce da doenca entre portadores de deficiencia de alfa1-antitripsina.
+O tratamento final e transplante de pou
+
+('start pos not found', 'dpoc')
+A DPOC corresponde a uma importante causa de morbimortalidade no mundo, devendo os estudantes da area da saude terem um conhecimento basico. Tem como etiologia basica fatores ambientais, a exemplo do tabagismo intenso, o qual compromete o parenquima pulmonar e dificulta as trocas gasosas. Como consequencia, o paciente apresenta dispneia e maior susceptibilidade a infeccoes, devendo restringir os fatores de risco, proteger-se de infeccoes e procurar uma vida mais saudavel.
+('start pos not found', 'dpoc')
+A DPOC corresponde a uma importante causa de morbimortalidade no mundo, devendo os estudantes da area da saude terem um conhecimento basico. Tem como etiologia basica fatores ambientais, a exemplo do tabagismo intenso, o qual compromete o parenquima pulmonar e dificulta as trocas gasosas. Como consequencia, o paciente apresenta dispneia e maior susceptibilidade a infeccoes, devendo restringir os fatores de risco, proteger-se de infeccoes e procurar uma vida mais saudavel.
+('start pos not found', 'dpoc')
+Doenca Pulmonar Obstrutiva Cronica (DPOC) e uma doenca caracterizada pela dificuldade no processo respiratorio. Pode ocorrer, por exemplo, por deficiencia dos alveolos em realizar a troca gasosa, o que dificulta a oxigenacao dos tecidos e, consequentemente, gera intensa fadiga nos pacientes que a possuem.&nbsp; Ela pode ser desenvolvida devido aos habitos de vida, como o tabagismo, ou pelo trabalho realizado por um individuo, como trabalhar com insetiidas e venenos durante longos periodos sem o uso de EPIs. Essa doenca pode fazer com que a pessoa necessite usar oxigenio durante o resto da vida para poder respirar com qualidade, sendo que, durante o sono e atividades fisicas, o fluxo de oxigenio tem que ser maior para suprir as necessidades do organismo. Logo, existe falta de ar aos pequenos esforcos.
+A DPOC pode ser caracterizada pela cianose da pele, sobretudo nas extremidades do corpo, como a palma das maos. Isso ocorre porque, como o organismo nao recebe sangue oxigenado o suficiente, a pele tende a ter uma coloracao mais arroxeada caracteristica desse quadro. Isso, nas extremidades, e mais acentuado, pois sao regioes que normalmente ja recebem menos sangue oxigenado.
+O acumulo de CO2 pode causar torax em
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DPOC e uma doenca caracterizada por sintomas persistentes de tosse cronica, expectoracao e dispneia, e limitacao ao fluxo de ar, devido alteracoes nas vias aereas causadas por gases nocivos ou exposicoes significativas a particulas toxicas. O tabagismo e um fator de risco muito importante para esta doenca. O diagnostico pode ser feito pelo exame de espirometria, com e sem o uso de broncodilatadores. Esta doenca esta bastante relacionada a incidencia de neoplasia pulmonar. O tratamento consiste em cessar o tabagismo (caso o paciente seja tabagista), alem de reabilitacao pulmonar e vacinacao para microrganismos especificos. Na DPOC, pode ser necessario o uso de oxigenio cronicamente, e quando esta doenca descompensa, pode cursar com pneumonia associada.
+('start pos not found', 'dpoc')
+DPOC e uma doenca caracterizada por sintomas persistentes de tosse cronica, expectoracao e dispneia, e limitacao ao fluxo de ar, devido alteracoes nas vias aereas causadas por gases nocivos ou exposicoes significativas a particulas toxicas. O tabagismo e um fator de risco muito importante para esta doenca. O diagnostico pode ser feito pelo exame de espirometria, com e sem o uso de broncodilatadores. Esta doenca esta bastante relacionada a incidencia de neoplasia pulmonar. O tratamento consiste em cessar o tabagismo (caso o paciente seja tabagista), alem de reabilitacao pulmonar e vacinacao para microrganismos especificos. Na DPOC, pode ser necessario o uso de oxigenio cronicamente, e quando esta doenca descompensa, pode cursar com pneumonia associada.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca de carater obstrutivo, causada em pacientes com exposicao a fumaca (tabaco, fogao de lenha). Ela e uma doenca de vias aereas, na qual ocorre sua inflamacao progressiva e remodelamento. A partir deste remodelamento, ha alteracoes no fluxo de ar, especialmente no ar expirado, promovendo alteracoes como torax em tonel, retificacao dos arcos costais e retencao de ar nos pulmoes. Pode ser classificada a depender da sintomatologia e da quantidade de exacerbacoes ocorridas no ano anterior (ja que pacientes com DPOC tem maior tendencia a desenvolver exacerbacoes, como pneumonias, por exemplo). A partir da classificacao do paciente segundo os criterios de GOLD em A, B, C e D (A - assintomatico e sem exacerbacoes; B - sintomatico e sem exacerbacoes; C - assintomatico e com exacerbacoes; D - sintomatico e com exacerbacoes), determinaremos o curso de tratamento. Pacientes classificados em A deverao fazer uso de broncodilatadores. Em B, de LABA ou LAMA. Em C, de LAMA. Em D, de LABA + LAMA, podendo ser associados corticoides inalatorios a depender da eosinofilia. E importante realizar tambem estimulos a cessacao da exposicao (como a cessacao ao tabagismo, se for o caso). Alem disso, orientar o paciente quanto ao uso correto dos dispositivos inalatorios em toda a consulta, alem de checar sua tecnica atual. Podemos realizar tecnicas de fisioterapia respiratoria para diminuir as consequencias associadas a doenca. Em alguns casos, para conforto do paciente, pode ser necessaria a oxigenoterapia. E uma doenca que nao tem cura
+('start pos not found', 'dpoc')
+A DPOC e uma doenca comum em paciente tabagista. Se caracteriza por um quadro de dispneia associada a tosse cronica. Podemos diagnosticar a partir da espirometria e ela vai se mostrar uma doenca obstrutiva. O tratamento envolve cessar tabagismo alem de broncodilatadores e tiotropios. Se for usado terapia de O2 domiciliar e importante nao execer a dose. A maior descompensacao da DPOC e a pneumonia viral, quando bacteriana o agente mais comum e o Haemophilus influenzar.
+('start pos not found', 'dpoc')
+A DPOC e uma doenca comum em paciente tabagista. Se caracteriza por um quadro de dispneia associada a tosse cronica. Podemos diagnosticar a partir da espirometria e ela vai se mostrar uma doenca obstrutiva. O tratamento envolve cessar tabagismo alem de broncodilatadores e tiotropios. Se for usado terapia de O2 domiciliar e importante nao execer a dose. A maior descompensacao da DPOC e a pneumonia viral, quando bacteriana o agente mais comum e o Haemophilus influenzar.
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica e mais comum em individuos com historia importante de tabagismo. No exame fisico podemos encontrar torax em tonel (no qual&nbsp; ha aumento do diametro anteroposterior do torax). Essess individuos com DPOC sao retentores cronicos, eles possuem niveis elevados cronicamente de CO2 no sangue o que faz com que o estimulo respiratorio dependa apenas da quantidade de O2 inspirado, de modo que nao podemos oferecer a estes doentes um fluxo de O2 a 100%.
+Sao doentes cronicos que ja estao adaptados a uma condicao de hipoxia, logo a saturacao desses individuos e menor do que aquelas encontradas em individuos saudaveis mas isso nao necessariamente traz grandes repercussoes clinicas.
+Esses individuos em geral nao toleram bem esforcos.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+DPOC e uma doenca respiratoria, que atinge geralmente adultos para idosos.
+E causada por uma destruicao continua do tecido pulmonar, geralmente por tabagismo, mas tambem por inalacao de fumacas (forno a lenha). Alem de muita fibrose, o pulmao fica cheio de enfisemas, e ate atelectasias, o que diminui a superficie saudavel para troca gasosa.
+QD: Dispneia, Tossem expectoracao necessidade de oxigenioterapia para manter saturacao, aumento do diametro antero-posterior do torax.
+Na espirometria e caracterizado como um disturbio obstrutivo.
+
+('start pos not found', 'dpoc')
+DPOC sao todas as doencas pulmonares que causam dificuldade na respiracao pelo bloqueio no fluxo de ar.
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e comum em pacientes com habitos de tabagismo pesado. Se trata de uma obstrucao irreversivel e cronica das vias aereas inferiores, com consequencias respiratorias e hemodinamicas. O diagnostico e atraves da espirometria e o tratamento e feito com uso de broncodilatadores.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+DOPC e doenca que tem como diagnostico a espirometria, com padrao obstrutivo, em que nao ha melhora dos padroes com uso de broncodilatores. Com reducao da capacidade vital, aumento do espaco mr Associa-se a carga tabagica importante.
+Em relacao a clinica, ha dispneia, tosse seca cronica, ruidos adventicios a ausculta, hipertimpanico a percussao, com baixa saturacao.
+Tem como tratamento o uso de beta agonista inalatorios, ate mesmo uso de O2 cronico, sem cura ate o momento, sendo um tratamento sintomatico e suportivo.
+Alguns pacientes com baixa saturacao, devem ser oxigenados com parametros e mascaras especificas, como mascara de Venturi, mantendo FiO2 menor, uma vez que o paciente apresenta um espaco morto ja ampliado, com acumulo de ar no pulmao (enfisema).
+
+('start pos not found', 'dopc')
+Sigla: DPOC.
+Existem dois tipos: azul e rosa. Azul tem caracteristicas alergicas bronquicas, apresentando cianose central, IMC elevado, insuficiencia respiratoria, edema generalizado, individuo com torax brevelineo. Rosa tem dificuldade respiratoria e uso dos musculos acessorios para respirar, apresentando hipoxemia, cianose periferica, altos niveis de hemoglobina circulante, individuo emagrecido, individuo com torax longelineo.
+A analise e feita pela espirometria, avaliando o agravo da doenca.
+Tratamento: fisioterapia respiratoria.
+
+('start pos not found', 'dpoc.')
+A DPOC tem como principal fator de risco o tabagismo, principalmente quando ha tempo de exposicao e carga tabagica altos. A doenca possui dois padroes de apresentacao clinica, o padrao enfisematoso e o padrao de bronquite cronica, mas todo paciente com DPOC apresenta uma mescla dos dois padroes. O padrao enfisematoso esta mais associado com um emagrecimento e presenca de cianose, enquanto o padrao de bronquite esta mais associado com tosse seca e eritema. O diagnostico pode ser feito clinicamente e atraves de exames de imagem.
+('start pos not found', 'dpoc')
+A DPOC tem como principal fator de risco o tabagismo, principalmente quando ha tempo de exposicao e carga tabagica altos. A doenca possui dois padroes de apresentacao clinica, o padrao enfisematoso e o padrao de bronquite cronica, mas todo paciente com DPOC apresenta uma mescla dos dois padroes. O padrao enfisematoso esta mais associado com um emagrecimento e presenca de cianose, enquanto o padrao de bronquite esta mais associado com tosse seca e eritema. O diagnostico pode ser feito clinicamente e atraves de exames de imagem.
+('start pos not found', 'dpoc')
+A DPOC geralmente ocorre em pacientes tabagistas de longo prazo, levando ao enfisema pulmonar, caracterizado pela destruicao do tecido alveolar, o que confere aspecto enegrecido ao RX de torax do paciente portador da condicao. Alem disso, a DPOC pode tambem ser detectada pelo formato globoso do torax que o paciente pode apresentar, seguido de percussao hipersonora, MV diminuido ou abolido, ausculta da voz diminuida e FTV igualmente diminuido, isso por conta da falta de material solido para transmissao da onda mecanica.
+('start pos not found', 'dpoc')
+A DPOC geralmente ocorre em pacientes tabagistas de longo prazo, levando ao enfisema pulmonar, caracterizado pela destruicao do tecido alveolar, o que confere aspecto enegrecido ao RX de torax do paciente portador da condicao. Alem disso, a DPOC pode tambem ser detectada pelo formato globoso do torax que o paciente pode apresentar, seguido de percussao hipersonora, MV diminuido ou abolido, ausculta da voz diminuida e FTV igualmente diminuido, isso por conta da falta de material solido para transmissao da onda mecanica.
+('start pos not found', 'dpoc')
+A doenca pulmonar obstrutiva cronica (DPOC) e bem caracterizado em pacientes com habitos de tabagismo pesado.
+Tipicamente o paciente vai se apresentar dispneico, com dificuldade para realizar algumas atividades diarias, torax em barril.
+Na escuta pulmonar podemos perceber uma hipofonese dos murmurios vesiculares, justamente devido a destruicao dos alveolos pulmonares.
+E importante salientar que o paciente DPOC nao deve receber saturacao maxima de oxigenio caso venha a dessaturar, visto que seu mecanismo de compensacao respiratoria e diferente. Ele necessita de certa dessaturacao para que haja as trocas pulmonares.
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+Paciente com DPOC, devo lembrar os fatores de risco e que a prevencao e melhor do que o manejo da doenca, que nao apresenta cura apenas controle, mas mesmo assim apresenta uma serie de complicacoes e declinio da qualidade de vida.
+O diagnostico se da por uma historia clinica compativel, associado a uma espirometria com padroes obstrutivos (VEF1/CVF &lt; 0,7 ou menor que o predito) com pouca resposta ao uso de BD. Alem do diagnostico, a espirometria me permite a classificacao do paciente, em leve, moderado, grave e muito grave, de acordo com o valor de VEF1 encontrado pos-BD.
+Para manejo do paciente devo classifica-lo de acordo com o seu grau de sintomas (principalmente dispneia, pela escala de mMR) e pelos periodos de agudizacao/internacao, posso classifica-lo em A,B,D e C. A decisao terapeutica envolve a diminuicao das exacerbacoes, mas as unicas medidas que aumentam a sobrevida e a cessacao do fator causal (tabagismo) e a oxigenoterapia, a terapia medicamentosa (LABA, LAMA, CI e macrolideos) aumentam a qualidade de vida do paciente, nos pacientes GOLD A, posso usar um LABA ou LAMA, ja nos classe B devo associar um LABA + LAMA, ja nos
+
+('start pos not found', 'dpoc,')
+Paciente com DPOC, devo lembrar os fatores de risco e que a prevencao e melhor do que o manejo da doenca, que nao apresenta cura apenas controle, mas mesmo assim apresenta uma serie de complicacoes e declinio da qualidade de vida.
+O diagnostico se da por uma historia clinica compativel, associado a uma espirometria com padroes obstrutivos (VEF1/CVF &lt; 0,7 ou menor que o predito) com pouca resposta ao uso de BD. Alem do diagnostico, a espirometria me permite a classificacao do paciente, em leve, moderado, grave e muito grave, de acordo com o valor de VEF1 encontrado pos-BD.
+Para manejo do paciente devo classifica-lo de acordo com o seu grau de sintomas (principalmente dispneia, pela escala de mMR) e pelos periodos de agudizacao/internacao, posso classifica-lo em A,B,D e C. A decisao terapeutica envolve a diminuicao das exacerbacoes, mas as unicas medidas que aumentam a sobrevida e a cessacao do fator causal (tabagismo) e a oxigenoterapia, a terapia medicamentosa (LABA, LAMA, CI e macrolideos) aumentam a qualidade de vida do paciente, nos pacientes GOLD A, posso usar um LABA ou LAMA, ja nos classe B devo associar um LABA + LAMA, ja nos
+
+('start pos not found', 'dpoc,')
+DPOC e um quadro patologico caracterizado pelo deficit de ar, que pode ser causado por obstrucao das vias aereas em resposta a inflamacao, que podem ser causadas, por exemplo, pela inalacao de substancias toxicas do cigarro.
+Os sintomas mais comuns sao: tosse produtiva, dispneia, sibilos e secrecao no trato respiratorio.
+O tratamento e feito principalmente com broncodilatadores, anti-inflamatorios e corticoides.
+
+('start pos not found', 'dpoc')
+A DPOC e comum em pacientes tabagistas de longa data e consiste em um grupo de doencas, dentre elas o enfisema pulmonar, caracterizadas pela perda progressiva da elasticidade do tecido pulmonar, causando dificuldade da passagem do ar na expiracao e retencao de ar nos alveolos. Esse processo gera uma hiperinsuflacao pulmonar, que pode ser identificada no raio-X pela retificacao dos espacos intercostais, aumento da presenca de ar nos pulmoes e diminuicao da trama vascular. O paciente pode apresentar hipoxemia cronica, que pode ser evidenciada por alguns sinais no exame fisico, dentre eles o baqueteamento digital. Alem disso, a DPOC pode aprensentar descompensacao em algumas situacoes, como na vigencia de infeccoes subjacentes. O diagnostico de DPOC e feito por meio da espirometria.
+('start pos not found', 'dpoc')
+A DPOC e comum em pacientes tabagistas de longa data e consiste em um grupo de doencas, dentre elas o enfisema pulmonar, caracterizadas pela perda progressiva da elasticidade do tecido pulmonar, causando dificuldade da passagem do ar na expiracao e retencao de ar nos alveolos. Esse processo gera uma hiperinsuflacao pulmonar, que pode ser identificada no raio-X pela retificacao dos espacos intercostais, aumento da presenca de ar nos pulmoes e diminuicao da trama vascular. O paciente pode apresentar hipoxemia cronica, que pode ser evidenciada por alguns sinais no exame fisico, dentre eles o baqueteamento digital. Alem disso, a DPOC pode aprensentar descompensacao em algumas situacoes, como na vigencia de infeccoes subjacentes. O diagnostico de DPOC e feito por meio da espirometria.
+('start pos not found', 'dpoc')
+DPOC e uma doenca caracteristica de pacientes que apresentam carga tabagica elevada (&gt;20macos/ano). Clinicamente, o paciente se apresenta com tosse cronica e dispneia progressiva. O manejo terapeutico deve ser feito com uso de beta-agonistas e antocolinergicos, como o tiotropio. Caso o paciente tambem apresentar elevacao de eosinofilos, podemos associar uso de corticoide, com hipotese de haver sobreposicao com asma. O paciente apresenta relacao VEF1/CVF &lt; 70%
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica (DPOC) e uma condicao classicamente dividida em dois polos: o bronquitico e o enfisematoso (muito embora os paciente possam ter caracteristicas de ambos).
+No polo bronquitico, ha inflamacao, gerando producao de muco e reducao de luz bronquica. Isso faz com que o paciente apresente tosse.
+No polo enfisematoso, ha destruicao das traves alveolares, diminuindo a area disponivel para troca gasosa. Como consequencia, o paciente apresenta
+
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+A DPOC e uma doenca de instalacao cronica cujo principal fator de risco e o tabagismo. E composta por bronquite cronica e enfisema pulmonar, geralmente com spbreposicao clinica das condicoes. O paciente desenvolve hipoxemia cronica, alem de tosse, hiperinsulflacao pulmonar e alteracoes de exame fisico, como torax em tonel e roncos a ausculta, alem de possivelmente timpanimo a percussao, em caso de enfisema importante. E um fator de risco para complicacoes, como a pneumonia. O diagnostico e realizado pela espirometria, com reducao da CVF pulmonar, e sem alteracoes significativas apos uso de BD. Em casos avancados o paciente devera fazer uso de oxigenioterapia domiciliar.
+('start pos not found', 'dpoc')
+DPOC e um doenca que abrange bronquite e a enfisema, que tem como fisiopaologia o bloqueio do fluxo aereo pelas estruturas pulmonares. Como fatores de risco temos o tabagismo, exposicao a poluentes e outras. A DPOC caracteriza por sinais envolvendo a bronquite, que basicamente esta relacionada com uma inflamacao dod bronquios que tem uma producao excessiva de muco e aumento da camada mucosa bronqueolar, obstruindo o fluxo aereo. Enquanto a enfisema pe caracteristica pela reducao de complacencia do tecido pulmonar, que acaba por atrapalhar na expiracao de expulsao de CO2 que consequentemente diminui a capacidade de troca gasosa do doente.
+Entre as formas diagnosticas temos as suspeitas dentro do fatores de risco e quadro clinico, mas a maior ferramenta de diagnpostico de trata da quantificacao do volume de expiracao forcado.
+O tratamento se baseia na sintomatologia, onde pode-se fazer uso de corticoides e B-2 agonistas para broncodilatacao.
+
+('start pos not found', 'dpoc')
+DPOC e um doenca que abrange bronquite e a enfisema, que tem como fisiopaologia o bloqueio do fluxo aereo pelas estruturas pulmonares. Como fatores de risco temos o tabagismo, exposicao a poluentes e outras. A DPOC caracteriza por sinais envolvendo a bronquite, que basicamente esta relacionada com uma inflamacao dod bronquios que tem uma producao excessiva de muco e aumento da camada mucosa bronqueolar, obstruindo o fluxo aereo. Enquanto a enfisema pe caracteristica pela reducao de complacencia do tecido pulmonar, que acaba por atrapalhar na expiracao de expulsao de CO2 que consequentemente diminui a capacidade de troca gasosa do doente.
+Entre as formas diagnosticas temos as suspeitas dentro do fatores de risco e quadro clinico, mas a maior ferramenta de diagnpostico de trata da quantificacao do volume de expiracao forcado.
+O tratamento se baseia na sintomatologia, onde pode-se fazer uso de corticoides e B-2 agonistas para broncodilatacao.
+
+('start pos not found', 'dpoc')
+A DPOC costuma cursar com dispneia aos esforcos e tosse, sintomas esses que podem piorar, e se fazer presente em esforcos cada vez menores. O paciente com DPOC muitas vezes apresenta historico importante de tabagismo, mas, alem disso, o historico familiar pode se fazer presente. Ao falar de DPOC, podemos pensar em bronquite cronica e enfisema pulmonar. E fundamental a realizacao da espirometria. Para alivio de sintomas, pode-se pensar em broncodilatadores e, em casos graves, existe a necessidade de oxigenioterapia.
+('start pos not found', 'dpoc')
+Principal causa e o tabagismo. Ha destruicao alveolar. Pode haver presenca de tosse cronica (diferenciar da bronquite cronica). Presenca de Enfisema Pulmonar. Ha hipertimpanismo a percussao toracica (esperado seria som claro pulmonar). Muitas vezes, requer uso de oxigenioterapia suplementar. O volume expirado e inferior ao inspirado, ha aumento no volume residual. Exame complementar para diagnostico de DPOC pode ser pela espirometria e exame de imagem (RX torax).
+('start pos not found', 'principal causa e o tabagismo.')
+DPOC e uma doenca composta por um espectro entre enfisema pulmonar e cronquite cronica, de modo que os pacientes podem apresentar mais de um ou outro componente em seu quadro clinico
+O enfisema se deve a destruicao do parenquima pulmonar e fomracao de tecido fibrotico que limita o fluxo de ar e a expansibilidade dos pulmoes, causando principalmente dispneia
+A bronquite causa principalmente tosse produtiva e obstrucao das vias respiratorias inferiores
+Sua epidemiologia esta principalmente associada a tabagistas
+Sinais e sintomas: dispneia, tosse produtiva persistenta,, hipoxemia, sibilos,&nbsp;
+
+('start pos not found', 'dpoc')
+DPOC: tabagismo, idoso, homem, voz rouca de fumante.
+Remodelamento de bronquio e parenquima pulmonar por dano acumulado de tabaco, temperatura etc.
+2 tipos:
+enfisematoso (pink aceo, longilineo, vermelho por acumulo de hemoglobina. Auscuta aerada, murmurio aumentado, fremito aumentado
+bronquitico (blue ineo, azul, cianose por acumulo de carbanihemoglobina. Pouca hematose por pouca entrada de ar. Alteracao anatomica de bronquio, inflamacao, constricao. Tosse produtiva
+Tratamento: broncodilatadores, corticoides,  definitivo
+
+('start pos not found', 'dpoc:')
+A doenca pulmonar obstrutiva cronica (DPOC) e uma doenca pulmonar muito frequente na clinica medica, com importante morbimortalidade associada. O principal fator de risco associado e o tabagismo de longa data (Maior que 30 macos ano). Os principais sintomas sao dispneia, relativa ao grau de desenvolvimento da doenca, e sibilancia. O diagnostico e fundado na historia clinica e exames complementares como a espirometria, que mostra um disturbio obstrutivo sem resposta a vasodilatadores. A morbidade associada envolve maior frequencia e gravidade de infeccoes do trato respiratorio, piora da dispneia ao longo do tempo e hipertensao pulmonar. O tratamento e a interrupcao do tabagismo, visando evitar a progressao da doenca, e de suporte, como oxigenioterapia.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc)')
+Doencas que dificultam a respiracao, pois bloqueiam o fluxo de ar.
+('start pos not found', 'doencas que dificultam a respiracao,')
+DPOC e uma doenca que acomete em sua maioria pessoas tabagistas, leva a diversos sinais e sintomas claros da doenca como torax em formato de barril, maior dificuldade de expectoracao, diminuicao dos cilios e muco, o que faz com que haja maior risco de desenvolver infeccoes pulmonares como pneumonias por exemplo.
+Apresenta na ausculta pulmonar com diminuicao do murmurio vesicular, estertores e sibilos podem tambem aparecer. Pode haver tambem um abafamento das bulhas cardiacas por conta do formato do torax e da maior presenca de ar nos pulmoes que nao consegue escapar
+
+('start pos not found', 'dpoc')
+DPOC envolve duas patologias: Bronquite cronica e enfisema pulmonar. Muito relacionada com o tabagismo
+Causada pela obstrucao e dificuldade na saida do ar na expiracao forcada. Diagnosticada pela espirometria, com a manutencao do padrao apos uso de broncodilatador, sendo a fracao VEF1/CVF &lt; 0,7.
+Tratamento: uso de broncodilatadores de longa duracao. Parar de fumar.&nbsp;
+
+('start pos not found', 'dpoc')
+Diante de um quadro cronico de bronquite e/ou enfisema pulmonar desenvolve-se a Doenca Pulmonar Obstrutiva Cronica (DPOC). Nessa doenca, ocorre a fibrose das estruturas do parenquima pulmonar de tal forma que se estabelece um quadro de insuficiencia respiratoria no paciente, tendo em vista que a passagem de ar esta reduzida sendo somado a isso, a baixa complacencia pulmonar.
+('start pos not found', 'doenca pulmonar obstrutiva cronica (dpoc).')
+DPOC E UM DISTURBIO OBSTRUTIVO (VEF1/CVD &lt; 0,7 NA ESPIROMETRIA), NA MAIORIA DOS CASOS INTENSAMENTE LIGADO AO TABAGISMO CRONICO, QUE TEM SUA GENESE NA DESTRUICAO DA ELASTINA, FAZENDO O PULMAO PERDER SUA CAPACIDADE DE EXPANSAO. LOGO, O PACIENTE COM DPOC CONSEGUE INSPIRAR O AR COM FACILIDADE, MAS TEM DIFICULDADE NA EXPIRACAO. ISSO CULMINA EM TORAX EM TONEL A INSPECAO, HIPERTIMPANISMO A PERCUSSAO, MV DIMINUIDOS BILATERALMENTE A AUSCULTA, AUTO-PEEP E MAIOR PREDISPOSICAO A CA DE PULMAO E PNEUMONIAS.
+O ESTADIAMENTO E A PARTIR DO VEF1, EM LEVE, MODERADO, GRAVE E MUITO GRAVE (1,2,3,4) E NO GOLD (ABCD).
+A PARTIR DAI FAZEMOS O TRATAMENTO COM LABA E/OU LAMA CONFORME NECESSARIO.
+TRATAR EXACERBACOES
+
+('start pos not found', 'dpoc')
+Doenca que geralmente aocmete pacientes tabagistas de longa data (alta carga tabagica), idosos, sexo masculino, tambem pode estar associada ao tabagismo passivoe&nbsp; exposicao a biomassa, afetando a capacidade pulmonar e trocaas gasosas adequadas, culminando em retencao cronica de CO2 e baixa saturacao de O2. Tais pacientes estao masi sucetiveis a infeccoes pulmonaress associadas, gerando quadross de exacerbacao do DPOC, assim como maior sucetibilidade a dispneia e limitacao funcional para atividades diarias. Diagnostico e firmado atraves de padrao obstrutivo em espirometria + historico compativel, tratamento com medicacoes inalatorias diarias sao imporantes para controle sintomatico de doenca e prevencao de exacerbacoes.
+('start pos not found', 'doenca que geralmente aocmete pacientes tabagistas de longa data')
+DPOC
+E uma doenca que limita o fluxo de ar nos pulmoes (obstrutiva)
+Frequentemente relacionada ao tabagismo
+Sintomas frequentes sao: tosse produtiva, dispneia
+Pode apresentar niveis de saturacao de O2 mais baixos que o normal da populacao
+Ao RX visualizada com frequencia hiperinsuflacao pulmonar
+O diagnostico pode ser feito pela clinica, mas o definitivo e por teste de funcao pulmonar (espirometria)
+Muito cuidado, nao hiperoxigenar esses pacientes, pois sua funcao respiratoria e mais responsiva as concentracoes de CO2 que as de o2, poden
+
+('start pos not found', 'dpoc')
+Doenca pulmonar obstrutiva cronica decorre de acumulo de sangue no pulmao devido a acumulo de sangue no atrio esquerdo por defeito na valvula mitral. Isso leva a acumulo de sangue no ventriculo e atrio direito, com repercussao sistemica.
+('start pos not found', 'doenca pulmonar obstrutiva cronica')
+Na DPOC, o paciente tem dificuldade respiratoria pela dificuldade de passagem do ar, e irreversivel. A enfisema faz parte da DPOC e sua maior causa e o tabagismo.
+('start pos not found', 'dpoc')
+A DPOC pode causar dois estigmas principais o de enfisema e o de bronquite. Assim, limita a capacidade respirtatoria do paciente bem como sua regulacao da respiracao pelo centro respiratorio cerebral. De fato, o paciente com DPOC nao tem sua regulacao pela quantidade de O2, mas sim pela quantidade de CO2.
+('start pos not found', 'dpoc')
+DPOC e uma doenca cronica relacionada com obstrucao ao fluxo aereo que tem como principal fator de risco o tabagismo. Os principais sintomas da doenca sao tosse e dispneia progressiva, podendo apresentar ao exame fisico torax em tonel e expansibilidade reduzida. Ao exame complementar, no RX e possivel ver uma hiperinsuflacao. O diagnostico definitivo da-se atraves de espirometria e a sua gravidade da-se atraves dos criterios GOLD.&nbsp; O tratamento da doenca varia de acordo com a condicao clinica do doente, em relacao a dispneia e exacerbacoes da doenca, e visa amenizar os sintomas (tratamento farmacologico) e melhorar sobrevida (oxigenio).
+('start pos not found', 'dpoc')
+pacientes fumantes por um longo periodo e com muitos macos por ano podem desenvolver a DPOC
+o ar tem dificuldade de entrar ou sair por conta da secrecao ou pela perda da elasticidade (por causa de um enfisema por exemplo)
+ao exame fisico o pacinete pode apresentar sibilos, roncos ou crepitacoes ou diminuicao do murmurio vesicular na ausculta. O fremito pode estar aumentado e a percussao macica.
+
+('start pos not found', 'pacientes fumantes por um longo periodo e com muitos macos por ano podem desenvolver a dpoc')
+DPOC e uma condicao pulmonar obstrutiva nao reversivel, caracterizada por ausencia de resposta a espirometria com broncodilatacao. Acomete principalmente pessoas mais idosas.
+Geralmente apresenta um espectro de apresentacoes clinicas que variam do "pink puffer" ao "blue bloatter".
+Tem sua ocorrencia associada ao enfisema pulmonar e ao tabagismo.
+Possui como principais complicacoes associadas a sua descompensacao e a compressao mecanica de estruturas adjacentes.
+O tratamento e feito a base de broncodilatadores, corticoide e possivelmente antimuscarinicos segundo a classificacao GOLD e o grupo funcional da DPOC de acordo com os sintomas experimentados pelo paciente e a quantidade/severidade das agudizacoes no ultimo ano. Alem disso, a oxigenioterapia complementar, quando bem indicada, tem comprovacao cientifica para reducao de morbimortalidade devendo ser usada por cerca de 18 horas por dia de acordo com o hematocrito e a Pco2 individual.
+Ao Raio-x e possivel identificar retificacao de arcos costais e hiperinsuflacao pulmonar
+
+('start pos not found', 'dpoc')

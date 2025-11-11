@@ -1,0 +1,3 @@
+approach,Label Match Jaccard Weight,Label Match Jaccard Mean,Anotation Match Jaccard Weight,Anotation Match Jaccard Mean,Anotation Match Precision Weight,Anotation Match Precision Mean,Anotation Match Recall Weight,Anotation Match Recall Mean,Anotation Match F1 Weight,Anotation Match F1 Mean,Global score
+experiment,class_weight,class_mean,ann_weight,ann_mean,precision_weight,precision_mean,recall_weight,recall_mean,f1_weight,f1_mean,global_weight,global_mean
+fined_tuned_bert,0.19264108897034904,0.22900174392813175,0.7328571957233304,0.7576284385473361,0.8099043903901291,0.8284591281600161,0.8491392444955942,0.8513460468806318,0.8169686535960914,0.8284171605692084,0.1411784082438986,0.17349823367688735
